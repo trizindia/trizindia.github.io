@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Trends on TRIZ Innovation India</title>
-    <link>http://trizindia.github.io/categories/trends/index.xml</link>
+    <link>http://trizindia.org/categories/trends/index.xml</link>
     <description>Recent content in Trends on TRIZ Innovation India</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <atom:link href="http://trizindia.github.io/categories/trends/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://trizindia.org/categories/trends/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>What Drives Battery Evolution?</title>
-      <link>http://trizindia.github.io/2013/06/what-drives-battery-evolution/</link>
+      <link>http://trizindia.org/2013/06/what-drives-battery-evolution/</link>
       <pubDate>Thu, 20 Jun 2013 06:00:00 +0000</pubDate>
       
-      <guid>http://trizindia.github.io/2013/06/what-drives-battery-evolution/</guid>
+      <guid>http://trizindia.org/2013/06/what-drives-battery-evolution/</guid>
       <description>&lt;p&gt;Hi Innovators,&lt;/p&gt;
 
 &lt;p&gt;I was reading about battery as one of the key barriers for mobile technology evolution. The capacity of battery has increased only 2 times in last 10 years whereas processing speed has gone 12 folds up. Here is a graph I came across showing Battery evolution with time.&lt;/p&gt;
@@ -42,10 +42,10 @@
     
     <item>
       <title>EMC Trends 2013 TRIZ overlay</title>
-      <link>http://trizindia.github.io/2012/12/emc-trends-2013-triz-overlay/</link>
+      <link>http://trizindia.org/2012/12/emc-trends-2013-triz-overlay/</link>
       <pubDate>Thu, 13 Dec 2012 12:09:05 +0000</pubDate>
       
-      <guid>http://trizindia.github.io/2012/12/emc-trends-2013-triz-overlay/</guid>
+      <guid>http://trizindia.org/2012/12/emc-trends-2013-triz-overlay/</guid>
       <description>&lt;p&gt;As &lt;a href=&#34;http://reflectionsblog.emc.com/2012/11/predictions-of-top-technology-trends-for-2013.html&#34;&gt;eleven EMC executives offer their predictions of which technologies and trends will transform cloud computing, Big Data and IT security the most in 2013&lt;/a&gt;, my aim is to find the underlying triz trend and possibly push one more evolution round. I assume a time frame of 1 year, basis is &lt;a title=&#34;Permanent Link to 8 TRIZ evolution trends applied to&amp;#xA0;Mobile&#34; href=&#34;http://trizindia.wordpress.com/2012/10/01/8-triz-evolution-trends-applied-to-mobile/&#34; rel=&#34;bookmark&#34;&gt;8 TRIZ evolution trends applied to Mobile&lt;/a&gt;, applied on EMC executives predictions.&lt;/p&gt;
 
 &lt;table width=&#34;633&#34; border=&#34;1&#34; cellspacing=&#34;0&#34;&gt;
@@ -182,10 +182,10 @@
     
     <item>
       <title>Infinte Resources: A Drive for Evolution</title>
-      <link>http://trizindia.github.io/2012/11/infinte-resources-a-drive-for-evolution/</link>
+      <link>http://trizindia.org/2012/11/infinte-resources-a-drive-for-evolution/</link>
       <pubDate>Thu, 29 Nov 2012 14:30:00 +0000</pubDate>
       
-      <guid>http://trizindia.github.io/2012/11/infinte-resources-a-drive-for-evolution/</guid>
+      <guid>http://trizindia.org/2012/11/infinte-resources-a-drive-for-evolution/</guid>
       <description>&lt;p&gt;If Evolution is continous then resources must be infinite. Othewise Evolution should stop at some economic juncture.&lt;/p&gt;
 
 &lt;p&gt;Let&amp;#8217;s take an example using a simple economic analysis. Let&amp;#8217;s say If we are left with only 100 units of energy in universe. Making it simple , let&amp;#8217;s say 100 units of petrol. &lt;/p&gt;
@@ -224,10 +224,10 @@
     
     <item>
       <title>8 TRIZ evolution trends applied to Mobile</title>
-      <link>http://trizindia.github.io/2012/10/8-triz-evolution-trends-applied-to-mobile/</link>
+      <link>http://trizindia.org/2012/10/8-triz-evolution-trends-applied-to-mobile/</link>
       <pubDate>Wed, 03 Oct 2012 04:57:14 +0000</pubDate>
       
-      <guid>http://trizindia.github.io/2012/10/8-triz-evolution-trends-applied-to-mobile/</guid>
+      <guid>http://trizindia.org/2012/10/8-triz-evolution-trends-applied-to-mobile/</guid>
       <description>&lt;p&gt;Cross posting from &lt;a href=&#34;http://trizindia.wordpress.com/2012/10/01/8-triz-evolution-trends-applied-to-mobile/&#34;&gt;http://trizindia.wordpress.com/2012/10/01/8-triz-evolution-trends-applied-to-mobile/&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;This was a long pending post, originally to be delivered as a pod cast, but we never got around to doing it. The core idea was to take a commonly used system like a smart phone, apply the 8 evolution trends of TRIZ and exemplify them. For a brief introduction on the trends go &lt;a href=&#34;http://www.triz-journal.com/archives/2002/03/b/index.htm&#34;&gt;here&lt;/a&gt;, I would love to see other resources from the readers as well. I am not using any particular order as is normally used for explaining the trends.&lt;/p&gt;
