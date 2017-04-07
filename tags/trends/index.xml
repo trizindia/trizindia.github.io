@@ -2,18 +2,56 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Trends on TRIZ Innovation India</title>
-    <link>http://trizindia.github.io/tags/trends/index.xml</link>
+    <link>http://trizindia.org/tags/trends/index.xml</link>
     <description>Recent content in Trends on TRIZ Innovation India</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <atom:link href="http://trizindia.github.io/tags/trends/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://trizindia.org/tags/trends/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>ARIZ 85C algorithm application introduction</title>
+      <link>http://trizindia.org/2014/04/ariz-85c-algorithm-application-introduction/</link>
+      <pubDate>Sat, 05 Apr 2014 02:26:40 +0000</pubDate>
+      
+      <guid>http://trizindia.org/2014/04/ariz-85c-algorithm-application-introduction/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;I am a parent with 2 kids and I am finding it difficult to control the amount of non-school time they are spending on the internet and digital mobile games. This I am concerned with considering the effects of such engagement on the kids holistic development and well being (body, mind and social development). We (me and my friend Bala) are applying ARIZ 85 C core algorithm of TRIZ to find the right level of problem to attack and find not-so-obvious solutions, and subsequently identify system, and sub-systems to build.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;**If you are interested in being part of this solutioning exercise as a parent or as a kid who is interested in designing better engagements with technology or as a practitioner of systematic innovation methods and applying some of the concepts or as a developer interested in building solutions, you are welcome. **&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;There are 5 parts to the method set, which we will cover sequentially and share outputs of the methods here. Each of the method will have our inputs and application specific to the problem in hand. You may enter your responses/questions in comments.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;**Each post will have &amp;lt;&lt;Part 
+Number&gt;&amp;gt;&amp;lt;&lt;Step Identifier&gt;&amp;gt;&amp;lt;&lt;Brief 
+Title&gt;&amp;gt;&amp;lt;&lt;Type&gt;&amp;gt;. If you are already familiar with some
+ of the methods or need an overall flow of methods, you may download the free ARIZ85C guide sheet.
+**&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Part 0 Step 0.1 Determine final goal of the solution and initial situation&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;This is a questionnaire Step 0.1: determine the final goal of the solution&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;*What is the technical goal (what characteristic of the object must be changed)? *Reduction in the number of hours of screen time for a child (5-12 years old)&lt;/li&gt;
+&lt;li&gt;*What characteristic of the object cannot be obviously changed in the process of solving a problem? *Parents do not have control over the content the kid watches. This cannot be changed.&lt;/li&gt;
+&lt;li&gt;*Which expense will be reduced if the problem is solved?*Kids fatigue time&lt;/li&gt;
+&lt;li&gt;*What is the roughly acceptable expense?*10-20 hours of analysis time – Murali and Bala; 1 hour a day kids expense time&lt;/li&gt;
+&lt;li&gt;*What is the main technical / economical characteristic that must be improved? *Number of hours of screen time for a child (5-12 years old) / kids’ time available for social/creative engagements&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Essentially we are trying to avoid the blue ocean thinking, completely open strategy development in this step with clear identification of the technical goal, constraints, and if this effort is worthwhile considering the expenses and the improvement that may result. We also take care to identify metrics that are associated with each of them, from a system perspective. We are ok with emotional or unmeasurable things as long as it is clearly identified and is not ambiguous.&lt;/p&gt;
+
+&lt;p&gt;Next post to follow will be on **Part 0 Step 0.1 System Operator **&lt;/p&gt;
+
+&lt;p&gt;Reference – NIMHANS -www.nimhans.ac.in/clinical-psychology/clinics-ncwb, has an center by name &lt;a href=&#34;https://www.google.co.in/search?q=SHUT+nimhns&amp;amp;ie=utf-8&amp;amp;oe=utf-8&amp;amp;gws_rd=cr&amp;amp;ei=9KK_WPHOOcSNvQSiraHgAg#q=SHUT+nimhans&amp;amp;tbs=sbd:1,qdr:y&amp;amp;tbm=nws&amp;amp;*&#34;&gt;Services for Healthy Use of Technology (SHUT) &lt;/a&gt; This center is set up to help mental conditions created due to overuse of technology at the renowned Bangalore based National Institute of Mental Health and Neurosciences, sponsored by the Central Government.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Gazing into the Crystal Ball using TRIZ technology trends part 2</title>
-      <link>http://trizindia.github.io/2012/11/gazing-into-the-crystal-ball-using-triz-technology-trends-part-2/</link>
+      <link>http://trizindia.org/2012/11/gazing-into-the-crystal-ball-using-triz-technology-trends-part-2/</link>
       <pubDate>Thu, 08 Nov 2012 04:50:42 +0000</pubDate>
       
-      <guid>http://trizindia.github.io/2012/11/gazing-into-the-crystal-ball-using-triz-technology-trends-part-2/</guid>
+      <guid>http://trizindia.org/2012/11/gazing-into-the-crystal-ball-using-triz-technology-trends-part-2/</guid>
       <description>&lt;p&gt;[youtube &lt;a href=&#34;http://www.youtube.com/watch?v=ay8eSNrp9I4&amp;amp;w=560&amp;amp;h=315&#34;&gt;http://www.youtube.com/watch?v=ay8eSNrp9I4&amp;amp;w=560&amp;amp;h=315&lt;/a&gt;]&lt;/p&gt;
 
 &lt;p&gt;From our &lt;a href=&#34;http://trizindia.wordpress.com/2012/10/13/gazing-into-the-crystal-ball-using-triz-technology-trends-2/&#34;&gt;last podcast discussing a few trends from TRIZ&lt;/a&gt; portfolio system evolution, we are continuing this time with a few more trends and an evolution from podcast to video. Only thing we probably missed was using the full size Casio keyboard that was right next to us for some extra sound effects.&lt;/p&gt;
