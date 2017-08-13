@@ -2,11 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Inspiration on TRIZ Innovation India</title>
-    <link>http://trizindia.org/tags/inspiration/index.xml</link>
+    <link>http://trizindia.org/tags/inspiration/</link>
     <description>Recent content in Inspiration on TRIZ Innovation India</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <atom:link href="http://trizindia.org/tags/inspiration/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 25 Nov 2011 06:58:02 +0000</lastBuildDate>
+    
+	<atom:link href="http://trizindia.org/tags/inspiration/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>What in the world is TRIZ? Part 1</title>
@@ -14,14 +17,9 @@
       <pubDate>Fri, 25 Nov 2011 06:58:02 +0000</pubDate>
       
       <guid>http://trizindia.org/2011/11/what-in-the-world-is-triz-part-1-2/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;http://www.triz.co.uk/images/where_ideas_come_from...trizsmall.jpg&#34; alt=&#34;where_ideas_come_from...trizsmall.jpg&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;Image Courtesy: &lt;a href=&#34;http://triz.co.uk&#34;&gt;triz.co.uk&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;What is TRIZ? What does it take to start learning TRIZ and master the method? Listen to 3 people &amp;#8211; Dr. Ellen Domb, Prakasan Kappoth and Bala Ramadurai, talk about the basics of the method. &lt;a href=&#34;http://www.trizindia.org&#34;&gt;http://www.trizindia.org&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://www.archive.org/download/WhatInTheWorldIsTrizPart1/TRIZIndia-WhatintheworldisTRIZ-part1.mp3&#34;&gt;Listen to the podcast here&lt;/a&gt;&lt;/p&gt;
-</description>
+      <description>Image Courtesy: triz.co.uk
+What is TRIZ? What does it take to start learning TRIZ and master the method? Listen to 3 people &amp;#8211; Dr. Ellen Domb, Prakasan Kappoth and Bala Ramadurai, talk about the basics of the method. http://www.trizindia.org
+Listen to the podcast here</description>
     </item>
     
   </channel>

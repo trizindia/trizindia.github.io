@@ -2,11 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Conference on TRIZ Innovation India</title>
-    <link>http://trizindia.org/tags/conference/index.xml</link>
+    <link>http://trizindia.org/tags/conference/</link>
     <description>Recent content in Conference on TRIZ Innovation India</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <atom:link href="http://trizindia.org/tags/conference/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 21 Mar 2014 02:26:40 +0000</lastBuildDate>
+    
+	<atom:link href="http://trizindia.org/tags/conference/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>TrizTrends 2014</title>
@@ -14,20 +17,10 @@
       <pubDate>Fri, 21 Mar 2014 02:26:40 +0000</pubDate>
       
       <guid>http://trizindia.org/2014/03/triztrends-2014/</guid>
-      <description>&lt;p&gt;Set in the picturesque GE Bangalore campus had some interesting pick of speakers. Thanks to GE for being a great host.&lt;/p&gt;
-
-&lt;p&gt;Peter from Reliance was hyper selective with his picks with just the contradiction and principles as the approach and I liked what worked in teams from his experiments.&lt;/p&gt;
-
-&lt;p&gt;Of course he hit the mark with India being a country of contradictions.&lt;/p&gt;
-
-&lt;p&gt;Sergei shared some interesting roi numbers and gave clear idea of Triz evolution. I liked the test done with 3 contradiction matrix, as long as ideas solved problems all is well. Most popular techniques was cool. Looks like I have made my choices always popular.&lt;/p&gt;
-
-&lt;p&gt;Interesting non technical examples resolving contradictions from art, politics, nature and religion from Sergei and Alex.&lt;/p&gt;
-
-&lt;p&gt;Debjani spoke about Triz being applied in IP field. Shankar spoke about his forever fresh innovation flow.&lt;/p&gt;
-
-&lt;p&gt;We also relaunched our site in front of Triz masters and some very innovative people. Alex&amp;#8217;s definition of disruptive as creating access to new resources was spot on.&lt;/p&gt;
-</description>
+      <description>Set in the picturesque GE Bangalore campus had some interesting pick of speakers. Thanks to GE for being a great host.
+Peter from Reliance was hyper selective with his picks with just the contradiction and principles as the approach and I liked what worked in teams from his experiments.
+Of course he hit the mark with India being a country of contradictions.
+Sergei shared some interesting roi numbers and gave clear idea of Triz evolution.</description>
     </item>
     
   </channel>

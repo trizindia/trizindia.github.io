@@ -2,11 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Trends on TRIZ Innovation India</title>
-    <link>http://trizindia.org/categories/trends/index.xml</link>
+    <link>http://trizindia.org/categories/trends/</link>
     <description>Recent content in Trends on TRIZ Innovation India</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <atom:link href="http://trizindia.org/categories/trends/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 20 Jun 2013 06:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://trizindia.org/categories/trends/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>What Drives Battery Evolution?</title>
@@ -14,30 +17,9 @@
       <pubDate>Thu, 20 Jun 2013 06:00:00 +0000</pubDate>
       
       <guid>http://trizindia.org/2013/06/what-drives-battery-evolution/</guid>
-      <description>&lt;p&gt;Hi Innovators,&lt;/p&gt;
-
-&lt;p&gt;I was reading about battery as one of the key barriers for mobile technology evolution. The capacity of battery has increased only 2 times in last 10 years whereas processing speed has gone 12 folds up. Here is a graph I came across showing Battery evolution with time.&lt;/p&gt;
-
-&lt;p&gt;          I am just wondering, what is actually changing over time. Does it follow the TRIZ laws of technology evolution? At least two major trends I know&lt;/p&gt;
-
-&lt;ol&gt;
-&lt;li&gt;&lt;p&gt;&lt;strong&gt;Increasing Contrability and Dynamics&lt;/strong&gt;&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;strong&gt;Moving from MACRO to micro (Field changes from Mechanical &amp;#8211;&amp;gt;Thermal &amp;#8211;&amp;gt;Pneumatic /Hydraulic&amp;#8211;&amp;gt;Chemical &amp;#8211;&amp;gt; Electrical&amp;#8211;&amp;gt; Electromagnetic) &lt;/strong&gt;&lt;/p&gt;&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;Apparently I am not able to link the battery trend with evolution priciples. Your views will help to bring more insights.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;blogs/1-BatteryEvolution.jpg&#34; target=&#34;_self&#34;&gt;&lt;img class=&#34;align-full&#34; src=&#34;blogs/2-BatteryEvolution.jpg&#34; width=&#34;498&#34; height=&#34;390&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Source : &lt;a href=&#34;http://www.greenelectric.com.my/index.php?option=com_content&amp;amp;view=article&amp;amp;id=66&amp;amp;Itemid=93&#34;&gt;http://www.greenelectric.com.my/index.php?option=com_content&amp;amp;view=article&amp;amp;id=66&amp;amp;Itemid=93&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt; &lt;/p&gt;
-
-&lt;p&gt; &lt;/p&gt;
-
-&lt;p&gt; &lt;/p&gt;
-</description>
+      <description>Hi Innovators,
+I was reading about battery as one of the key barriers for mobile technology evolution. The capacity of battery has increased only 2 times in last 10 years whereas processing speed has gone 12 folds up. Here is a graph I came across showing Battery evolution with time.
+ I am just wondering, what is actually changing over time. Does it follow the TRIZ laws of technology evolution? At least two major trends I know</description>
     </item>
     
     <item>
@@ -46,138 +28,8 @@
       <pubDate>Thu, 13 Dec 2012 12:09:05 +0000</pubDate>
       
       <guid>http://trizindia.org/2012/12/emc-trends-2013-triz-overlay/</guid>
-      <description>&lt;p&gt;As &lt;a href=&#34;http://reflectionsblog.emc.com/2012/11/predictions-of-top-technology-trends-for-2013.html&#34;&gt;eleven EMC executives offer their predictions of which technologies and trends will transform cloud computing, Big Data and IT security the most in 2013&lt;/a&gt;, my aim is to find the underlying triz trend and possibly push one more evolution round. I assume a time frame of 1 year, basis is &lt;a title=&#34;Permanent Link to 8 TRIZ evolution trends applied to&amp;#xA0;Mobile&#34; href=&#34;http://trizindia.wordpress.com/2012/10/01/8-triz-evolution-trends-applied-to-mobile/&#34; rel=&#34;bookmark&#34;&gt;8 TRIZ evolution trends applied to Mobile&lt;/a&gt;, applied on EMC executives predictions.&lt;/p&gt;
-
-&lt;table width=&#34;633&#34; border=&#34;1&#34; cellspacing=&#34;0&#34;&gt;
-  &lt;tr&gt;
-    &lt;td width=&#34;253&#34;&gt;
-      &lt;p align=&#34;center&#34;&gt;
-        &lt;span class=&#34;font-size-1&#34;&gt;&lt;b&gt;Prediction quote (emphasis and few links are mine)&lt;/b&gt;&lt;/span&gt;
-      &lt;/p&gt;
-    &lt;/td&gt;
-    
-    &lt;td width=&#34;386&#34;&gt;
-      &lt;p align=&#34;center&#34;&gt;
-        &lt;span class=&#34;font-size-1&#34;&gt;&lt;b&gt;My warped explanation of the underlying TRIZ trend&lt;/b&gt;&lt;/span&gt;
-      &lt;/p&gt;
-    &lt;/td&gt;
-    
-    &lt;td width=&#34;288&#34;&gt;
-      &lt;p align=&#34;center&#34;&gt;
-        &lt;span class=&#34;font-size-1&#34;&gt;&lt;b&gt;What can happen next on this trend&lt;/b&gt;&lt;/span&gt;
-      &lt;/p&gt;
-    &lt;/td&gt;
-  &lt;/tr&gt;
-  
-  &lt;tr&gt;
-    &lt;td width=&#34;253&#34;&gt;
-      &lt;p align=&#34;center&#34;&gt;
-        &lt;span class=&#34;font-size-1&#34;&gt;&lt;i&gt;an &lt;a title=&#34;Intelligence-driven security model&#34; href=&#34;http://www.rsa.com/innovation/docs/CISO-RPT-0112.pdf&#34; target=&#34;_blank&#34;&gt;intelligence-driven security model&lt;/a&gt;…will require multiple components including:  a thorough understanding of &lt;b&gt;risk&lt;/b&gt;, the use of &lt;b&gt;agile controls&lt;/b&gt; based on pattern recognition and predictive analytics, and the use of big data analytics to give context to&lt;b&gt; vast streams of data from numerous sources&lt;/b&gt; to produce timely, &lt;b&gt;actionable information&lt;/b&gt;&lt;/i&gt;&lt;/span&gt;
-      &lt;/p&gt;
-    &lt;/td&gt;
-    
-    &lt;td width=&#34;386&#34;&gt;
-      &lt;p align=&#34;center&#34;&gt;
-        &lt;span class=&#34;font-size-1&#34;&gt;&lt;b&gt;Law of completeness&lt;/b&gt; exemplified with the ENGINE understood as risks and risk related information originating across the board with a TRANSMISSION visualized as streams of information flowing to WORKING UNIT where actions are initiated from the information to contain risks and its effects and having some CONTROL on the above elements including analytics&lt;/span&gt;
-      &lt;/p&gt;
-      
-      &lt;p align=&#34;center&#34;&gt;
-        &lt;span class=&#34;font-size-1&#34;&gt;&lt;b&gt;Law of uneven development&lt;/b&gt; on above will mean the 4 elements will evolve in different speeds.&lt;/span&gt;
-      &lt;/p&gt;
-    &lt;/td&gt;
-    
-    &lt;td width=&#34;288&#34;&gt;
-      &lt;p align=&#34;center&#34;&gt;
-        &lt;span class=&#34;font-size-1&#34;&gt;Within the same time frame, I feel the engine element will evolve the slowest with not many newer risk categories getting added but we may have to deal with geometrically higher number of information streams, with big data analytics playing a super system role. Governance at working unit level will go through changes as well with many tasks getting automated.&lt;/span&gt;
-      &lt;/p&gt;
-    &lt;/td&gt;
-  &lt;/tr&gt;
-  
-  &lt;tr&gt;
-    &lt;td width=&#34;253&#34;&gt;
-      &lt;p align=&#34;center&#34;&gt;
-        &lt;span class=&#34;font-size-1&#34;&gt;&lt;i&gt;For CIOs, the common theme is “now.” Rapid time to value is the leading driver. In many cases today, the &lt;a href=&#34;http://www.informationweek.com/global-cio/interviews/it-has-changed-but-it-budgets-havent/240009244&#34;&gt;business unit holds the money and determines the priorities&lt;/a&gt;, but they don’t care much about platforms, just the best solution for a specific problem…movement to cloud solutions is only &lt;b&gt;going to escalate&lt;/b&gt;&lt;/i&gt;&lt;/span&gt;
-      &lt;/p&gt;
-    &lt;/td&gt;
-    
-    &lt;td width=&#34;386&#34;&gt;
-      &lt;p align=&#34;center&#34;&gt;
-        &lt;span class=&#34;font-size-1&#34;&gt;&lt;b&gt;Transition to Micro Level&lt;/b&gt; will mean that instead of a single cloud solution at enterprise level, each department or project will begin its own adoption independently. Budgeting and allocation as always and the experiments and trials of solutions, both in size and time will shift to micro level. i.e. smaller projects with shorter time cycles to try. You can check the free trial offers from HP, Google, AWS, vmWare to see how micro this has actually become already.&lt;/span&gt;
-      &lt;/p&gt;
-      
-      &lt;p align=&#34;center&#34;&gt;
-        &lt;span class=&#34;font-size-1&#34;&gt;Adoption rates will most likely be at the beginning of the sharp rise in the S curve (with X axis linear time, Y axis cumulative % of adoption of a cloud solution).&lt;/span&gt;
-      &lt;/p&gt;
-    &lt;/td&gt;
-    
-    &lt;td width=&#34;288&#34;&gt;
-      &lt;p align=&#34;center&#34;&gt;
-        &lt;span class=&#34;font-size-1&#34;&gt;IT will begin its delayed policy making role later in the year with governance as the central goal after many micro-level cloud solutions get adopted in the enterprise.  Possibly negotiate with popular choice vendors for supporting internal laggard/late adopter needs.&lt;/span&gt;
-      &lt;/p&gt;
-    &lt;/td&gt;
-  &lt;/tr&gt;
-  
-  &lt;tr&gt;
-    &lt;td width=&#34;253&#34;&gt;
-      &lt;p align=&#34;center&#34;&gt;
-        &lt;span class=&#34;font-size-1&#34;&gt;&lt;i&gt;The transformation to hybrid cloud environments, and the need to move data between corporate IT data centers and service providers, will accelerate. The concepts of both data and application mobility to enable organizations to move their virtual applications will become the norm.&lt;/i&gt;&lt;/span&gt;
-      &lt;/p&gt;
-      
-      &lt;p align=&#34;center&#34;&gt;
-        &lt;span class=&#34;font-size-1&#34;&gt;&lt;i&gt;Already the roles and responsibilities of the different channel entities are blurring. &lt;b&gt;SIs are becoming resellers; resellers are becoming service providers; and even end users are becoming service providers&lt;/b&gt;. Over the next three years, it is probable that the traditional mix of end-user, channel, alliance and service organizations will change, merge or disappear.&lt;/i&gt;&lt;/span&gt;
-      &lt;/p&gt;
-      
-      &lt;p align=&#34;center&#34;&gt;
-        &lt;/td&gt; 
-        
-        &lt;td width=&#34;386&#34;&gt;
-          &lt;p align=&#34;center&#34;&gt;
-            &lt;span class=&#34;font-size-1&#34;&gt;&lt;b&gt;Transition to Super system&lt;/b&gt; will mean aggregation and unification of the entire service procurement including licensing, integration, migration, channel management etc&lt;/span&gt;
-          &lt;/p&gt;
-        &lt;/td&gt;
-        
-        &lt;td width=&#34;288&#34;&gt;
-          &lt;p align=&#34;center&#34;&gt;
-            &lt;span class=&#34;font-size-1&#34;&gt;More sub systems and services of the past will move to the super system and will be on the path to become ubiquitous.Most partner ecosystems these days already include license offers, marketing support, education support and account management for partners. Examples could be &lt;a href=&#34;http://www.google.co.in/enterprise/gep/overview.html&#34;&gt;Google&lt;/a&gt;, &lt;a href=&#34;http://www.vmware.com/partners/programs/&#34;&gt;VMware&lt;/a&gt; partner programs&lt;/span&gt;
-          &lt;/p&gt;
-        &lt;/td&gt;&lt;/tr&gt; 
-        
-        &lt;tr&gt;
-          &lt;td width=&#34;253&#34;&gt;
-            &lt;p align=&#34;center&#34;&gt;
-              &lt;span class=&#34;font-size-1&#34;&gt;&lt;i&gt;The &lt;a href=&#34;http://ibmdatamag.com/2012/10/true-hadoop-standards-are-essential-for-sustaining-industry-momentum-part-1/&#34;&gt;emergence of the Hadoop data ecosystem&lt;/a&gt; has made cost-effective storage and processing of petabytes of data a reality.  Innovative organizations are leveraging these technologies to create an entire new class of real-time data-driven applications&lt;/i&gt;&lt;/span&gt;
-            &lt;/p&gt;
-            
-            &lt;p align=&#34;center&#34;&gt;
-              &lt;span class=&#34;font-size-1&#34;&gt;&lt;i&gt;IT will continue to see abstractions with more intelligence in the data center moving to a software control plane that uses Web-based technologies to access compute, networking, and storage resources as a whole (e.g. software-defined data center). Cloud model tenets like efficiency and agility will expand to include simplicity as data centers look for &lt;b&gt;easier ways to consume technology.&lt;/b&gt;&lt;/i&gt;&lt;/span&gt;
-            &lt;/p&gt;
-          &lt;/td&gt;
-          
-          &lt;td width=&#34;386&#34;&gt;
-            &lt;p align=&#34;center&#34;&gt;
-              &lt;span class=&#34;font-size-1&#34;&gt;&lt;b&gt;Law of Conduction &lt;/b&gt;will mean emergence of standards for data and application portability this year.  &lt;a href=&#34;http://gigaom.com/cloud/why-the-days-are-numbered-for-hadoop-as-we-know-it/&#34;&gt;de-facto standard is my expectation&lt;/a&gt; and &lt;a href=&#34;http://www.computerweekly.com/news/2240164009/EC-sets-out-strategy-for-EU-cloud-data-and-standards&#34;&gt;de-jure standards especially from EU region is also possible&lt;/a&gt; as governments can step in to decide and declare norms from the “jungle of standards”&lt;/span&gt;
-            &lt;/p&gt;
-            
-            &lt;p align=&#34;center&#34;&gt;
-              &lt;span class=&#34;font-size-1&#34;&gt;&lt;b&gt;Law of Harmonization&lt;/b&gt; will necessitate smooth transitions at application and portfolio level and will mean newer services especially in migration and testing to make sure business continuity.&lt;/span&gt;
-            &lt;/p&gt;
-          &lt;/td&gt;
-          
-          &lt;td width=&#34;288&#34;&gt;
-            &lt;p align=&#34;center&#34;&gt;
-              &lt;span class=&#34;font-size-1&#34;&gt;Simplicity, agility, portability testing, or &lt;&lt;other cloud tenet&gt;&gt; services may emerge&lt;/span&gt; as key sellers from offshore.
-            &lt;/p&gt;
-          &lt;/td&gt;
-        &lt;/tr&gt;&lt;/tbody&gt; &lt;/table&gt; 
-        
-
-&lt;pre&gt;&lt;code&gt;    &amp;lt;div id=&amp;quot;jp-post-flair&amp;quot; class=&amp;quot;sharedaddy sd-rating-enabled sd-like-enabled sd-sharing-enabled&amp;quot;&amp;gt;
-      &amp;lt;div class=&amp;quot;sd-block sd-rating&amp;quot;&amp;gt;
-        Cross posting from &amp;lt;a href=&amp;quot;http://cognitivenoise.wordpress.com/2012/12/11/emc-trends-2013-triz-overlay/&amp;quot;&amp;gt;http://cognitivenoise.wordpress.com/2012/12/11/emc-trends-2013-triz-overlay/&amp;lt;/a&amp;gt; 
-      &amp;lt;/div&amp;gt;
-    &amp;lt;/div&amp;gt;
-&lt;/code&gt;&lt;/pre&gt;
-</description>
+      <description>As eleven EMC executives offer their predictions of which technologies and trends will transform cloud computing, Big Data and IT security the most in 2013, my aim is to find the underlying triz trend and possibly push one more evolution round. I assume a time frame of 1 year, basis is 8 TRIZ evolution trends applied to Mobile, applied on EMC executives predictions.
+ Prediction quote (emphasis and few links are mine)  My warped explanation of the underlying TRIZ trend  What can happen next on this trend    an intelligence-driven security model…will require multiple components including: a thorough understanding of risk, the use of agile controls based on pattern recognition and predictive analytics, and the use of big data analytics to give context to vast streams of data from numerous sources to produce timely, actionable information  Law of completeness exemplified with the ENGINE understood as risks and risk related information originating across the board with a TRANSMISSION visualized as streams of information flowing to WORKING UNIT where actions are initiated from the information to contain risks and its effects and having some CONTROL on the above elements including analytics Law of uneven development on above will mean the 4 elements will evolve in different speeds.</description>
     </item>
     
     <item>
@@ -186,40 +38,10 @@
       <pubDate>Thu, 29 Nov 2012 14:30:00 +0000</pubDate>
       
       <guid>http://trizindia.org/2012/11/infinte-resources-a-drive-for-evolution/</guid>
-      <description>&lt;p&gt;If Evolution is continous then resources must be infinite. Othewise Evolution should stop at some economic juncture.&lt;/p&gt;
-
-&lt;p&gt;Let&amp;#8217;s take an example using a simple economic analysis. Let&amp;#8217;s say If we are left with only 100 units of energy in universe. Making it simple , let&amp;#8217;s say 100 units of petrol. &lt;/p&gt;
-
-&lt;p&gt; &lt;/p&gt;
-
-&lt;p&gt;Here are few assumptions&lt;/p&gt;
-
-&lt;p&gt;#Let&amp;#8217;s say 40 units are required to covert to electric car.&lt;/p&gt;
-
-&lt;p&gt;#Let&amp;#8217;s say a  car with electric motor delivers 20% higher fuel economy. Or in simple words goes 20% more distance.&lt;/p&gt;
-
-&lt;p&gt;#1 unit of petrol drives 1 Km.&lt;/p&gt;
-
-&lt;p&gt;Now with 100 units of petrol left, I  have two options to travel &lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;#1&lt;/strong&gt; 100 Unit Petrol + Mechanical Vehicle = 100 Km&lt;br /&gt;
-&lt;strong&gt;#2&lt;/strong&gt; 60 Unit petrol (40 are consumed to create electric car) + Hybrid vehicle = 60+ 20% of 60 = 72 KM&lt;/p&gt;
-
-&lt;p&gt;So in this case I should never built Electric car as the core benefit (travel) itself has disappeared&lt;/p&gt;
-
-&lt;p&gt; &lt;/p&gt;
-
-&lt;p&gt;In another case assume that we have 1000 Units of Petrol. I have two options again&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;#1&lt;/strong&gt; 1000 Unit of petrol + Mechanical Vehicle = 1000 Km&lt;br /&gt;
-&lt;strong&gt;#2&lt;/strong&gt; 960 Unit of petrol + Hybrid vehicle = 960 + 20% of 960 = 1152 KM&lt;/p&gt;
-
-&lt;p&gt; See what happens!  The electric vehicle in second case has higher advantage than in first case.&lt;/p&gt;
-
-&lt;p&gt;The benefit will keep increasing as cost of coversion (40 in this case) from mechanical to electrical continoulsy comes down.&lt;/p&gt;
-
-&lt;p&gt;I am guessing that this may point out that  evolution always happens with the assumption that resources are infinite.&lt;/p&gt;
-</description>
+      <description>If Evolution is continous then resources must be infinite. Othewise Evolution should stop at some economic juncture.
+Let&amp;#8217;s take an example using a simple economic analysis. Let&amp;#8217;s say If we are left with only 100 units of energy in universe. Making it simple , let&amp;#8217;s say 100 units of petrol.  Here are few assumptions
+#Let&amp;#8217;s say 40 units are required to covert to electric car.
+#Let&amp;#8217;s say a car with electric motor delivers 20% higher fuel economy.</description>
     </item>
     
     <item>
@@ -228,32 +50,8 @@
       <pubDate>Wed, 03 Oct 2012 04:57:14 +0000</pubDate>
       
       <guid>http://trizindia.org/2012/10/8-triz-evolution-trends-applied-to-mobile/</guid>
-      <description>&lt;p&gt;Cross posting from &lt;a href=&#34;http://trizindia.wordpress.com/2012/10/01/8-triz-evolution-trends-applied-to-mobile/&#34;&gt;http://trizindia.wordpress.com/2012/10/01/8-triz-evolution-trends-applied-to-mobile/&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;This was a long pending post, originally to be delivered as a pod cast, but we never got around to doing it. The core idea was to take a commonly used system like a smart phone, apply the 8 evolution trends of TRIZ and exemplify them. For a brief introduction on the trends go &lt;a href=&#34;http://www.triz-journal.com/archives/2002/03/b/index.htm&#34;&gt;here&lt;/a&gt;, I would love to see other resources from the readers as well. I am not using any particular order as is normally used for explaining the trends.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Law of uneven development&lt;/strong&gt;pertains to how parts of the system evolve at different paces. In smartphone case Gorilla glass was actually developed for non-phone purposes around 1970, and the substrates were developed around 1980, LEDs that could use these came only during 1990s, while a successful phone with these elements came together for the first time with iPhone only in 2005. Another software example that I can think of is applications on smartphones have a few weeks or even faster release cycles, while the OS and system components evolve at a slower pace typically half-yearly release cycles.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Transition to Super system&lt;/strong&gt;is visible across many functions that smartphones are performing now ranging from alarm clock, radio, social networking, playing, browsing among so many others. These were in reality individual sub system functions of users and all of them unified in one device at the super system level viz. the phone itself.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Transition to microlevel&lt;/strong&gt;is another trend that has been going on at many levels in the phone, most common example is the per second billing instead of the per 3 minutes billing. It can also be seen in control functions, earlier there was only one setting across the phone, now we have settings at a micro level be it at screen level (lock, home screens), profiles and context, application level settings, among many others. This is a clear transition to micro level.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Law of completeness&lt;/strong&gt; is one of the simplest to understand, and it has 4 components, as applied to our example&lt;br /&gt;
-ENGINE: the component that delivers the necessary energy, in the case of smart phone it is easier to think of these are needs at personal level to communicate, share, capture etc&lt;br /&gt;
-TRANSMISSION: the component that transmits energy from the engine to the working unit, and these are usage, connections of various kinds, networks in case of the smart phone.&lt;br /&gt;
-WORKING UNIT: this actually performs the actions intended, in case of smart phone it will be the phone, camera, screen, applications that deliver necessary functions.&lt;br /&gt;
-CONTROL: controlling the above elements at different levels of settings, customizations, profiles etc are considered here. It has to touch at least one of the elements above.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Law of Conduction&lt;/strong&gt; on a smart phone is to be understood as movement of data (voice, or others) through a medium (be it USB, wifi, blue tooth, GSM etc)&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Law of Harmonization&lt;/strong&gt;is one that necessitates a rhythm and priority for actions from the system, in case of a smart phone you can easily imagine multi-functions happening at the same time like call + SMS with the same carrier, charging + data transfer through one USB connection, background sync processes with social and address books with the same network&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Law of Ideality&lt;/strong&gt;can be applied in case of smartphone to many different levels starting from what is ideal for the user, what is ideal for the manufacturer (say one assembly line for all the models), carrier can have their own ideal results (like transfer ability across network types), or Operating system specific (say zero system resource usage)&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Law of increasing su field degrees &lt;/strong&gt;I did not find an interesting example to share here,&lt;/p&gt;
-
-&lt;p&gt;I would welcome the community to feel free in comment and possibly podcast what they feel will be interesting to other members.&lt;/p&gt;
-</description>
+      <description>Cross posting from http://trizindia.wordpress.com/2012/10/01/8-triz-evolution-trends-applied-to-mobile/
+This was a long pending post, originally to be delivered as a pod cast, but we never got around to doing it. The core idea was to take a commonly used system like a smart phone, apply the 8 evolution trends of TRIZ and exemplify them. For a brief introduction on the trends go here, I would love to see other resources from the readers as well.</description>
     </item>
     
   </channel>

@@ -2,11 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Invention on TRIZ Innovation India</title>
-    <link>http://trizindia.org/tags/invention/index.xml</link>
+    <link>http://trizindia.org/tags/invention/</link>
     <description>Recent content in Invention on TRIZ Innovation India</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <atom:link href="http://trizindia.org/tags/invention/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 25 Nov 2011 06:58:02 +0000</lastBuildDate>
+    
+	<atom:link href="http://trizindia.org/tags/invention/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>What in the world is TRIZ? Part 1</title>
@@ -14,14 +17,9 @@
       <pubDate>Fri, 25 Nov 2011 06:58:02 +0000</pubDate>
       
       <guid>http://trizindia.org/2011/11/what-in-the-world-is-triz-part-1-2/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;http://www.triz.co.uk/images/where_ideas_come_from...trizsmall.jpg&#34; alt=&#34;where_ideas_come_from...trizsmall.jpg&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;Image Courtesy: &lt;a href=&#34;http://triz.co.uk&#34;&gt;triz.co.uk&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;What is TRIZ? What does it take to start learning TRIZ and master the method? Listen to 3 people &amp;#8211; Dr. Ellen Domb, Prakasan Kappoth and Bala Ramadurai, talk about the basics of the method. &lt;a href=&#34;http://www.trizindia.org&#34;&gt;http://www.trizindia.org&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://www.archive.org/download/WhatInTheWorldIsTrizPart1/TRIZIndia-WhatintheworldisTRIZ-part1.mp3&#34;&gt;Listen to the podcast here&lt;/a&gt;&lt;/p&gt;
-</description>
+      <description>Image Courtesy: triz.co.uk
+What is TRIZ? What does it take to start learning TRIZ and master the method? Listen to 3 people &amp;#8211; Dr. Ellen Domb, Prakasan Kappoth and Bala Ramadurai, talk about the basics of the method. http://www.trizindia.org
+Listen to the podcast here</description>
     </item>
     
     <item>
@@ -30,14 +28,7 @@
       <pubDate>Fri, 07 Oct 2011 07:28:44 +0000</pubDate>
       
       <guid>http://trizindia.org/2011/10/constraints-of-an-entrepreneur/</guid>
-      <description>&lt;p&gt;&lt;img class=&#34;alignnone&#34; title=&#34;Avembsys&#34; src=&#34;http://www.avembsys.com/images/av_orange_white.png&#34; alt=&#34;Avembsys&#34; width=&#34;244&#34; height=&#34;63&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img class=&#34;alignnone&#34; title=&#34;Avembsys&#34; src=&#34;http://www.avembsys.com/images/avembsys_banner.png&#34; alt=&#34;&#34; width=&#34;698&#34; height=&#34;130&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;A special podcast from TRIZ India on constraints. Mirza Faizan, an entrepreneur based out of Bangalore, India, shares his experience on the kind of constraints he faced and is currently facing. He describes his aerospace invention in detail and how his prototype can save lives not in the air, but right here on terra firma. In the process, Faizan also gives out advice to budding entrepreneurs. &lt;a title=&#34;http://www.avembsys.com&#34; href=&#34;http://www.avembsys.com&#34; target=&#34;_blank&#34;&gt;&lt;a href=&#34;http://www.avembsys.com&#34;&gt;http://www.avembsys.com&lt;/a&gt;&lt;/a&gt; is the link to Faizan&amp;#8217;s company.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://www.archive.org/download/ConstraintsOfAnEntrepreneur/TrizindiaPodcast-faizan.mp3&#34;&gt;Listen to the podcast here&lt;/a&gt;&lt;/p&gt;
-</description>
+      <description>A special podcast from TRIZ India on constraints. Mirza Faizan, an entrepreneur based out of Bangalore, India, shares his experience on the kind of constraints he faced and is currently facing. He describes his aerospace invention in detail and how his prototype can save lives not in the air, but right here on terra firma. In the process, Faizan also gives out advice to budding entrepreneurs. http://www.avembsys.com is the link to Faizan&amp;#8217;s company.</description>
     </item>
     
   </channel>

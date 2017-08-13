@@ -2,11 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Atm on TRIZ Innovation India</title>
-    <link>http://trizindia.org/tags/atm/index.xml</link>
+    <link>http://trizindia.org/tags/atm/</link>
     <description>Recent content in Atm on TRIZ Innovation India</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <atom:link href="http://trizindia.org/tags/atm/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 01 Aug 2011 11:24:01 +0000</lastBuildDate>
+    
+	<atom:link href="http://trizindia.org/tags/atm/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>How does a superstar plan his career moves?</title>
@@ -14,20 +17,13 @@
       <pubDate>Mon, 01 Aug 2011 11:24:01 +0000</pubDate>
       
       <guid>http://trizindia.org/2011/08/how-does-a-superstar-plan-his-career-moves-2/</guid>
-      <description>&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+      <description>&amp;nbsp;
+&amp;nbsp;
+&amp;nbsp;
+&amp;nbsp;
 
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
-
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
-
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://www.archive.org/download/HowDoesASuperstarPlanHisCareerMoves/TrizindiaPodcast9windows.mp3&#34;&gt;&lt;img class=&#34;alignnone&#34; title=&#34;Superstar Rajinikanth&#34; src=&#34;http://www.planetradiocity.com/home/images/mr_news/rajinikanth-robot_1042011103371.jpg&#34; alt=&#34;&#34; width=&#34;495&#34; height=&#34;260&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://www.archive.org/download/HowDoesASuperstarPlanHisCareerMoves/TrizindiaPodcast9windows.mp3&#34;&gt;Triz India Podcast 9 windows&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Bala Ramadurai, Murali Loganathan, Prakasan Kappoth and Shankar Venugopal discuss &amp;#8220;thinking out of the box&amp;#8221; and &amp;#8220;big picture thinking&amp;#8221; citing examples of BMW, software development, dispensing cash on the third podcast of the series.&lt;/p&gt;
-</description>
+Triz India Podcast 9 windows
+Bala Ramadurai, Murali Loganathan, Prakasan Kappoth and Shankar Venugopal discuss &amp;#8220;thinking out of the box&amp;#8221; and &amp;#8220;big picture thinking&amp;#8221; citing examples of BMW, software development, dispensing cash on the third podcast of the series.</description>
     </item>
     
   </channel>

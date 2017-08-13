@@ -2,12 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>TRIZ Innovation India</title>
-    <link>http://trizindia.org/index.xml</link>
+    <link>http://trizindia.org/</link>
     <description>Recent content on TRIZ Innovation India</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 11 Jan 2016 10:03:38 +0000</lastBuildDate>
-    <atom:link href="http://trizindia.org/index.xml" rel="self" type="application/rss+xml" />
+    
+	<atom:link href="http://trizindia.org/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>TRIZ India Podcast with Jack Hipple – Interesting Case of the Hairnet bags and the Lucy Show</title>
@@ -15,90 +17,10 @@
       <pubDate>Mon, 11 Jan 2016 10:03:38 +0000</pubDate>
       
       <guid>http://trizindia.org/2016/01/triz-india-podcast-with-jack-hipple-hairnet-bags-and-the-lucy-show/</guid>
-      <description>&lt;div style=&#34;width: 298px&#34; class=&#34;wp-caption alignnone&#34;&gt;
-  &lt;img class=&#34;&#34; src=&#34;http://www.idsa.org/sites/default/files/colleenb/Jack%20Hipple%20Photo_cb_0.jpg&#34; alt=&#34;&#34; width=&#34;288&#34; height=&#34;288&#34; /&gt;
-  
-  &lt;p class=&#34;wp-caption-text&#34;&gt;
-    Jack Hipple
-  &lt;/p&gt;
-&lt;/div&gt;
-
-&lt;p&gt;Dr. Bala Ramadurai, Co-founder of TRIZ Innovation India (trizindia.org) has a chat with Jack Hipple, Chemical Engineer, TRIZ practitioner and trainer (&lt;a href=&#34;http://www.innovation-triz.com/personnel/JHipple.html&#34;&gt;http://www.innovation-triz.com/personnel/JHipple.html&lt;/a&gt;) about his experiences on learning and applying TRIZ.&lt;/p&gt;
-
-&lt;p&gt;Download the podcast from here &amp;#8211; &lt;a href=&#34;https://archive.org/download/JackHippleTRIZIndiapodcast/JackHipple-TRIZIndiapodcast.mp3&#34;&gt;https://archive.org/download/JackHippleTRIZIndiapodcast/JackHipple-TRIZIndiapodcast.mp3&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;1. When did you come across TRIZ? When did you decide to take on TRIZ as your path forward in your career?&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;An accident. As Director of Dow Chemical&amp;#8217;s Discovery Research program, an attempt to broaden Dow&amp;#8217;s business beyond commodity chemicals, I sought out training in many psychologically based creativity tools such as brainstorming, CPS, Debono&amp;#8217;s Lateral Thinking and Six Hats. I found these tools rather unproductive and time consuming when it came to serious technical problems. After my 26 years with Dow in 1993, I became a project manager for the National Center for Manufacturing Sciences, and as part of this role, decided to gain some knowledge of quality tools and attended a quality conference in Detroit, MI in 1994 when I learned a little about QFD, the house of quality, measurement tools, and around 3:30 in the afternoon, when I was thinking about leaving, I looked at the agenda and saw a talk by two Russian scientists (and I have apologized many times for not remembering their names) entitled &amp;#8220;The Use of TRIZ to resolve the contradiction of Pizza Box Design&amp;#8221;. First of all, I had no idea what &amp;#8220;TRIZ&amp;#8221; was nor what cosmic issues were involved in the design of pizza boxes. So I stayed out of total curiosity, and as we all have had at one time or another, it was a life changing event. The talk was about a very practical aspect of take out pizza. You want the pizza to be hot, but when it is, it gives off steam which softens the cardboard lid, causing it to sag into the pizza and when you lift the lid at home, it takes a good deal of the pizza topping with it. So there&amp;#8217;s a contradiction (and everyone involved in TRIZ knows that solving a contradiction is the key to an invention). The little plastic tripod found in most all take out pizzas (at least in the US) was invented with TRIZ. It resolves this contradiction in a very simple way. I literally fell off my chair after hearing this presentation and resolved to learn some more about this process. It took a couple of years for me to pursue TRIZ with any significant time, but it became my primary career in 2001 after serving in project manager roles at the National Center for Manufacturing Sciences and Cabot Corporation, neither of which allowed me to use TRIZ in any significant way. I was hired by one of the TRIZ software companies and became their primary chemical industry trainers for TRIZ and later by a management consulting company interested in bringing TRIZ into their business. I started my own company in 2001 and also began dong TRIZ training for the American Society of Mechanical Engineers and the American Institute of Chemical Engineers in 2003.&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;2. What were some of the challenges that you faced on the way? How did you overcome it?&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;I think anyone who has started their own business has had to overcome the short term lack of cash flow and the slow process of reintroducing your self to prior contacts and telling them you had something new they might be interested in. There were also presentation at appropriate conferences trying to get the word out. It also helps to have a very supportive family. Though we had become empty nesters by the time my business got started, my wife went back to work to help sustain us and also provide medical insurance coverage, which always more expensive when it is bought privately and not through a group policy. Without this support, it would have been difficult to get things off the ground. The challenge in getting the professional engineering societies interested took a while to overcome, but once done, provided both income and possible client contacts.&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;3. What are some of the common learning difficulties that one should avoid while learning and applying TRIZ?&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;There are two primary difficulties in starting with TRIZ within an organization. The first is ego. The primary postulate within TRIZ is that there a limited number of inventive principles that we continuously reuse. This is not typically recognized within an industry or company due, in part, to the extensive use of acronyms and fancy words that make someone think that there problem is special and unique. It almost never is. One of the exercises I run with my clients or within a workshop is to force the attendees to describe their problem to a ten year old. The language is never the same and using these much simpler, more generic terms in a Google search will yield at least an order of magnitude more possible areas to consider.&lt;/p&gt;
-
-&lt;p&gt;The second barrier is not being willing to take the time to sufficiently define what the problem is that we are attempting to solve. It is always amazing to me, as an outsider working with a client (and I am told the team has been working on some problem for a long time), and using any one of a number of TRIZ problem definition tools, that these groups, when separated, come back with very different definitions of the problem. The good or bad functions are not seen the same, the number of contradiction is not the same, etc. They have spent a huge amount of time trying to solve the wrong problem. Though this is one of TRIZ&amp;#8217;s greatest strengths, it is also a very time consuming step. There are many organizations I have worked with that simply can&amp;#8217;t or won&amp;#8217;t take this time and TRIZ implementation is a failure. As frustrating as this is, I have learned to accept this fact and it is one shared by many other TRIZ professionals that I know.&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;4. The common belief about TRIZ that I hear a lot is that TRIZ is only for engineers. I am sure you&amp;#8217;ve heard that a lot as well. What are some of your experiences that should tell the listeners of this podcast otherwise?&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;Though much of my work is in the technical area, the principals of TRIZ can be equally well applied in what I call &amp;#8220;soft&amp;#8221; applications. There are contradictions and functional conflicts in marketing, business strategy, and human resources. I find the use of the basic TRIZ separation principles particularly useful in these situations. The problems in this area are easier to define, but as opposed to the technical area, may have even more views of what is &amp;#8220;ideal&amp;#8221;, what &amp;#8220;resources&amp;#8221; are available, and what the important contradictions are that need to be resolved. It is also important for TRIZ professionals to not overstate what TRIZ can accomplish in this area. For example, TRIZ is not the right tool to help decide what the color of something should be.&lt;/p&gt;
-
-&lt;p&gt;There are some technical areas that TRIZ has some limited applications such as pure chemical synthesis and biological processes. Though there some interesting examples that we can point to, there is not, in my opinion anything close to a contradiction table or AREIZ algorithm for either of these areas.&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;5. In your experience, what is an excellent example of application of TRIZ that still stands out?&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;There is one in particular which is no longer covered by a confidentiality agreement and that is one of my first major commercial projects with S.C. Johnson, a multi-billion $$, privately held, consumer products company that manufactures a multitude of cleaning and household products. When Dow decided to divest itself of its consumer products business (products such as Dow Oven Cleaner, Handiwrap, Saran Wrap, Bathroom cleaner) it sold this business to S.C. Johnson, already a major player in this business space. After this business sale, Dow continued to sell the Saran polymer to S.C. Johnson.&lt;/p&gt;
-
-&lt;p&gt;Most people are unaware that this plastic wrap is not the same polymer/plastic as others, which are primarily polyethylene. This plastic has excellent barrier to moisture transfer, but very poor barrier against oxygen transfer. Saran is a copolymer of vinyl chloride and vinylidene chloride and has outstanding barrier properties to both and this is important in the preservation of many fruits and vegetables. Unfortunately, along with this plus, the negative is that this polymer has very poor tensile strength, and in its typical roll form, splits and tears and since it is clear, the consumer cannot readily find where the film cut was and in many cases would simply throw away the product and return to using polyethylene, knowing that it is not as good a product. So the polymer itself was superior, but its form was not.&lt;/p&gt;
-
-&lt;p&gt;When S.C. Johnson inherited this product from Dow, and with its far greater sensitivity to consumer needs, decided to change the form of the product into something that looked liked a &amp;#8220;hairnet bag&amp;#8221; which would stretch around any size container and eliminate the need to a roll form and its limitations. That&amp;#8217;s where the great idea stopped being so great. The decision was made to ship the plastic film overseas where it would be converted into its hairnet shape and then &amp;#8220;wrap&amp;#8221; ten of these bags with a double rubber band wrap (think about how much fun this was for a plant operator to do), and then ship back thousands of these bundles, compressed in an overseas shipping container (don&amp;#8217;t want to pay for space not used!), back to Racine, WI (S.C. Johnson&amp;#8217;s primary corporate site), where another operator would now have to do two very difficult tasks. First, take the rubber band off (not easy and ergonomic injuries are possible), and while this is being done, try to grab the bags, which now want to fly everywhere, and stuff them In a cottage container and put a lid on it. Those on this podcast from the US may remember the famous Lucy TV show where the bakery line was slowly sped up and Lucy had to keep up and that&amp;#8217;s exactly what this looked like. (Please refer to &lt;a href=&#34;https://www.youtube.com/watch?v=HnbNcQlzV-4&#34;&gt;https://www.youtube.com/watch?v=HnbNcQlzV-4&lt;/a&gt; for the snippet)&lt;/p&gt;
-
-&lt;p&gt;After a short introduction to TRIZ principles, the project team quickly came up with a simple solution which allowed the entire process to be simplified with huge cost savings and that was to simply put nine bags into the tenth bag. No rubber bands, virtually no labor (process could be automated), the packing simplified, the shelf space reduced dramatically (just hang on a spindle) and since there was no human involvement, sterilization costs were virtually eliminated.&lt;/p&gt;
-
-&lt;p&gt;I frequently use this example in my workshops as it illustrates the use of the simplest of TRIZ tools (IFR: the bags package themselves, RESOURCES: use an existing bag instead of a rubber band, and TRIMMING: get rid of the band and additional packaging)&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;6. What is you advice to the listeners of this podcast who want to start off applying TRIZ? If you have worked with Indian companies, please give us some Indian context as well.&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;I have not had the pleasure of working with any Indian companies, but my advice to anyone starting out with TRIZ is to NEVER start with any software product. It is critical to get the brain part down first; the basic TRIZ algorithm, the use of the IFR, resources, and contradictions. Once these are well understood, software can be considered, but I am constantly amazed at how many problems are solved with the simplest of TRIZ tools.&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;7. Hypothetical question to end this podcast &amp;#8211; According to you, what developments in the invention world would Altshuller have commented, &amp;#8220;Wish I had thought of that!&amp;#8221;&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;I am not sure if Altshuller recognized or saw the degree to which TRIZ could be applied in business, strategic, IP, and organizational problem solving.&lt;/p&gt;
-
-&lt;p&gt;Some References suggested by Jack Hipple&lt;/p&gt;
-
-&lt;p&gt;His books are given below: If anyone is interested in bulk discounts of these books, please let us know and we&amp;#8217;ll be happy to pass it on to Jack Hipple (admin AT trizindia DOT org)&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://www.aitriz.org/online-store/triz-online-store/books/ideal-result-detail&#34;&gt;http://www.aitriz.org/online-store/triz-online-store/books/ideal-result-detail&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://www.springer.com/us/book/9781461437062&#34;&gt;http://www.springer.com/us/book/9781461437062&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;The Chemical Engineering Progress series is at;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://www.aiche.org/resources/publications/cep/2005/april/solve-problems-inventively&#34;&gt;http://www.aiche.org/resources/publications/cep/2005/april/solve-problems-inventively&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://www.aiche.org/resources/publications/cep/2005/may/use-triz-reverse-analyze-failures&#34;&gt;http://www.aiche.org/resources/publications/cep/2005/may/use-triz-reverse-analyze-failures&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://www.aiche.org/resources/publications/cep/2005/june/use-triz-plan-forecast-and-think-strategically&#34;&gt;http://www.aiche.org/resources/publications/cep/2005/june/use-triz-plan-forecast-and-think-strategically&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;When you go to these CEP pages, you will see, at the bottom, a link and info about reprints, etc.&lt;/p&gt;
-
-&lt;p&gt;Anyone who is an AIChE member can download.&lt;/p&gt;
-
-&lt;p&gt;His next public TRIZ classes for ASME are in Las Vegas and Atlanta:&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://www.asme.org/products/courses/triz&amp;amp;#8211;the-theory-of-inventive-problem-solving&#34;&gt;https://www.asme.org/products/courses/triz&amp;amp;#8211;the-theory-of-inventive-problem-solving&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;His other podcasts are available at:&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://www.ideaconnection.com/open-innovation-articles/&#34;&gt;http://www.ideaconnection.com/open-innovation-articles/&lt;/a&gt; (scroll down a bit)&lt;/p&gt;
-
-&lt;p&gt;as well as for Georgia Tech:&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://smartech.gatech.edu/handle/1853/48282&#34;&gt;https://smartech.gatech.edu/handle/1853/48282&lt;/a&gt;&lt;/p&gt;
-</description>
+      <description>Jack Hipple  Dr. Bala Ramadurai, Co-founder of TRIZ Innovation India (trizindia.org) has a chat with Jack Hipple, Chemical Engineer, TRIZ practitioner and trainer (http://www.innovation-triz.com/personnel/JHipple.html) about his experiences on learning and applying TRIZ.
+Download the podcast from here &amp;#8211; https://archive.org/download/JackHippleTRIZIndiapodcast/JackHipple-TRIZIndiapodcast.mp3
+1. When did you come across TRIZ? When did you decide to take on TRIZ as your path forward in your career?
+An accident. As Director of Dow Chemical&amp;#8217;s Discovery Research program, an attempt to broaden Dow&amp;#8217;s business beyond commodity chemicals, I sought out training in many psychologically based creativity tools such as brainstorming, CPS, Debono&amp;#8217;s Lateral Thinking and Six Hats.</description>
     </item>
     
     <item>
@@ -107,42 +29,8 @@
       <pubDate>Thu, 15 Oct 2015 09:59:42 +0000</pubDate>
       
       <guid>http://trizindia.org/2015/10/interview-with-vladimir-petrov-a-triz-master/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;http://trizindia.org/wp-content/uploads/2015/10/bala-photo1.png&#34;&gt;&lt;img class=&#34;alignnone wp-image-358&#34; src=&#34;http://trizindia.org/wp-content/uploads/2015/10/bala-photo1.png&#34; alt=&#34;bala-photo1&#34; width=&#34;144&#34; height=&#34;160&#34; /&gt;&lt;/a&gt;&lt;a href=&#34;http://trizindia.org/wp-content/uploads/2015/09/Vladimir-Petrov.jpg&#34;&gt;&lt;img class=&#34;alignnone wp-image-353&#34; src=&#34;http://trizindia.org/wp-content/uploads/2015/09/Vladimir-Petrov-300x300.jpg&#34; alt=&#34;Vladimir-Petrov&#34; width=&#34;155&#34; height=&#34;155&#34; srcset=&#34;http://trizindia.org/wp-content/uploads/2015/09/Vladimir-Petrov-300x300.jpg 300w, http://trizindia.org/wp-content/uploads/2015/09/Vladimir-Petrov.jpg 370w&#34; sizes=&#34;(max-width: 155px) 100vw, 155px&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Vladimir Petrov (Profile here &amp;#8211; ) has been an avid supporter of TRIZ Innovation India and has always volunteered to spread awareness of TRIZ in India, which is the mission of TRIZ Innovation India. His simple reply to my email was &amp;#8220;How can I help TRIZ India?&amp;#8221;. I present excerpts from our online interview, which was the result of his offer of help.&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;Bala Ramadurai: From your track record, you have not only taught TRIZ, but also practically used it, as is obvious from your publications and patents. How did you get started with TRIZ?&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Vladimir Petrov&lt;/strong&gt;: I started studying TRIZ by correspondence with Altshuller in 1972. He led the two-year university program and I successfully completed the program. At the time, I was an R&amp;amp;D engineer. I immediately began to apply TRIZ in my work and also helped others solve their problems. In parallel, I passed TRIZ knowledge to my staff as well. In 1973, I started my teaching experience in TRIZ to my first group of 25 persons, a 120 hour program. That was my beginning.&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;&lt;strong&gt;BR&lt;/strong&gt;: Please describe some of your memorable experiences with Altshuller. How was he as a teacher, friend?&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;VP&lt;/strong&gt;: About Altshuller, I have a lot of memories. This alone, I could write a great book. He was my teacher and colleague. We not only taught together at various occasions, we discussed various aspects of TRIZ as well. He became a friend of mine. When he came to Leningrad, he lived in my house.&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;&lt;strong&gt;BR&lt;/strong&gt;: You have travelled across the globe teaching TRIZ. What according to you are some conditions that need to be there in place for TRIZ to be learnt and applied?&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;VP&lt;/strong&gt;: In my opinion, the most important thing is that people have to have a desire to learn TRIZ.&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;&lt;strong&gt;BR&lt;/strong&gt;: Some people often question if TRIZ is meant only for engineers and technologists. What will be your response to such a question?&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;VP&lt;/strong&gt;: TRIZ methodology is universal and can be applied to any field of knowledge.&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;&lt;strong&gt;BR&lt;/strong&gt;: Are there problems that TRIZ should not be used for solving? if so, which ones are those fields?&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;VP&lt;/strong&gt;: TRIZ cannot be applied effectively when one does not have enough knowledge or experience with a problem.&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;&lt;strong&gt;BR&lt;/strong&gt;: Are there some problems that you solved or helped solve only to realize that the market for application of the solution had moved on and the solution was not relevant any more?&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;VP&lt;/strong&gt;: Even in this case, the specialist will solve problems faster and better than a non specialist only if they apply inventive thinking skills (TRIZ thinking).&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;&lt;strong&gt;BR&lt;/strong&gt;: Please tell us about your latest book. How will it benefit our readers on TRIZ India?&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;VP&lt;/strong&gt;: My latest book is written in Russian. It still needs to be translated into English. It&amp;#8217;s a big job and I&amp;#8217;m looking for helpers and sponsors. Maybe someone from your association can help me. This is a TRIZ tutorial.&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;&lt;strong&gt;BR&lt;/strong&gt;: Last question, what should practitioners from India do differently when applying TRIZ to solve problems?&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;VP&lt;/strong&gt;: Unfortunately, I do not know how and what you are doing [in India] now.&lt;/p&gt;
-</description>
+      <description>Vladimir Petrov (Profile here &amp;#8211; ) has been an avid supporter of TRIZ Innovation India and has always volunteered to spread awareness of TRIZ in India, which is the mission of TRIZ Innovation India. His simple reply to my email was &amp;#8220;How can I help TRIZ India?&amp;#8221;. I present excerpts from our online interview, which was the result of his offer of help.
+Bala Ramadurai: From your track record, you have not only taught TRIZ, but also practically used it, as is obvious from your publications and patents.</description>
     </item>
     
     <item>
@@ -151,28 +39,7 @@
       <pubDate>Thu, 01 Oct 2015 00:00:00 +0000</pubDate>
       
       <guid>http://trizindia.org/page/disclaimer/</guid>
-      <description>&lt;div class=&#34;container&#34;&gt;
-  &lt;div class=&#34;row&#34;&gt;
-    &lt;div class=&#34;card&#34;&gt;
-      &lt;div class=&#34;card-block&#34;&gt;
-        &lt;h2 class=&#34;card-title&#34;&gt;Disclaimer&lt;/h2&gt;
-      &lt;/div&gt;
-      &lt;div class=&#34;card-block&#34;&gt;
-        &lt;p class=&#34;card-text&#34;&gt;
-          Your disclaimer text here
-        &lt;/p&gt;
-
-        &lt;p class=&#34;card-text&#34;&gt;
-        NOTE:Some information in this website might be copied from other websites.
-          If you see something is your copyright or something should not belong here, please feel free to
-          &lt;a href=&#34;mailto:murali@mmrath.com&#34;&gt;contact me&lt;/a&gt;. I will remove necessary parts.
-       &lt;/p&gt;
-
-      &lt;/div&gt;
-    &lt;/div&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
-</description>
+      <description>Disclaimer  Your disclaimer text here NOTE:Some information in this website might be copied from other websites. If you see something is your copyright or something should not belong here, please feel free to contact me. I will remove necessary parts.     </description>
     </item>
     
     <item>
@@ -181,21 +48,7 @@
       <pubDate>Thu, 01 Oct 2015 00:00:00 +0000</pubDate>
       
       <guid>http://trizindia.org/page/license/</guid>
-      <description>&lt;div class=&#34;container&#34;&gt;
-  &lt;div class=&#34;row&#34;&gt;
-    &lt;div class=&#34;card&#34;&gt;
-      &lt;div class=&#34;card-block&#34;&gt;
-        &lt;h2 class=&#34;card-title&#34;&gt;LICENSE&lt;/h2&gt;
-      &lt;/div&gt;
-      &lt;div class=&#34;card-block&#34;&gt;
-        &lt;p class=&#34;card-text&#34;&gt;
-          Unless otherwise mentioned code from this blog can used as per MIT or Apache 2.0 license.
-        &lt;/p&gt;
-      &lt;/div&gt;
-    &lt;/div&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
-</description>
+      <description>LICENSE  Unless otherwise mentioned code from this blog can used as per MIT or Apache 2.0 license.     </description>
     </item>
     
     <item>
@@ -204,16 +57,9 @@
       <pubDate>Tue, 08 Sep 2015 07:20:08 +0000</pubDate>
       
       <guid>http://trizindia.org/2015/09/triz-glossary-book/</guid>
-      <description>
-
-&lt;h1 id=&#34;img-class-aligncenter-src-https-gallery-mailchimp-com-a4fe36e0021432bc3bc87a8ab-images-3137fb77-1256-4fe9-ba81-63a440ef31f2-png-alt-width-181-height-286-align-none-data-cke-saved-src-https-gallery-mailchimp-com-a4fe36e0021432bc3bc87a8ab-images-3137fb77-1256-4fe9-ba81-63a440ef31f2-png-null&#34;&gt;&lt;img class=&#34; aligncenter&#34; src=&#34;https://gallery.mailchimp.com/a4fe36e0021432bc3bc87a8ab/images/3137fb77-1256-4fe9-ba81-63a440ef31f2.png&#34; alt=&#34;&#34; width=&#34;181&#34; height=&#34;286&#34; align=&#34;none&#34; data-cke-saved-src=&#34;https://gallery.mailchimp.com/a4fe36e0021432bc3bc87a8ab/images/3137fb77-1256-4fe9-ba81-63a440ef31f2.png&#34; /&gt; {.null}&lt;/h1&gt;
-
-&lt;p&gt;TRIZ Glossary book written by Prof. Vladimir Petrov is now available at an introductory price of USD 0.99 in the link given below. Prof. Petrov&amp;#8217;s linkedin profile is here &amp;#8211; &lt;a href=&#34;https://il.linkedin.com/pub/vladimir-petrov-triz/6/30a/700&#34; target=&#34;_blank&#34; data-cke-saved-href=&#34;https://il.linkedin.com/pub/vladimir-petrov-triz/6/30a/700&#34;&gt;&lt;a href=&#34;https://il.linkedin.com/pub/vladimir-petrov-triz/6/30a/700&#34;&gt;https://il.linkedin.com/pub/vladimir-petrov-triz/6/30a/700&lt;/a&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;The link to the book is given here &amp;#8211;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://www.amazon.in/TRIZ-Glossary-Vladimir-Petrov-ebook/dp/B013YE59M2/ref=sr_1_1?s=digital-text&amp;ie=UTF8&amp;qid=1441695997&amp;sr=1-1&#34; target=&#34;_blank&#34; data-cke-saved-href=&#34;http://www.amazon.in/TRIZ-Glossary-Vladimir-Petrov-ebook/dp/B013YE59M2/ref=sr_1_1?s=digital-text&amp;ie=UTF8&amp;qid=1441695997&amp;sr=1-1&#34;&gt;&lt;a href=&#34;http://www.amazon.in/TRIZ-Glossary-Vladimir-Petrov-ebook/dp/B013YE59M2/ref=sr_1_1?s=digital-text&amp;amp;ie=UTF8&amp;amp;qid=1441695997&amp;amp;sr=1-1&#34;&gt;http://www.amazon.in/TRIZ-Glossary-Vladimir-Petrov-ebook/dp/B013YE59M2/ref=sr_1_1?s=digital-text&amp;amp;ie=UTF8&amp;amp;qid=1441695997&amp;amp;sr=1-1&lt;/a&gt;&lt;/a&gt;&lt;/p&gt;
-</description>
+      <description>{.null} TRIZ Glossary book written by Prof. Vladimir Petrov is now available at an introductory price of USD 0.99 in the link given below. Prof. Petrov&amp;#8217;s linkedin profile is here &amp;#8211; https://il.linkedin.com/pub/vladimir-petrov-triz/6/30a/700
+The link to the book is given here &amp;#8211;
+http://www.amazon.in/TRIZ-Glossary-Vladimir-Petrov-ebook/dp/B013YE59M2/ref=sr_1_1?s=digital-text&amp;amp;ie=UTF8&amp;amp;qid=1441695997&amp;amp;sr=1-1</description>
     </item>
     
     <item>
@@ -222,16 +68,10 @@
       <pubDate>Tue, 08 Sep 2015 07:16:23 +0000</pubDate>
       
       <guid>http://trizindia.org/2015/09/triz-india-podcast-triz-journal-part-1/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;https://gallery.mailchimp.com/a4fe36e0021432bc3bc87a8ab/images/83727d47-c365-469f-90d0-a37e8bd1c3d7.png&#34; alt=&#34;&#34; width=&#34;148&#34; height=&#34;164&#34; align=&#34;none&#34; data-cke-saved-src=&#34;https://gallery.mailchimp.com/a4fe36e0021432bc3bc87a8ab/images/83727d47-c365-469f-90d0-a37e8bd1c3d7.png&#34; /&gt;&lt;img src=&#34;https://gallery.mailchimp.com/a4fe36e0021432bc3bc87a8ab/images/c4b447c3-58a9-4af5-a5a2-9b8fdb7b409f.jpg&#34; alt=&#34;&#34; width=&#34;115&#34; height=&#34;164&#34; align=&#34;none&#34; data-cke-saved-src=&#34;https://gallery.mailchimp.com/a4fe36e0021432bc3bc87a8ab/images/c4b447c3-58a9-4af5-a5a2-9b8fdb7b409f.jpg&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Dr. Bala Ramadurai, Co-founder of TRIZ Innovation India (trizindia.org) has a chat with Dr. Ellen Domb, co-founder of PQR group and co-founding editor of TRIZ Journal, in a 2 part series of podcasts on TRIZ Journal 2.0 or better still, TRIZ Journal 3.0.&lt;/p&gt;
-
-&lt;p&gt;The second part of the series will involve a conversation with current TRIZ Journal Editors &amp;#8211; Dr. Phil Samuel and Derek Bennington&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://archive.org/details/TRIZIndiaPodcastTRIZJournalPart1&#34; target=&#34;_blank&#34; data-cke-saved-href=&#34;https://archive.org/details/TRIZIndiaPodcastTRIZJournalPart1&#34;&gt;&lt;a href=&#34;https://archive.org/details/TRIZIndiaPodcastTRIZJournalPart1&#34;&gt;https://archive.org/details/TRIZIndiaPodcastTRIZJournalPart1&lt;/a&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Download the offline version from &lt;a href=&#34;https://archive.org/download/TRIZIndiaPodcastTRIZJournalPart1/TRIZIndiaPodcast-TRIZ-Journal-1.mp3&#34; target=&#34;_blank&#34; data-cke-saved-href=&#34;https://archive.org/download/TRIZIndiaPodcastTRIZJournalPart1/TRIZIndiaPodcast-TRIZ-Journal-1.mp3&#34;&gt;&lt;a href=&#34;https://archive.org/download/TRIZIndiaPodcastTRIZJournalPart1/TRIZIndiaPodcast-TRIZ-Journal-1.mp3&#34;&gt;https://archive.org/download/TRIZIndiaPodcastTRIZJournalPart1/TRIZIndiaPodcast-TRIZ-Journal-1.mp3&lt;/a&gt;&lt;/a&gt;&lt;/p&gt;
-</description>
+      <description>Dr. Bala Ramadurai, Co-founder of TRIZ Innovation India (trizindia.org) has a chat with Dr. Ellen Domb, co-founder of PQR group and co-founding editor of TRIZ Journal, in a 2 part series of podcasts on TRIZ Journal 2.0 or better still, TRIZ Journal 3.0.
+The second part of the series will involve a conversation with current TRIZ Journal Editors &amp;#8211; Dr. Phil Samuel and Derek Bennington
+https://archive.org/details/TRIZIndiaPodcastTRIZJournalPart1
+Download the offline version from https://archive.</description>
     </item>
     
     <item>
@@ -240,14 +80,10 @@
       <pubDate>Wed, 18 Jun 2014 09:44:01 +0000</pubDate>
       
       <guid>http://trizindia.org/2014/06/technology-forecasting-a-primer/</guid>
-      <description>&lt;p&gt;I promised a &lt;a href=&#34;http://trizindia.org/2014/02/the-history-of-triz/&#34; title=&#34;The history of TRIZ&#34;&gt;while ago&lt;/a&gt; that I&amp;#8217;d publish something about Technology Forecasting, which is my current occupation in Milan, Italy. I presented a talk on technology forecasting in Politecnico di Milano. I have attached the slideshow to this post. Enjoy!&lt;/p&gt;
-
-&lt;p&gt;Please feel free to download the presentation [google-drive-embed url=&amp;#8221;&lt;a href=&#34;https://docs.google.com/uc?id=0B3EZPxN_ojAfTV9aazdCRWx1Rms&amp;amp;export=download&amp;amp;#8221&#34;&gt;https://docs.google.com/uc?id=0B3EZPxN_ojAfTV9aazdCRWx1Rms&amp;amp;export=download&amp;amp;#8221&lt;/a&gt;; title=&amp;#8221;2013_03_08_Bala_Ramadurai-Technology Forecasting.pptx&amp;#8221; icon=&amp;#8221;&lt;a href=&#34;https://ssl.gstatic.com/docs/doclist/images/icon_10_powerpoint_list.png&amp;amp;#8221&#34;&gt;https://ssl.gstatic.com/docs/doclist/images/icon_10_powerpoint_list.png&amp;amp;#8221&lt;/a&gt;; style=&amp;#8221;download&amp;#8221;]&lt;/p&gt;
-
-&lt;p&gt;[google-drive-embed url=&amp;#8221;&lt;a href=&#34;https://docs.google.com/presentation/d/1fsSr-IG9tO99z5Zb0eht2nTwcWtvfnOaJjsZVfl2hvI/preview&amp;amp;#8221&#34;&gt;https://docs.google.com/presentation/d/1fsSr-IG9tO99z5Zb0eht2nTwcWtvfnOaJjsZVfl2hvI/preview&amp;amp;#8221&lt;/a&gt;; title=&amp;#8221;2013_03_08_Bala_Ramadurai-Technology Forecasting&amp;#8221; icon=&amp;#8221;&lt;a href=&#34;https://ssl.gstatic.com/docs/doclist/images/icon_11_presentation_list.png&amp;amp;#8221&#34;&gt;https://ssl.gstatic.com/docs/doclist/images/icon_11_presentation_list.png&amp;amp;#8221&lt;/a&gt;; width=&amp;#8221;100%&amp;#8221; height=&amp;#8221;400&amp;#8243; style=&amp;#8221;embed&amp;#8221;]&lt;/p&gt;
-
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
-</description>
+      <description>I promised a while ago that I&amp;#8217;d publish something about Technology Forecasting, which is my current occupation in Milan, Italy. I presented a talk on technology forecasting in Politecnico di Milano. I have attached the slideshow to this post. Enjoy!
+Please feel free to download the presentation [google-drive-embed url=&amp;#8221;https://docs.google.com/uc?id=0B3EZPxN_ojAfTV9aazdCRWx1Rms&amp;amp;export=download&amp;amp;#8221; title=&amp;#8221;2013_03_08_Bala_Ramadurai-Technology Forecasting.pptx&amp;#8221; icon=&amp;#8221;https://ssl.gstatic.com/docs/doclist/images/icon_10_powerpoint_list.png&amp;amp;#8221; style=&amp;#8221;download&amp;#8221;]
+[google-drive-embed url=&amp;#8221;https://docs.google.com/presentation/d/1fsSr-IG9tO99z5Zb0eht2nTwcWtvfnOaJjsZVfl2hvI/preview&amp;amp;#8221; title=&amp;#8221;2013_03_08_Bala_Ramadurai-Technology Forecasting&amp;#8221; icon=&amp;#8221;https://ssl.gstatic.com/docs/doclist/images/icon_11_presentation_list.png&amp;amp;#8221; width=&amp;#8221;100%&amp;#8221; height=&amp;#8221;400&amp;#8243; style=&amp;#8221;embed&amp;#8221;]
+&amp;nbsp;</description>
     </item>
     
     <item>
@@ -256,394 +92,11 @@
       <pubDate>Sun, 18 May 2014 11:30:10 +0000</pubDate>
       
       <guid>http://trizindia.org/2014/05/ariz-71/</guid>
-      <description>
-
-&lt;p&gt;[google-drive-embed url=&amp;#8221;&lt;a href=&#34;https://docs.google.com/presentation/d/1s4sVnO2y_wfCNrzRdEXDrfYU9RkZIlVbBicSEdJL23Y/preview&amp;amp;#8221&#34;&gt;https://docs.google.com/presentation/d/1s4sVnO2y_wfCNrzRdEXDrfYU9RkZIlVbBicSEdJL23Y/preview&amp;amp;#8221&lt;/a&gt;; title=&amp;#8221;ARIZ-71&amp;#8243; icon=&amp;#8221;&lt;a href=&#34;https://ssl.gstatic.com/docs/doclist/images/icon_11_presentation_list.png&amp;amp;#8221&#34;&gt;https://ssl.gstatic.com/docs/doclist/images/icon_11_presentation_list.png&amp;amp;#8221&lt;/a&gt;; width=&amp;#8221;100%&amp;#8221; height=&amp;#8221;400&amp;#8243; extra=&amp;#8221;undefined&amp;#8221; style=&amp;#8221;embed&amp;#8221;]&lt;/p&gt;
-
-&lt;p&gt;[google-drive-embed url=&amp;#8221;&lt;a href=&#34;https://docs.google.com/presentation/d/1s4sVnO2y_wfCNrzRdEXDrfYU9RkZIlVbBicSEdJL23Y/edit?usp=drivesdk&amp;amp;#8221&#34;&gt;https://docs.google.com/presentation/d/1s4sVnO2y_wfCNrzRdEXDrfYU9RkZIlVbBicSEdJL23Y/edit?usp=drivesdk&amp;amp;#8221&lt;/a&gt;; title=&amp;#8221;ARIZ-71&amp;#8243; icon=&amp;#8221;&lt;a href=&#34;https://ssl.gstatic.com/docs/doclist/images/icon_11_presentation_list.png&amp;amp;#8221&#34;&gt;https://ssl.gstatic.com/docs/doclist/images/icon_11_presentation_list.png&amp;amp;#8221&lt;/a&gt;; newwindow=&amp;#8221;yes&amp;#8221; style=&amp;#8221;normal&amp;#8221;]&lt;/p&gt;
-
-&lt;p&gt;&lt;span style=&#34;line-height: 1.5em;&#34;&gt;This is an extract from &lt;/span&gt;&lt;a style=&#34;line-height: 1.5em;&#34; href=&#34;http://www.seecore.org/d/ais85a_en.pdf&#34; target=&#34;_blank&#34;&gt;seecore.org&lt;/a&gt; &lt;span style=&#34;line-height: 1.5em;&#34;&gt;on &lt;/span&gt;&lt;strong style=&#34;line-height: 1.5em;&#34;&gt;ARIZ 71&lt;/strong&gt;&lt;span style=&#34;line-height: 1.5em;&#34;&gt;, that is described in the book, &lt;/span&gt;&lt;a style=&#34;line-height: 1.5em;&#34; href=&#34;http://www.amazon.com/Innovation-Algorithm-systematic-innovation-creativity/dp/0964074044&#34; target=&#34;_blank&#34;&gt;Innovation Algorithm&lt;/a&gt; &lt;span style=&#34;line-height: 1.5em;&#34;&gt;by Genrich Altshuller. ARIZ can be used to solve problems. &lt;/span&gt;&lt;/p&gt;
-
-&lt;p&gt;Some tips that I have learnt from experts in the field are:&lt;/p&gt;
-
-&lt;ol&gt;
-&lt;li&gt;ARIZ is very methodical and systematic. Try to persist till you get the right solution&lt;/li&gt;
-&lt;li&gt;ARIZ can sometimes be painstakingly long, so if you are unable to solve your problem through other means, by all means, try those. When all else fails, use ARIZ&lt;/li&gt;
-&lt;li&gt;Like with any other new technique, ARIZ requires 2 things: Practice and a mentor
-
-&lt;ol&gt;
-&lt;li&gt;Practice: 80 hours in classroom like atmosphere with peers is highly recommended&lt;/li&gt;
-&lt;li&gt;You can use the powerpoint version of ARIZ to help you with solving the problem that you have undertaken. However, a regular flipchart (A0 or A1) is highly recommended.&lt;/li&gt;
-&lt;/ol&gt;&lt;/li&gt;
-&lt;li&gt;Lastly, you will go through all the emotions involved in dealing with an unsolved problem &amp;#8211; some of it good, some of it not so good! Persist with the problem, if you care to solve it&amp;#8230; 🙂&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;I&amp;#8217;ll try and anticipate one question: Why ARIZ71 and not 85 or 87? First of all, ARIZ71 was written by Genrich Altshuller in 1971, hence the number 71. Second of all, ARIZ71, in my humble opinion, is worded in simpler terms than the subsequent ARIZ versions. Besides, I hear from experts that the spirit of TRIZ and ARIZ is essentially unchanged, barring a few details, in all the versions of ARIZ.&lt;/p&gt;
-
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
-
-&lt;h1 id=&#34;part-1-choosing-the-problem&#34;&gt;Part 1: Choosing the Problem&lt;/h1&gt;
-
-&lt;h2 id=&#34;step-1-1-determine-the-final-goal-of-a-solution&#34;&gt;Step 1-1&lt;strong&gt;:&lt;/strong&gt; Determine the final goal of a solution&lt;/h2&gt;
-
-&lt;ol type=&#34;a&#34;&gt;
-  &lt;li&gt;
-    What is the technical goal (what characteristic of the object must be changed)?
-  &lt;/li&gt;
-  &lt;li&gt;
-    What characteristic of the object obviously cannot be changed in the process of solving a problem?
-  &lt;/li&gt;
-  &lt;li&gt;
-    What is the economic goal of the solution? (Which expense will be reduced if the problem is solved?)
-  &lt;/li&gt;
-  &lt;li&gt;
-    What is the roughly acceptable expense?
-  &lt;/li&gt;
-  &lt;li&gt;
-    What is the main technical / economic characteristic that must be improved?
-  &lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
-
-&lt;h2 id=&#34;step-1-2-bypass-approach&#34;&gt;Step 1-2: Bypass approach&lt;/h2&gt;
-
-&lt;p&gt;&lt;em&gt;Investigate a &amp;#8220;bypass approach&amp;#8221;. Imagine that the problem, in principle, cannot be solved. What other, more general problem, can be solved to reach the required final result?&lt;/em&gt;&lt;/p&gt;
-
-&lt;ol type=&#34;a&#34;&gt;
-  &lt;li&gt;
-    Proceed to the super-system (for the given system, from which the problem originated) and reformulate the original problem at the level of the supersystem.
-  &lt;/li&gt;
-  &lt;li&gt;
-    Proceed to the sub-systems (the given system contains a set of subsystems) and reformulate the original problem at the level of the subsystems (e.g. substances).
-  &lt;/li&gt;
-  &lt;li&gt;
-    Reformulate the original problem for three levels (super-system, system, sub-system) by replacing the required action (or feature) with an opposite action (or feature).
-  &lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;h2 id=&#34;step-1-3&#34;&gt;Step 1-3:&lt;/h2&gt;
-
-&lt;p&gt;&lt;em&gt;Determine which problem, the original or the bypass, makes the most sense to solve. Choose which to pursue: take into account the objective factors (what are the system reserves of evolution); take into account the subjective factors (which problem it is supposed to solve – mini-problem or maxi-problem).&lt;/em&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;step-1-4&#34;&gt;Step 1-4:&lt;/h2&gt;
-
-&lt;p&gt;&lt;strong&gt;__&lt;/strong&gt;&lt;em&gt;Determine the required quantitative characteristics.&lt;/em&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;step-1-5&#34;&gt;Step 1-5.&lt;/h2&gt;
-
-&lt;p&gt;&lt;em&gt;Increase the required quantitative characteristics by considering the time for implementing the invention.&lt;/em&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;step-1-6&#34;&gt;Step 1-6.&lt;/h2&gt;
-
-&lt;p&gt;&lt;em&gt;Define the requirements of the specific conditions in which the invention is going to function.&lt;/em&gt;&lt;/p&gt;
-
-&lt;ol type=&#34;a&#34;&gt;
-  &lt;li&gt;
-    Consider the specific conditions for manufacturing the product: in particular, the acceptable degree of complexity.
-  &lt;/li&gt;
-  &lt;li&gt;
-    Consider the scale of future applications.
-  &lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;h2 id=&#34;note-this-step-is-given-in-ariz-85a-but-not-in-ariz-71&#34;&gt;[NOTE: This step is given in ARIZ 85a, but not in ARIZ 71&lt;/h2&gt;
-
-&lt;h2 id=&#34;step-1-7&#34;&gt;Step 1-7&lt;/h2&gt;
-
-&lt;p&gt;&lt;em&gt;Examine if it is possible to solve the problem by direct application of the Inventive Standards. If the problem has been solved, go to 5.1. If the problem is still unsolved, go to Step 2-1.&lt;/em&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;toc_9&#34;&gt;]&lt;/h2&gt;
-
-&lt;h1 id=&#34;part-2-defining-the-problem-more-precisely&#34;&gt;Part 2: Defining the Problem more precisely&lt;/h1&gt;
-
-&lt;h2 id=&#34;step-2-1&#34;&gt;Step 2-1&lt;strong&gt;: &lt;/strong&gt;&lt;/h2&gt;
-
-&lt;p&gt;&lt;em&gt;Define the problem more precisely using patent information.&lt;/em&gt;&lt;/p&gt;
-
-&lt;ol type=&#34;a&#34;&gt;
-  &lt;li&gt;
-    How are problems close to the given one solved in other patents?
-  &lt;/li&gt;
-  &lt;li&gt;
-    How are similar problems solved in leading industries?
-  &lt;/li&gt;
-  &lt;li&gt;
-    How are opposite problems solved?
-  &lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;h2 id=&#34;step-2-2&#34;&gt;Step 2-2:&lt;/h2&gt;
-
-&lt;p&gt;&lt;em&gt;Use STC operator (Size, Time, Cost).&lt;/em&gt;&lt;/p&gt;
-
-&lt;ol type=&#34;a&#34;&gt;
-  &lt;li&gt;
-    Imagine changing the dimensions of an object from its given value to infinity (S → ∞). Can this problem now be solved? If so, how?
-  &lt;/li&gt;
-  &lt;li&gt;
-    Imagine changing the dimensions of an object from its given value to zero (S → 0). Can this problem now be solved? If so, how?
-  &lt;/li&gt;
-  &lt;li&gt;
-    Imagine changing the time of the process (or the speed of an object) from its given value to infinity (T → ∞). Can this problem now be solved? If so, how?
-  &lt;/li&gt;
-  &lt;li&gt;
-    Imagine changing the time of the process (or the speed of an object) from its given value to zero (T → 0). Can this problem now be solved? If so, how?
-  &lt;/li&gt;
-  &lt;li&gt;
-    Imagine changing the cost (allowed spending) of an object or process from its given value to infinity (C →∞). Can this problem now be solved? If so, how?
-  &lt;/li&gt;
-  &lt;li&gt;
-    Imagine changing the cost (allowed spending) of an object or process from its given value to zero (C → 0). Can this problem now be solved? If so, how?
-  &lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;h2 id=&#34;step-2-3&#34;&gt; Step 2-3:&lt;/h2&gt;
-
-&lt;p&gt;&lt;em&gt;Describe the conditions of the problem (without using special terms, and without stating what exactly must be thought out, found, or developed) in two phrases using the following format:&lt;/em&gt;&lt;/p&gt;
-
-&lt;ol type=&#34;a&#34;&gt;
-  &lt;li&gt;
-    &amp;#8220;Given a system consisting of (&lt;em&gt;describe its elements&lt;/em&gt;).&amp;#8221; Example: &amp;#8220;There is a &lt;em&gt;pipeline&lt;/em&gt; with a &lt;em&gt;valve&lt;/em&gt;.&amp;#8221;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &amp;#8220;Element (&lt;em&gt;state element&lt;/em&gt;), under conditions (state conditions), produces the undesirable effect (state effect).&amp;#8221; Example: &amp;#8220;&lt;em&gt;Water&lt;/em&gt; with &lt;em&gt;particles of iron ore&lt;/em&gt; is &lt;em&gt;transported through this pipe&lt;/em&gt;. The particles of ore are &lt;em&gt;wearing the valve&lt;/em&gt;.&amp;#8221;
-  &lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;h2 id=&#34;step-2-4&#34;&gt;Step 2-4:&lt;/h2&gt;
-
-&lt;p&gt;Enter the elements of Step 2-3a into a table:&lt;/p&gt;
-
-&lt;table border=&#34;1&#34; cellspacing=&#34;0&#34; cellpadding=&#34;0&#34;&gt;
-  &lt;tr&gt;
-    &lt;td valign=&#34;top&#34; width=&#34;312&#34;&gt;
-      &lt;p align=&#34;center&#34;&gt;
-        &lt;b&gt;TYPES OF ELEMENTS&lt;/b&gt;
-      &lt;/p&gt;
-    &lt;/td&gt;
-    
-    &lt;td valign=&#34;top&#34; width=&#34;312&#34;&gt;
-      &lt;p align=&#34;center&#34;&gt;
-        &lt;b&gt;ELEMENTS&lt;/b&gt;
-      &lt;/p&gt;
-    &lt;/td&gt;
-  &lt;/tr&gt;
-  
-  &lt;tr&gt;
-    &lt;td valign=&#34;top&#34; width=&#34;312&#34;&gt;
-      a. Elements that can be changed, redesigned, or returned (under the conditions of this problem)
-    &lt;/td&gt;
-    
-    &lt;td valign=&#34;top&#34; width=&#34;312&#34;&gt;
-      Example from above: &lt;i&gt;pipeline, valve&lt;/i&gt;.
-    &lt;/td&gt;
-  &lt;/tr&gt;
-  
-  &lt;tr&gt;
-    &lt;td valign=&#34;top&#34; width=&#34;312&#34;&gt;
-      b. Elements that are difficult to change (under the conditions of this problem)
-    &lt;/td&gt;
-    
-    &lt;td valign=&#34;top&#34; width=&#34;312&#34;&gt;
-      Example from above: &lt;i&gt;water, ore particles&lt;/i&gt;.
-    &lt;/td&gt;
-  &lt;/tr&gt;
-&lt;/table&gt;
-
-&lt;h2 id=&#34;step-2-5&#34;&gt;Step 2-5:&lt;/h2&gt;
-
-&lt;p&gt;Choose from Step 2-4a the easiest element to change, redesign, or tune. Note:&lt;/p&gt;
-
-&lt;ol&gt;
-&lt;li&gt;If all elements in &lt;em&gt;Step 2-4a&lt;/em&gt; are equal by degree of possible changes, begin with an immobile, element (usually they are easier to change than mobile ones).&lt;/li&gt;
-&lt;li&gt;If there is an element in &lt;em&gt;Step 2-4a&lt;/em&gt; that is connected with an undesirable effect (usually this is indicated in &lt;em&gt;Step 2-3b&lt;/em&gt;), choose it only as the last resort.&lt;/li&gt;
-&lt;li&gt;If the system has only the elements in &lt;em&gt;Step 2-4b&lt;/em&gt;, take as an element the outside environment.&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;Example: Choose &lt;em&gt;pipeline&lt;/em&gt; because &lt;em&gt;valve&lt;/em&gt; is connected to the undesirable effect &lt;em&gt;wearing&lt;/em&gt;.&lt;/p&gt;
-
-&lt;h1 id=&#34;part-3-analytical-stage&#34;&gt;Part 3: Analytical Stage&lt;/h1&gt;
-
-&lt;h2 id=&#34;step-3-1&#34;&gt;Step 3-1:&lt;/h2&gt;
-
-&lt;p&gt;Formulate the IFR (Ideal Final Result) using the following format:&lt;/p&gt;
-
-&lt;ol&gt;
-&lt;li&gt;Select the element from &lt;em&gt;Step 2-5&lt;/em&gt;&lt;/li&gt;
-&lt;li&gt;State its action&lt;/li&gt;
-&lt;li&gt;State &lt;em&gt;how&lt;/em&gt; it performs this action (when answering this question, always use the words “by itself”)&lt;/li&gt;
-&lt;li&gt;State &lt;em&gt;when&lt;/em&gt; it performs this action&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;Example: (a) Pipeline… (b) changes its cross section… &amp;copy; by itself… (d) when flow control is required… (e) without wearing.&lt;/p&gt;
-
-&lt;h2 id=&#34;step-3-2&#34;&gt;Step 3-2:&lt;/h2&gt;
-
-&lt;p&gt;&lt;em&gt;Draw two pictures – (1) “Initial” (the condition before &lt;strong&gt;IFR&lt;/strong&gt;), and (2) “Ideal” (condition upon attaining &lt;strong&gt;IFR&lt;/strong&gt;).&lt;/em&gt; Note: The pictures may be arbitrary as long as they reflect the essences “Initial” and “Ideal”. The “Ideal” picture must reflect the written formulation of the &lt;strong&gt;IFR&lt;/strong&gt;. Test of &lt;em&gt;Step 3-2&lt;/em&gt;: All elements stated in &lt;em&gt;Step 2-3a&lt;/em&gt; must be in the picture. If the outside environment is chosen in &lt;em&gt;Step 2-5&lt;/em&gt;, it must be shown in the “ideal” section of the picture.&lt;/p&gt;
-
-&lt;h2 id=&#34;step-3-3&#34;&gt;Step 3-3:&lt;/h2&gt;
-
-&lt;p&gt;&lt;em&gt;In the “ideal” picture, find the element indicated in Step 3-1a and highlight (by a different color, or other means) that part which cannot perform the required function under the required conditions.&lt;/em&gt; Example: In our problem, the internal surface of the pipeline will be such a part&lt;/p&gt;
-
-&lt;h2 id=&#34;step-3-4&#34;&gt;Step 3-4:&lt;/h2&gt;
-
-&lt;p&gt;&lt;em&gt;Why can this element (by itself) not perform the required action?&lt;/em&gt; Supplementary questions:&lt;/p&gt;
-
-&lt;ol&gt;
-&lt;li&gt;What do we expect from the highlighted area of the object?&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;Example: The internal surface of the pipe must, by itself, change its cross section in order to change the flow.&lt;/p&gt;
-
-&lt;ol&gt;
-&lt;li&gt;What prevents it from performing this action by itself?&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;Example: It is immobile; therefore, it cannot separate itself from the pipe’s wall.&lt;/p&gt;
-
-&lt;ol&gt;
-&lt;li&gt;What is the conflict between “a” and “b” above?&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;Example: It must be &lt;em&gt;immobile&lt;/em&gt; (as an element of the rigid pipe) and &lt;em&gt;mobile&lt;/em&gt; (as a contractible and releasable element of the controller).&lt;/p&gt;
-
-&lt;h2 id=&#34;step-3-5&#34;&gt;Step 3-5:&lt;/h2&gt;
-
-&lt;p&gt;&lt;em&gt;Under what conditions can this part provide the required action? (What parameters should this part posses?)&lt;/em&gt; Note: Do not consider whether or not this is possible to realize at this time. Just name the characteristic and don’t be concerned about how it will be accomplished. Example: On the internal surface of the pipe a layer of some substance appears, bringing the internal surface closer to the axis of the pipe. When required, this layer disappears, and the internal surface moves further from the axis.&lt;/p&gt;
-
-&lt;h2 id=&#34;step-3-6&#34;&gt;Step 3-6:&lt;/h2&gt;
-
-&lt;p&gt;What must be done so that this element (the internal surface of the pipe) attains the characteristic described in &lt;em&gt;Step 3-5&lt;/em&gt;? Auxiliary points:&lt;/p&gt;
-
-&lt;ol&gt;
-&lt;li&gt;On your picture, indicate with arrows the forces that need to be applied to the highlighted part of the object in order to produce the desired characteristic.&lt;/li&gt;
-&lt;li&gt;How can these forces be developed? (Do not consider methods that contradict the conditions in &lt;em&gt;Step 3-1e&lt;/em&gt;).&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;Example: On the internal surface of the pipe, particles of iron ore or water (ice) can be grown. There are no other substances inside the pipe. This will determine our choice.&lt;/p&gt;
-
-&lt;h2 id=&#34;step-3-7&#34;&gt;Step 3-7:&lt;/h2&gt;
-
-&lt;p&gt;Formulate a concept that can be practically realized. If there are several concepts, number them with the most promising as number one. Write down all such concepts Example: Design a section of the pipe from a non-magnetic material. Then, with the help of an electro-magnetic field, “grow” particles of iron ore on the pipe’s internal surface.&lt;/p&gt;
-
-&lt;h2 id=&#34;step-3-8&#34;&gt;Step 3-8&lt;/h2&gt;
-
-&lt;p&gt;Provide a schematic for realizing the first concept Auxiliary questions:&lt;/p&gt;
-
-&lt;ol&gt;
-&lt;li&gt;What is the “aggregrate” (composite parts) state of the working element of the new device?&lt;/li&gt;
-&lt;li&gt;How does the device change during one cycle?&lt;/li&gt;
-&lt;li&gt;How does the device change after many cycles?&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;After creating this concept, it is recommended that you return to &lt;em&gt;Step 3-7&lt;/em&gt; and consider other concepts.&lt;/p&gt;
-
-&lt;h1 id=&#34;part-4-preliminary-analysis-of-the-arrived-at-concept&#34;&gt;Part 4: Preliminary Analysis of the Arrived-at Concept&lt;/h1&gt;
-
-&lt;h2 id=&#34;step-4-1&#34;&gt;Step 4-1:&lt;/h2&gt;
-
-&lt;p&gt;What is getting better, and what is getting worse, during the utilization of the new idea or concept? Write down what is achieved and what is getting more complicated or more expensive.&lt;/p&gt;
-
-&lt;h2 id=&#34;step-4-2&#34;&gt;Step 4-2:&lt;/h2&gt;
-
-&lt;p&gt;Is it possible to prevent that which is getting worse by changing the proposed device or method? Make a drawing of the changed device or method&lt;/p&gt;
-
-&lt;h2 id=&#34;step-4-3&#34;&gt;Step 4-3:&lt;/h2&gt;
-
-&lt;p&gt;What is getting worse (more complicated, more expensive) now?&lt;/p&gt;
-
-&lt;h2 id=&#34;step-4-4&#34;&gt;Step 4-4:&lt;/h2&gt;
-
-&lt;p&gt;Compare gains and losses.&lt;/p&gt;
-
-&lt;ol&gt;
-&lt;li&gt;Which is larger?&lt;/li&gt;
-&lt;li&gt;Why?&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;If there is greater gain than loss (even in the future), go to &lt;em&gt;Part Six, the Synthesis Stage of ARIZ&lt;/em&gt;. If losses are greater than gains, return to &lt;em&gt;Step 3-1&lt;/em&gt;. Record, on the same paper as the original analysis, the sequence of the secondary analysis as well as its result. Proceed to &lt;em&gt;Step 4-5&lt;/em&gt;.&lt;/p&gt;
-
-&lt;h2 id=&#34;step-4-5&#34;&gt;Step 4-5:&lt;/h2&gt;
-
-&lt;p&gt;&lt;em&gt;If the gain is now greater than any losses, go to Part Six, the Synthesis Stage of ARIZ. If the secondary analysis did not produce a new result, return to Step 2-4 and check the table. Take from Step 2-5 other elements of the system and make a new analysis. Write down the second analysis and its result.&lt;/em&gt; If there is no satisfactory solution after Step 4-5, go to the next part of ARIZ.&lt;/p&gt;
-
-&lt;h1 id=&#34;part-5-operative-stage&#34;&gt;Part 5: Operative Stage&lt;/h1&gt;
-
-&lt;h2 id=&#34;step-5-1&#34;&gt;Step 5-1:&lt;/h2&gt;
-
-&lt;p&gt;&lt;em&gt;From the vertical column of the Contradiction Matrix, choose the characteristic that must be improved.&lt;/em&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;step-5-2&#34;&gt;Step 5-2:&lt;/h2&gt;
-
-&lt;ol&gt;
-&lt;li&gt;&lt;em&gt;a.     &lt;/em&gt; &lt;em&gt;How can we improve this characteristic (from Step 5-1) utilizing any known means (if losses are not considered)?&lt;/em&gt;&lt;/li&gt;
-&lt;li&gt;&lt;em&gt;b.     &lt;/em&gt; &lt;em&gt;Which characteristic becomes unacceptable if a known means is used?&lt;/em&gt;&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;h2 id=&#34;step-5-3&#34;&gt;Step 5-3:&lt;/h2&gt;
-
-&lt;p&gt;&lt;em&gt;From the horizontal row of the Contradiction Matrix, choose that characteristic corresponding to Step 5-2b.&lt;/em&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;step-5-4&#34;&gt;Step 5-4:&lt;/h2&gt;
-
-&lt;p&gt;&lt;em&gt;In the Matrix, find the principles for removing the technical contradiction (this means, locate the cell at the intersection of the column from Step 5-1 and the row from Step 5-3).&lt;/em&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;step-5-5&#34;&gt;Step 5-5:&lt;/h2&gt;
-
-&lt;p&gt;&lt;em&gt;Investigate how these principles can be used (we will discuss these principles in the following chapters)&lt;/em&gt; If the problem is now solved, return to Part 4 of ARIZ, evaluate the new idea, and then go to Part 6 of ARIZ. If the problem is not solved, perform the following Part 5 Steps.&lt;/p&gt;
-
-&lt;h2 id=&#34;step-5-6&#34;&gt;Step 5-6:&lt;/h2&gt;
-
-&lt;p&gt;&lt;em&gt;Investigate the possibility of applying physical phenomena and effects&lt;/em&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;step-5-7&#34;&gt;Step 5-7:&lt;/h2&gt;
-
-&lt;p&gt;&lt;em&gt;Investigate the possibility of changing the action’s point in time/duration.&lt;/em&gt; Auxiliary questions:&lt;/p&gt;
-
-&lt;ol&gt;
-&lt;li&gt;Is it possible to remove a contradiction by “stretching” the time frame of its action?&lt;/li&gt;
-&lt;li&gt;Is it possible to remove a contradiction by “shrinking” the time frame of its action?&lt;/li&gt;
-&lt;li&gt;Is it possible to remove a contradiction by providing an action &lt;em&gt;before&lt;/em&gt; an object finishes its operation?&lt;/li&gt;
-&lt;li&gt;Is it possible to remove a contradiction by providing an action &lt;em&gt;after&lt;/em&gt; an object starts to operation?&lt;/li&gt;
-&lt;li&gt;If the process is continuous, investigate the possibility of making a transition to periodic action.&lt;/li&gt;
-&lt;li&gt;If the process is periodic, investigate the possibility of making a transition to continuous action.&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;h2 id=&#34;step-5-8&#34;&gt;Step 5-8:&lt;/h2&gt;
-
-&lt;p&gt;&lt;em&gt;How are similar problems solved in nature?&lt;/em&gt; Auxiliary questions:&lt;/p&gt;
-
-&lt;ol&gt;
-&lt;li&gt;How have non-living parts of nature solved this problem?&lt;/li&gt;
-&lt;li&gt;How did ancient plants or animals solve this problem?&lt;/li&gt;
-&lt;li&gt;How do contemporary organisms solve this problem?&lt;/li&gt;
-&lt;li&gt;What corrections must be made in consideration of specific new technology and materials?&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;h2 id=&#34;step-5-9&#34;&gt;Step 5-9:&lt;/h2&gt;
-
-&lt;p&gt;&lt;em&gt;Investigate the possibility of making changes to those objects that operate in conjunction with ours&lt;/em&gt; Auxiliary questions:&lt;/p&gt;
-
-&lt;ol&gt;
-&lt;li&gt;What super-system does our system belong to?&lt;/li&gt;
-&lt;li&gt;How can this problem be solved if we change the super-system?&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;If the problem is still not solved, return to Step 1-3. If it is solved, return to Part 4 of ARIZ – evaluate the found idea – and then proceed to Part 6 of ARIZ.&lt;/p&gt;
-
-&lt;h2 id=&#34;step-6-1&#34;&gt;Step 6-1:&lt;/h2&gt;
-
-&lt;p&gt;&lt;em&gt;Determine how the super system to which our modified system belongs must be changed.&lt;/em&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;step-6-2&#34;&gt;Step 6-2:&lt;/h2&gt;
-
-&lt;p&gt;&lt;em&gt;Explore how our modified system may be used differently.&lt;/em&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;step-6-3&#34;&gt;Step 6-3:&lt;/h2&gt;
-
-&lt;p&gt;&lt;em&gt;Utilize the newly found technical idea (or an idea opposite to the one found) to solve other technical problems.&lt;/em&gt;&lt;/p&gt;
-</description>
+      <description>[google-drive-embed url=&amp;#8221;https://docs.google.com/presentation/d/1s4sVnO2y_wfCNrzRdEXDrfYU9RkZIlVbBicSEdJL23Y/preview&amp;amp;#8221; title=&amp;#8221;ARIZ-71&amp;#8243; icon=&amp;#8221;https://ssl.gstatic.com/docs/doclist/images/icon_11_presentation_list.png&amp;amp;#8221; width=&amp;#8221;100%&amp;#8221; height=&amp;#8221;400&amp;#8243; extra=&amp;#8221;undefined&amp;#8221; style=&amp;#8221;embed&amp;#8221;]
+[google-drive-embed url=&amp;#8221;https://docs.google.com/presentation/d/1s4sVnO2y_wfCNrzRdEXDrfYU9RkZIlVbBicSEdJL23Y/edit?usp=drivesdk&amp;amp;#8221; title=&amp;#8221;ARIZ-71&amp;#8243; icon=&amp;#8221;https://ssl.gstatic.com/docs/doclist/images/icon_11_presentation_list.png&amp;amp;#8221; newwindow=&amp;#8221;yes&amp;#8221; style=&amp;#8221;normal&amp;#8221;]
+This is an extract from seecore.org on ARIZ 71, that is described in the book, Innovation Algorithm by Genrich Altshuller. ARIZ can be used to solve problems. 
+Some tips that I have learnt from experts in the field are:
+ ARIZ is very methodical and systematic. Try to persist till you get the right solution ARIZ can sometimes be painstakingly long, so if you are unable to solve your problem through other means, by all means, try those.</description>
     </item>
     
     <item>
@@ -652,38 +105,12 @@
       <pubDate>Wed, 09 Apr 2014 00:00:00 +0000</pubDate>
       
       <guid>http://trizindia.org/page/about-me/</guid>
-      <description>
-
-&lt;p&gt;You can see my custom about-me page &lt;a href=&#34;http://mmrath.com/page/about-me/&#34;&gt;here&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Hugo is a static site engine written in Go.&lt;/p&gt;
-
-&lt;p&gt;It makes use of a variety of open source projects including:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/spf13/cobra&#34;&gt;Cobra&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/spf13/viper&#34;&gt;Viper&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/spf13/jWalterWeatherman&#34;&gt;J Walter Weatherman&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/spf13/cast&#34;&gt;Cast&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Learn more and contribute on &lt;a href=&#34;https://github.com/spf13&#34;&gt;GitHub&lt;/a&gt;.&lt;/p&gt;
-
-&lt;h2 id=&#34;setup&#34;&gt;Setup&lt;/h2&gt;
-
-&lt;p&gt;Some fun facts about &lt;a href=&#34;http://gohugo.io/&#34;&gt;Hugo&lt;/a&gt;:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Built in &lt;a href=&#34;http://golang.org/&#34;&gt;Go&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Loosely inspired by &lt;a href=&#34;http://jekyllrb.com/&#34;&gt;Jekyll&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Primarily developed by &lt;a href=&#34;http://spf13.com/&#34;&gt;spf13&lt;/a&gt; on the train while commuting to and from Manhattan.&lt;/li&gt;
-&lt;li&gt;Coded in &lt;a href=&#34;http://vim.org&#34;&gt;Vim&lt;/a&gt; using &lt;a href=&#34;http://vim.spf13.com/&#34;&gt;spf13-vim&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Have questions or suggestions? Feel free to &lt;a href=&#34;https://github.com/spf13/hugo/issues/new&#34;&gt;open an issue on GitHub&lt;/a&gt; or &lt;a href=&#34;https://twitter.com/spf13&#34;&gt;ask me on Twitter&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;Thanks for reading!&lt;/p&gt;
-</description>
+      <description>You can see my custom about-me page here
+Hugo is a static site engine written in Go.
+It makes use of a variety of open source projects including:
+ Cobra Viper J Walter Weatherman Cast  Learn more and contribute on GitHub.
+Setup Some fun facts about Hugo:
+ Built in Go Loosely inspired by Jekyll Primarily developed by spf13 on the train while commuting to and from Manhattan. Coded in Vim using spf13-vim  Have questions or suggestions?</description>
     </item>
     
     <item>
@@ -692,36 +119,7 @@
       <pubDate>Sat, 05 Apr 2014 02:26:40 +0000</pubDate>
       
       <guid>http://trizindia.org/2014/04/ariz-85c-algorithm-application-introduction/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;I am a parent with 2 kids and I am finding it difficult to control the amount of non-school time they are spending on the internet and digital mobile games. This I am concerned with considering the effects of such engagement on the kids holistic development and well being (body, mind and social development). We (me and my friend Bala) are applying ARIZ 85 C core algorithm of TRIZ to find the right level of problem to attack and find not-so-obvious solutions, and subsequently identify system, and sub-systems to build.&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;**If you are interested in being part of this solutioning exercise as a parent or as a kid who is interested in designing better engagements with technology or as a practitioner of systematic innovation methods and applying some of the concepts or as a developer interested in building solutions, you are welcome. **&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;There are 5 parts to the method set, which we will cover sequentially and share outputs of the methods here. Each of the method will have our inputs and application specific to the problem in hand. You may enter your responses/questions in comments.&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;**Each post will have &amp;lt;&lt;Part 
-Number&gt;&amp;gt;&amp;lt;&lt;Step Identifier&gt;&amp;gt;&amp;lt;&lt;Brief 
-Title&gt;&amp;gt;&amp;lt;&lt;Type&gt;&amp;gt;. If you are already familiar with some
- of the methods or need an overall flow of methods, you may download the free ARIZ85C guide sheet.
-**&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Part 0 Step 0.1 Determine final goal of the solution and initial situation&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;This is a questionnaire Step 0.1: determine the final goal of the solution&lt;/strong&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;*What is the technical goal (what characteristic of the object must be changed)? *Reduction in the number of hours of screen time for a child (5-12 years old)&lt;/li&gt;
-&lt;li&gt;*What characteristic of the object cannot be obviously changed in the process of solving a problem? *Parents do not have control over the content the kid watches. This cannot be changed.&lt;/li&gt;
-&lt;li&gt;*Which expense will be reduced if the problem is solved?*Kids fatigue time&lt;/li&gt;
-&lt;li&gt;*What is the roughly acceptable expense?*10-20 hours of analysis time – Murali and Bala; 1 hour a day kids expense time&lt;/li&gt;
-&lt;li&gt;*What is the main technical / economical characteristic that must be improved? *Number of hours of screen time for a child (5-12 years old) / kids’ time available for social/creative engagements&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Essentially we are trying to avoid the blue ocean thinking, completely open strategy development in this step with clear identification of the technical goal, constraints, and if this effort is worthwhile considering the expenses and the improvement that may result. We also take care to identify metrics that are associated with each of them, from a system perspective. We are ok with emotional or unmeasurable things as long as it is clearly identified and is not ambiguous.&lt;/p&gt;
-
-&lt;p&gt;Next post to follow will be on **Part 0 Step 0.1 System Operator **&lt;/p&gt;
-
-&lt;p&gt;Reference – NIMHANS -www.nimhans.ac.in/clinical-psychology/clinics-ncwb, has an center by name &lt;a href=&#34;https://www.google.co.in/search?q=SHUT+nimhns&amp;amp;ie=utf-8&amp;amp;oe=utf-8&amp;amp;gws_rd=cr&amp;amp;ei=9KK_WPHOOcSNvQSiraHgAg#q=SHUT+nimhans&amp;amp;tbs=sbd:1,qdr:y&amp;amp;tbm=nws&amp;amp;*&#34;&gt;Services for Healthy Use of Technology (SHUT) &lt;/a&gt; This center is set up to help mental conditions created due to overuse of technology at the renowned Bangalore based National Institute of Mental Health and Neurosciences, sponsored by the Central Government.&lt;/p&gt;
-</description>
+      <description>I am a parent with 2 kids and I am finding it difficult to control the amount of non-school time they are spending on the internet and digital mobile games. This I am concerned with considering the effects of such engagement on the kids holistic development and well being (body, mind and social development). We (me and my friend Bala) are applying ARIZ 85 C core algorithm of TRIZ to find the right level of problem to attack and find not-so-obvious solutions, and subsequently identify system, and sub-systems to build.</description>
     </item>
     
     <item>
@@ -730,125 +128,7 @@ Title&gt;&amp;gt;&amp;lt;&lt;Type&gt;&amp;gt;. If you are already familiar with 
       <pubDate>Tue, 01 Apr 2014 13:28:07 +0000</pubDate>
       
       <guid>http://trizindia.org/2014/04/the-secret-sauce-of-innovation/</guid>
-      <description>&lt;h1 dir=&#34;ltr&#34;&gt;
-&lt;/h1&gt;
-
-&lt;p dir=&#34;ltr&#34;&gt;
-  TRIZ (Russian acronym for Theory of Inventive Problem Solving) has been known for many decades. Innovation for mankind has been around since fire and wheel were invented and used successfully. Prior to TRIZ and its ally ARIZ (The Algorithm of Inventive Problem Solving), inventing was best left to people who were born with such a gift (or believed they were born with such a gift). With the advent and successful implementations of TRIZ/ARIZ to solve many challenging problems, one can confidently say that inventiveness can certainly be learnt. Our own experience in the field also points to the very same conclusion. The most common (FFAQ or frequently frequently asked question) is “I have managed just fine solving problems without TRIZ/ARIZ, why should I learn something like this?”. Our (and many others like us) answer is “Good question. If you are able to solve problems on your own, please go ahead and do that, since that is the best way to solve problems. If you can’t, TRIZ can help, write to us”.
-&lt;/p&gt;
-
-&lt;p dir=&#34;ltr&#34;&gt;
-  What in the world is TRIZ/ARIZ? You might ask. we have a 10 word, 15 symbol, 8 number answer &amp;#8211; &lt;a href=&#34;http://trizindia.org/2011/11/what-in-the-world-is-triz-part-1-2/&#34;&gt;http://trizindia.org/2011/11/what-in-the-world-is-triz-part-1-2/&lt;/a&gt;. Or better still, click the link given above.. 🙂 Please listen to &lt;a href=&#34;http://trizindia.org/2011/12/what-in-the-world-is-triz-part-2-2/&#34;&gt;http://trizindia.org/2011/12/what-in-the-world-is-triz-part-2-2/&lt;/a&gt; also.
-&lt;/p&gt;
-
-&lt;p dir=&#34;ltr&#34;&gt;
-  Once, you have applied the principles, solved many problems and you are ready to teach others how to solve these problems, there is always a problem coming your way &amp;#8211; “boy, o boy, which one of the umpteen techniques that I applied should I teach these guys to solve their problem”. Of course, you are tired of hearing the dreaded consultant “It depends” answer. Also, you don’t want to come across as a retired Colonel reciting his Victoria Cross stories to his bored lieutenants (Direct reference to Jungle Book’s Colonel Hathi). Both these options are tempting, but can have undesirable consequences on your participants. 🙂&lt;img alt=&#34;&#34; src=&#34;https://lh6.googleusercontent.com/Shz7sL-9aq22BAbADT2k_5-3xpG0fOK0WWSKiCZMEyDHbij4wi4NfdbDUIXV9lOBEft6hKQi9F3bZoOZvl96BLYbLscDYfv2AGRhRg0MFhl6LJ6uoyG-yum-jPuesA&#34; width=&#34;450px;&#34; height=&#34;253px;&#34; /&gt;
-&lt;/p&gt;
-
-&lt;p dir=&#34;ltr&#34;&gt;
-  (Image Source: &lt;a href=&#34;http://www.animationsource.org/sites_content/jungle_book/upload/fanchars/pic_detail4de7df4ec4fac.png&#34;&gt;http://www.animationsource.org/sites_content/jungle_book/upload/fanchars/pic_detail4de7df4ec4fac.png&lt;/a&gt;)
-&lt;/p&gt;
-
-&lt;p dir=&#34;ltr&#34;&gt;
-  So what can you do now? Here is a secret sauce that has worked like magic for us.&lt;img alt=&#34;&#34; src=&#34;https://lh5.googleusercontent.com/ppQkEUrcB3JpQQ8Okf8rTvNxfdKRfnSdYPF5kIHEg_5T1f7CiUMs_rIZtnuPeF8oLmpUIbMG60tM3rnAZITcL9g498MV7NSz3H18BMEh9Bqwc2LzL6O0-Hdh1cO85w&#34; width=&#34;532px;&#34; height=&#34;323px;&#34; /&gt;
-&lt;/p&gt;
-
-&lt;p dir=&#34;ltr&#34;&gt;
-  First of all, let us give you some theory.
-&lt;/p&gt;
-
-&lt;p dir=&#34;ltr&#34;&gt;
-  In selecting TRIZ techniques for application, you are faced with 3 major dimensions (as given in the Figure, the only figure, we promise),
-&lt;/p&gt;
-
-&lt;p dir=&#34;ltr&#34;&gt;
-  1.       The Person
-&lt;/p&gt;
-
-&lt;p dir=&#34;ltr&#34;&gt;
-  2.       The Problem
-&lt;/p&gt;
-
-&lt;p dir=&#34;ltr&#34;&gt;
-  3.       The Method
-&lt;/p&gt;
-
-&lt;p dir=&#34;ltr&#34;&gt;
-  Person dimension includes the nature of participant or someone who will benefit by solving the problem or resolving a contradiction. Our experience indicates participants may belong to any of the below levels
-&lt;/p&gt;
-
-&lt;p dir=&#34;ltr&#34;&gt;
-  ·         ‘Not for me’
-&lt;/p&gt;
-
-&lt;p dir=&#34;ltr&#34;&gt;
-  ·         ‘I Like this’
-&lt;/p&gt;
-
-&lt;p dir=&#34;ltr&#34;&gt;
-  ·         ‘I will apply as situation demands’
-&lt;/p&gt;
-
-&lt;p dir=&#34;ltr&#34;&gt;
-  ·         ‘this changed my way of thinking completely’
-&lt;/p&gt;
-
-&lt;p dir=&#34;ltr&#34;&gt;
-  For TRIZ to become sustainable the more the number of people maturing to level 4, the better it is. So the first 3 levels have to be handled with care to make sure applications are easy and rigorous considering the next 2 dimensions.
-&lt;/p&gt;
-
-&lt;p dir=&#34;ltr&#34;&gt;
-  Problem dimension includes how certain problems need special handling, with readymade tools from TRIZ portfolio.
-&lt;/p&gt;
-
-&lt;p dir=&#34;ltr&#34;&gt;
-  e.g.
-&lt;/p&gt;
-
-&lt;p dir=&#34;ltr&#34;&gt;
-  ·         For application around visualizing space-time, system operator (or 9 windows or 9 screens as it is fondly referred to) and an independent function analysis may well suffice
-&lt;/p&gt;
-
-&lt;p dir=&#34;ltr&#34;&gt;
-  ·         For imagining the ideal future, Ideal Final Result and follow up with the Size Time Cost operator may be useful
-&lt;/p&gt;
-
-&lt;p dir=&#34;ltr&#34;&gt;
-  ·         For resolving problems in tool/substance interactions, Substance-Field with standard solutions may be looked at
-&lt;/p&gt;
-
-&lt;p dir=&#34;ltr&#34;&gt;
-  ·         For pure differentiation or following possible evolution paths of systems, the Trends of Engineering Systems Evolution will be handy
-&lt;/p&gt;
-
-&lt;p dir=&#34;ltr&#34;&gt;
-  The final dimension of Methods is mentioned here because some methods lend itself for easy combination with others. e.g.
-&lt;/p&gt;
-
-&lt;p dir=&#34;ltr&#34;&gt;
-  ·         Immediately after doing functional analysis, time is right for trimming
-&lt;/p&gt;
-
-&lt;p dir=&#34;ltr&#34;&gt;
-  ·         While you finish a Su-Field, looking for resources then, makes solutions cheaper and robust
-&lt;/p&gt;
-
-&lt;p dir=&#34;ltr&#34;&gt;
-  With rigor being built into the method itself, only practice and benefiting for current contexts constantly can make TRIZ part of your company&amp;#8217;s innovation culture.
-&lt;/p&gt;
-
-&lt;p dir=&#34;ltr&#34;&gt;
-  TRIZ India is a growing community of global TRIZ and systematic innovation practitioners. At &lt;a href=&#34;http://trizindia.org/&#34;&gt;TRIZ Innovation India | http://trizindia.org/&lt;/a&gt;  we cater to those that are serious about ‘how to innovate’ with ‘no barriers to entry’. With TRIZ masters and experienced facilitators across the world actively engaged in the community, TRIZ Innovation India can give the necessary impetus to your specific innovation needs.
-&lt;/p&gt;
-
-&lt;p dir=&#34;ltr&#34;&gt;
-  Resources including podcasts, pro-forma for TRIZ techniques and workbooks, facilitation tips, cross domain applications, stories and special interest groups are available for free at the community site.
-&lt;/p&gt;
-
-&lt;p dir=&#34;ltr&#34;&gt;
-  It is ultimately a community of practice with the vision and objectives set by ‘you’ the community. Write to us, become part of the community, let us innovate together.
-&lt;/p&gt;
-</description>
+      <description>TRIZ (Russian acronym for Theory of Inventive Problem Solving) has been known for many decades. Innovation for mankind has been around since fire and wheel were invented and used successfully. Prior to TRIZ and its ally ARIZ (The Algorithm of Inventive Problem Solving), inventing was best left to people who were born with such a gift (or believed they were born with such a gift). With the advent and successful implementations of TRIZ/ARIZ to solve many challenging problems, one can confidently say that inventiveness can certainly be learnt.</description>
     </item>
     
     <item>
@@ -857,20 +137,10 @@ Title&gt;&amp;gt;&amp;lt;&lt;Type&gt;&amp;gt;. If you are already familiar with 
       <pubDate>Fri, 21 Mar 2014 02:26:40 +0000</pubDate>
       
       <guid>http://trizindia.org/2014/03/triztrends-2014/</guid>
-      <description>&lt;p&gt;Set in the picturesque GE Bangalore campus had some interesting pick of speakers. Thanks to GE for being a great host.&lt;/p&gt;
-
-&lt;p&gt;Peter from Reliance was hyper selective with his picks with just the contradiction and principles as the approach and I liked what worked in teams from his experiments.&lt;/p&gt;
-
-&lt;p&gt;Of course he hit the mark with India being a country of contradictions.&lt;/p&gt;
-
-&lt;p&gt;Sergei shared some interesting roi numbers and gave clear idea of Triz evolution. I liked the test done with 3 contradiction matrix, as long as ideas solved problems all is well. Most popular techniques was cool. Looks like I have made my choices always popular.&lt;/p&gt;
-
-&lt;p&gt;Interesting non technical examples resolving contradictions from art, politics, nature and religion from Sergei and Alex.&lt;/p&gt;
-
-&lt;p&gt;Debjani spoke about Triz being applied in IP field. Shankar spoke about his forever fresh innovation flow.&lt;/p&gt;
-
-&lt;p&gt;We also relaunched our site in front of Triz masters and some very innovative people. Alex&amp;#8217;s definition of disruptive as creating access to new resources was spot on.&lt;/p&gt;
-</description>
+      <description>Set in the picturesque GE Bangalore campus had some interesting pick of speakers. Thanks to GE for being a great host.
+Peter from Reliance was hyper selective with his picks with just the contradiction and principles as the approach and I liked what worked in teams from his experiments.
+Of course he hit the mark with India being a country of contradictions.
+Sergei shared some interesting roi numbers and gave clear idea of Triz evolution.</description>
     </item>
     
     <item>
@@ -879,376 +149,7 @@ Title&gt;&amp;gt;&amp;lt;&lt;Type&gt;&amp;gt;. If you are already familiar with 
       <pubDate>Thu, 20 Mar 2014 09:38:27 +0000</pubDate>
       
       <guid>http://trizindia.org/2014/03/call-for-papers-triz-future-conference-2014/</guid>
-      <description>&lt;div id=&#34;parent-fieldname-description&#34;&gt;
-  European TRIZ Association (ETRIA) is organizing TRIZ Future Conference (TFC2014) along with Exelop SA will be hosted by EPFL Lausanne, Switzerland. TFC2014 is also sponsored by CIRP, the international Academy for Production Engineering. TFC2014 will provide an international forum for exchanging new ideas on knowledge‐ based innovation and TRIZ, presenting recent achievements by the scientific community and enabling further advances and collaboration also with the industrial community.
-&lt;/div&gt;
-
-&lt;div id=&#34;viewlet-above-content-body&#34;&gt;
-&lt;/div&gt;
-
-&lt;div id=&#34;content-core&#34;&gt;
-  &lt;div id=&#34;parent-fieldname-text&#34;&gt;
-    &lt;div id=&#34;page_1&#34;&gt;
-      &lt;p&gt;
-        &lt;a href=&#34;http://trizindia.org/wp-content/uploads/2014/03/CALL-FOR-PAPERS-TFC20142x1.jpg&#34;&gt;&lt;img class=&#34;alignnone size-full wp-image-261&#34; alt=&#34;CALL FOR PAPERS TFC20142x1&#34; src=&#34;http://trizindia.org/wp-content/uploads/2014/03/CALL-FOR-PAPERS-TFC20142x1.jpg&#34; width=&#34;552&#34; height=&#34;57&#34; srcset=&#34;http://trizindia.org/wp-content/uploads/2014/03/CALL-FOR-PAPERS-TFC20142x1.jpg 552w, http://trizindia.org/wp-content/uploads/2014/03/CALL-FOR-PAPERS-TFC20142x1-300x30.jpg 300w&#34; sizes=&#34;(max-width: 552px) 100vw, 552px&#34; /&gt;&lt;/a&gt;
-      &lt;/p&gt;
-      
-      &lt;h2&gt;
-        CALL FOR PAPERS
-      &lt;/h2&gt;
-      
-      &lt;h2&gt;
-        TRIZ FUTURE CONFERENCE 14
-      &lt;/h2&gt;
-      
-      &lt;h2&gt;
-        Global innovation Convention
-      &lt;/h2&gt;
-      
-      &lt;p&gt;
-        &amp;nbsp;
-      &lt;/p&gt;
-    &lt;/div&gt;
-    
-
-&lt;pre&gt;&lt;code&gt;&amp;lt;div id=&amp;quot;page_2&amp;quot;&amp;gt;
-  &amp;lt;div&amp;gt;
-  &amp;lt;/div&amp;gt;
-
-  &amp;lt;h3&amp;gt;
-    Place:
-  &amp;lt;/h3&amp;gt;
-
-  &amp;lt;p&amp;gt;
-    EPFL (Ecole Polytechnique Fédérale de Lausanne), Switzerland
-  &amp;lt;/p&amp;gt;
-
-  &amp;lt;h3&amp;gt;
-    Duration:
-  &amp;lt;/h3&amp;gt;
-
-  &amp;lt;p&amp;gt;
-    From 29th to 31th October 2014
-  &amp;lt;/p&amp;gt;
-
-  &amp;lt;h3&amp;gt;
-    Cost:
-  &amp;lt;/h3&amp;gt;
-
-  &amp;lt;p&amp;gt;
-    650 EUR per participant (Further prices for students, Early birds, others are available on www.tfc14.com )
-  &amp;lt;/p&amp;gt;
-
-  &amp;lt;h3&amp;gt;
-    Organizer:
-  &amp;lt;/h3&amp;gt;
-
-  &amp;lt;p&amp;gt;
-    ETRIA’s TRIZ Future Conference TFC2014 is this year locally organized by Exelop SA in association with the ETRIA board and will be hosted by EPFL Lausanne – Switzerland. TFC2014 is also sponsored by CIRP, the international Academy for Production Engineering.
-  &amp;lt;/p&amp;gt;
-
-  &amp;lt;h3&amp;gt;
-    The event:
-  &amp;lt;/h3&amp;gt;
-
-  &amp;lt;p&amp;gt;
-    The 3 days conference aims at linking:
-  &amp;lt;/p&amp;gt;
-
-  &amp;lt;p&amp;gt;
-    ‐Industrialcompanies
-  &amp;lt;/p&amp;gt;
-
-  &amp;lt;p&amp;gt;
-    ‐Research centers
-  &amp;lt;/p&amp;gt;
-
-  &amp;lt;p&amp;gt;
-    ‐Educational organizations
-  &amp;lt;/p&amp;gt;
-
-  &amp;lt;p&amp;gt;
-    ‐Individuals
-  &amp;lt;/p&amp;gt;
-
-  &amp;lt;p&amp;gt;
-    to share their experience on systematic innovation and to develop research in the systematic innovation area.
-  &amp;lt;/p&amp;gt;
-
-  &amp;lt;p&amp;gt;
-    TFC2014 will provide an international forum for exchanging new ideas on knowledge‐ based innovation and TRIZ, presenting recent achievements by the scientific community and enabling further advances and collaboration also with the industrial community
-  &amp;lt;/p&amp;gt;
-
-  &amp;lt;p&amp;gt;
-    The conference is divided into twoparts:
-  &amp;lt;/p&amp;gt;
-
-  &amp;lt;p&amp;gt;
-    ‐Scientific Session: Professors and researchers present results on scientific studies
-  &amp;lt;/p&amp;gt;
-
-  &amp;lt;p&amp;gt;
-    ‐Industrial Session: Professionals present results of practical experiences, best practices, and case studies
-  &amp;lt;/p&amp;gt;
-&amp;lt;/div&amp;gt;
-
-&amp;lt;div id=&amp;quot;page_3&amp;quot;&amp;gt;
-  &amp;lt;div&amp;gt;
-  &amp;lt;/div&amp;gt;
-
-  &amp;lt;h2&amp;gt;
-    Abstracts
-  &amp;lt;/h2&amp;gt;
-
-  &amp;lt;h3&amp;gt;
-    Theories, methods, tools and experiences on:
-  &amp;lt;/h3&amp;gt;
-
-  &amp;lt;p&amp;gt;
-    ‐Global Knowledge management for innovative conception
-  &amp;lt;/p&amp;gt;
-
-  &amp;lt;p&amp;gt;
-    ‐Innovation on Servicesusing robust and systematic tools
-  &amp;lt;/p&amp;gt;
-
-  &amp;lt;p&amp;gt;
-    ‐TRIZ‐based or inspiredtheories, methodologies, techniques
-  &amp;lt;/p&amp;gt;
-
-  &amp;lt;p&amp;gt;
-    ‐Patent Mining, knowledge harvesting and representing
-  &amp;lt;/p&amp;gt;
-
-  &amp;lt;p&amp;gt;
-    ‐Any professional/industrial case study where TRIZ has played a significant role
-  &amp;lt;/p&amp;gt;
-
-  &amp;lt;p&amp;gt;
-    ‐Further advanced Innovative, Inventive &amp;amp; creative design processes based on systematicmethods
-  &amp;lt;/p&amp;gt;
-
-  &amp;lt;p&amp;gt;
-    ‐IT for innovative engineering /Computer Aided Innovation (CAI)
-  &amp;lt;/p&amp;gt;
-
-  &amp;lt;p&amp;gt;
-    ‐Knowledge Based Systematic Innovation Customized Services
-  &amp;lt;/p&amp;gt;
-
-  &amp;lt;p&amp;gt;
-    ‐Product lifecycle management, laws of technical systemevolution
-  &amp;lt;/p&amp;gt;
-
-  &amp;lt;p&amp;gt;
-    ‐Methodological support to Creativeand Inventive Design
-  &amp;lt;/p&amp;gt;
-
-  &amp;lt;p&amp;gt;
-    ‐Inventiveness, creativity, innovation measurements (or assessment) based on systematicmethods
-  &amp;lt;/p&amp;gt;
-
-  &amp;lt;p&amp;gt;
-    The subjects listed above are not limitative. They are expected to form the major themes of this TFC 2014 Conference. Submissions concerning these subjects are specifically encouraged, but all abstracts describing any aspect of systematic creative and innovative design will be given fair consideration. Authors interested in submitting abstracts are asked toupload their proposal to the conference website.
-  &amp;lt;/p&amp;gt;
-
-  &amp;lt;h3&amp;gt;
-    Review:
-  &amp;lt;/h3&amp;gt;
-
-  &amp;lt;p&amp;gt;
-    There will be a formal review of all abstracts.
-  &amp;lt;/p&amp;gt;
-
-  &amp;lt;p&amp;gt;
-    The abstracts must be submitted through the TFC2014 conference management system available through: www.tfc14.com and should be of a quality suitable for selection. The abstract should outline the major points of interest and novelty of the paper.
-  &amp;lt;/p&amp;gt;
-
-  &amp;lt;p&amp;gt;
-    Selection of the papers will be made on the basis of the following criteria:
-  &amp;lt;/p&amp;gt;
-
-  &amp;lt;p&amp;gt;
-    ‐General interest of the subject
-  &amp;lt;/p&amp;gt;
-
-  &amp;lt;p&amp;gt;
-    ‐Quality of the content
-  &amp;lt;/p&amp;gt;
-
-  &amp;lt;p&amp;gt;
-    ‐Relevance to subjects covered by any of the two committees, namely (scientific or professional).
-  &amp;lt;/p&amp;gt;
-
-  &amp;lt;p&amp;gt;
-    Authors should indicate to which category of contribution they intend to contribute.
-  &amp;lt;/p&amp;gt;
-
-  &amp;lt;h3&amp;gt;
-    Submission requirements
-  &amp;lt;/h3&amp;gt;
-
-  &amp;lt;p&amp;gt;
-    Interested parties are invited to submit an abstract (250 to 300 words) of their proposed paper with
-  &amp;lt;/p&amp;gt;
-
-  &amp;lt;p&amp;gt;
-    ‐Title, along with a brief
-  &amp;lt;/p&amp;gt;
-
-  &amp;lt;p&amp;gt;
-    ‐Name and current biography of the author/s.
-  &amp;lt;/p&amp;gt;
-
-  &amp;lt;p&amp;gt;
-    ‐Affiliation
-  &amp;lt;/p&amp;gt;
-
-  &amp;lt;p&amp;gt;
-    ‐Contact details (phone number, email id, mailing address with postal code and country)
-  &amp;lt;/p&amp;gt;
-
-  &amp;lt;p&amp;gt;
-    In order to submit your paper, a link will be available soon published onwww.tfc14.com
-  &amp;lt;/p&amp;gt;
-&amp;lt;/div&amp;gt;
-
-&amp;lt;div id=&amp;quot;page_4&amp;quot;&amp;gt;
-  &amp;lt;h3&amp;gt;
-    Important Deadlines
-  &amp;lt;/h3&amp;gt;
-
-  &amp;lt;p&amp;gt;
-    Completing requirements of the Conference on time is critical for all presenters, conference planners and attendees, so the following deadlines are mandatory for your participation.
-  &amp;lt;/p&amp;gt;
-
-  &amp;lt;table&amp;gt;
-    &amp;lt;tr&amp;gt;
-      &amp;lt;td&amp;gt;
-        Abstract due
-      &amp;lt;/td&amp;gt;
-
-      &amp;lt;td&amp;gt;
-        15th March 2014
-      &amp;lt;/td&amp;gt;
-    &amp;lt;/tr&amp;gt;
-
-    &amp;lt;tr&amp;gt;
-      &amp;lt;td&amp;gt;
-        Notification of acceptance
-      &amp;lt;/td&amp;gt;
-
-      &amp;lt;td&amp;gt;
-        30th March 2014
-      &amp;lt;/td&amp;gt;
-    &amp;lt;/tr&amp;gt;
-
-    &amp;lt;tr&amp;gt;
-      &amp;lt;td&amp;gt;
-        Full paper due
-      &amp;lt;/td&amp;gt;
-
-      &amp;lt;td&amp;gt;
-        15th May 2014
-      &amp;lt;/td&amp;gt;
-    &amp;lt;/tr&amp;gt;
-
-    &amp;lt;tr&amp;gt;
-      &amp;lt;td&amp;gt;
-        Reviewer comments
-      &amp;lt;/td&amp;gt;
-
-      &amp;lt;td&amp;gt;
-        30th June 2014
-      &amp;lt;/td&amp;gt;
-    &amp;lt;/tr&amp;gt;
-
-    &amp;lt;tr&amp;gt;
-      &amp;lt;td&amp;gt;
-        Final paperdue
-      &amp;lt;/td&amp;gt;
-
-      &amp;lt;td&amp;gt;
-        22nd July 2014
-      &amp;lt;/td&amp;gt;
-    &amp;lt;/tr&amp;gt;
-
-    &amp;lt;tr&amp;gt;
-      &amp;lt;td&amp;gt;
-        Conference
-      &amp;lt;/td&amp;gt;
-
-      &amp;lt;td&amp;gt;
-        From 29th to 31st October 2014
-      &amp;lt;/td&amp;gt;
-    &amp;lt;/tr&amp;gt;
-  &amp;lt;/table&amp;gt;
-
-  &amp;lt;h3&amp;gt;
-    Author Guidelines
-  &amp;lt;/h3&amp;gt;
-
-  &amp;lt;p&amp;gt;
-    Two different types ofpapers will be considered:
-  &amp;lt;/p&amp;gt;
-
-  &amp;lt;p&amp;gt;
-    ‐«Scientific papers» related to the TRIZ theory and methodological developments
-  &amp;lt;/p&amp;gt;
-
-  &amp;lt;p&amp;gt;
-    ‐«Practitioners papers» related to the application of Innovation methodologies
-  &amp;lt;/p&amp;gt;
-
-  &amp;lt;p&amp;gt;
-    Two lengths of papers will be distinguished:
-  &amp;lt;/p&amp;gt;
-
-  &amp;lt;p&amp;gt;
-    ‐&amp;lt;strong&amp;gt;« Short papers »&amp;lt;/strong&amp;gt;
-  &amp;lt;/p&amp;gt;
-
-  &amp;lt;p&amp;gt;
-    They should be at least 2 pages long (approximately 800 words), leading to 15 minutes of presentation (including Q&amp;amp;A)
-  &amp;lt;/p&amp;gt;
-
-  &amp;lt;p&amp;gt;
-    ‐&amp;lt;strong&amp;gt;« Long papers »&amp;lt;/strong&amp;gt;
-  &amp;lt;/p&amp;gt;
-
-  &amp;lt;p&amp;gt;
-    They should be at least 4 and maximum 6 pages long (approximately 2400 words), granting access to a full‐lengthpresentation (30 minutesincluding Q&amp;amp;A)
-  &amp;lt;/p&amp;gt;
-
-  &amp;lt;p&amp;gt;
-    The finalpaper template will be available soon on &amp;lt;a href=&amp;quot;http://www.tfc14.com/&amp;quot;&amp;gt;www.tfc14.com&amp;lt;/a&amp;gt;
-  &amp;lt;/p&amp;gt;
-
-  &amp;lt;p&amp;gt;
-    This flyer can be downloaded &amp;lt;a href=&amp;quot;http://www.format-project.eu/news/copy_of_call-for-papers-for-triz-future-conference-2014&amp;quot;&amp;gt;here&amp;lt;/a&amp;gt;.
-  &amp;lt;/p&amp;gt;
-
-  &amp;lt;p&amp;gt;
-    EXELOP SA
-  &amp;lt;/p&amp;gt;
-
-  &amp;lt;p&amp;gt;
-    Route de Saint Julien 184 A, 1228 Plan‐les‐Ouates
-  &amp;lt;/p&amp;gt;
-
-  &amp;lt;p&amp;gt;
-    GENEVE SUISSE
-  &amp;lt;/p&amp;gt;
-
-  &amp;lt;p&amp;gt;
-    Email : &amp;lt;a href=&amp;quot;mailto:info@exelop.com?subject=TFC%20Future%20Conference%202014&amp;quot;&amp;gt;info@exelop.com&amp;lt;/a&amp;gt;‐ Tél: 022 556 0801
-  &amp;lt;/p&amp;gt;
-&amp;lt;/div&amp;gt;
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;&lt;/div&gt;
-&lt;/div&gt;&lt;/p&gt;
-</description>
+      <description>European TRIZ Association (ETRIA) is organizing TRIZ Future Conference (TFC2014) along with Exelop SA will be hosted by EPFL Lausanne, Switzerland. TFC2014 is also sponsored by CIRP, the international Academy for Production Engineering. TFC2014 will provide an international forum for exchanging new ideas on knowledge‐ based innovation and TRIZ, presenting recent achievements by the scientific community and enabling further advances and collaboration also with the industrial community.      CALL FOR PAPERS   TRIZ FUTURE CONFERENCE 14   Global innovation Convention   &amp;nbsp;  &amp;lt;div id=&amp;quot;page_2&amp;quot;&amp;gt; &amp;lt;div&amp;gt; &amp;lt;/div&amp;gt; &amp;lt;h3&amp;gt; Place: &amp;lt;/h3&amp;gt; &amp;lt;p&amp;gt; EPFL (Ecole Polytechnique Fédérale de Lausanne), Switzerland &amp;lt;/p&amp;gt; &amp;lt;h3&amp;gt; Duration: &amp;lt;/h3&amp;gt; &amp;lt;p&amp;gt; From 29th to 31th October 2014 &amp;lt;/p&amp;gt; &amp;lt;h3&amp;gt; Cost: &amp;lt;/h3&amp;gt; &amp;lt;p&amp;gt; 650 EUR per participant (Further prices for students, Early birds, others are available on www.</description>
     </item>
     
     <item>
@@ -1257,91 +158,10 @@ Title&gt;&amp;gt;&amp;lt;&lt;Type&gt;&amp;gt;. If you are already familiar with 
       <pubDate>Wed, 26 Feb 2014 12:30:02 +0000</pubDate>
       
       <guid>http://trizindia.org/2014/02/triz-trends-2014-a-conference-in-ge-india/</guid>
-      <description>&lt;nav&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;#image-courtesy-http-ge-geglobalresearch-com-locations-bangalore-india&#34;&gt;(Image courtesy: &lt;a href=&#34;http://ge.geglobalresearch.com/locations/bangalore-india/&#34;&gt;http://ge.geglobalresearch.com/locations/bangalore-india/&lt;/a&gt;)&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;#span-style-color-993366-triz-trends-2014-span&#34;&gt;&lt;strong&gt;&lt;span style=&#34;color: #993366;&#34;&gt;TRIZ Trends 2014&lt;/span&gt;&lt;/strong&gt;&lt;/a&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;#image-courtesy-http-ge-geglobalresearch-com-locations-bangalore-india-1&#34;&gt;(Image courtesy: &lt;a href=&#34;http://ge.geglobalresearch.com/locations/bangalore-india/&#34;&gt;http://ge.geglobalresearch.com/locations/bangalore-india/&lt;/a&gt;)&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;#span-style-color-993366-triz-trends-2014-span-1&#34;&gt;&lt;strong&gt;&lt;span style=&#34;color: #993366;&#34;&gt;TRIZ Trends 2014&lt;/span&gt;&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/nav&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://trizindia.org/wp-content/uploads/2014/02/jfwtc.jpg&#34;&gt;&lt;img class=&#34;alignnone size-full wp-image-230&#34; alt=&#34;jfwtc&#34; src=&#34;http://trizindia.org/wp-content/uploads/2014/02/jfwtc.jpg&#34; width=&#34;996&#34; height=&#34;359&#34; srcset=&#34;http://trizindia.org/wp-content/uploads/2014/02/jfwtc.jpg 996w, http://trizindia.org/wp-content/uploads/2014/02/jfwtc-300x108.jpg 300w, http://trizindia.org/wp-content/uploads/2014/02/jfwtc-624x224.jpg 624w&#34; sizes=&#34;(max-width: 996px) 100vw, 996px&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;h6 id=&#34;image-courtesy-http-ge-geglobalresearch-com-locations-bangalore-india&#34;&gt;(Image courtesy: &lt;a href=&#34;http://ge.geglobalresearch.com/locations/bangalore-india/&#34;&gt;http://ge.geglobalresearch.com/locations/bangalore-india/&lt;/a&gt;)&lt;/h6&gt;
-
-&lt;p&gt;John F. Welch Technology Center, Bangalore, INDIA is hosting an event on&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;&lt;strong&gt;Time: Thursday &amp;#8211; March 20, 2014 &lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;&lt;strong&gt;Venue: John F. Welch Technology Center, Bangalore, INDIA&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;on the following topic&lt;/p&gt;
-
-&lt;h2 id=&#34;span-style-color-993366-triz-trends-2014-span&#34;&gt;&lt;strong&gt;&lt;span style=&#34;color: #993366;&#34;&gt;TRIZ Trends 2014&lt;/span&gt;&lt;/strong&gt;&lt;/h2&gt;
-
-&lt;p&gt;There will be invited speakers from&lt;/p&gt;
-
-&lt;p&gt;GE, Gen3 Partners, Reliance, Mindtree, SKF, Cummins, Target, TrizIndia Forum and TRIZ Asia&lt;/p&gt;
-
-&lt;p&gt;Registration is FREE.&lt;/p&gt;
-
-&lt;p&gt;Please register for the event here &amp;#8211; &lt;a title=&#34;https://supportcentral.ge.com/esurvey/takesurvey.asp?p=17778&amp;d=3819761&#34; href=&#34;https://supportcentral.ge.com/esurvey/takesurvey.asp?p=17778&amp;d=3819761&#34; target=&#34;_blank&#34;&gt;&lt;a href=&#34;https://supportcentral.ge.com/esurvey/takesurvey.asp?p=17778&amp;amp;d=3819761&#34;&gt;https://supportcentral.ge.com/esurvey/takesurvey.asp?p=17778&amp;amp;d=3819761&lt;/a&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;LAST DATE TO REGISTER : March 5, 2014&lt;/p&gt;
-
-&lt;p&gt;Please download the event flyer from here &lt;a href=&#34;http://trizindia.org/wp-content/uploads/2014/02/TRIZ-TRENDS-2014-Announcement.pdf&#34; title=&#34;http://trizindia.org/wp-content/uploads/2014/02/TRIZ-TRENDS-2014-Announcement.pdf&#34;&gt;http://trizindia.org/wp-content/uploads/2014/02/TRIZ-TRENDS-2014-Announcement.pdf&lt;/a&gt;[&lt;a href=&#34;http://trizindia.org/wp-content/uploads/2014/02/jfwtc.jpg&#34;&gt;&lt;img class=&#34;alignnone size-full wp-image-230&#34; alt=&#34;jfwtc&#34; src=&#34;http://trizindia.org/wp-content/uploads/2014/02/jfwtc.jpg&#34; width=&#34;996&#34; height=&#34;359&#34; srcset=&#34;http://trizindia.org/wp-content/uploads/2014/02/jfwtc.jpg 996w, http://trizindia.org/wp-content/uploads/2014/02/jfwtc-300x108.jpg 300w, http://trizindia.org/wp-content/uploads/2014/02/jfwtc-624x224.jpg 624w&#34; sizes=&#34;(max-width: 996px) 100vw, 996px&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;h6 id=&#34;image-courtesy-http-ge-geglobalresearch-com-locations-bangalore-india-1&#34;&gt;(Image courtesy: &lt;a href=&#34;http://ge.geglobalresearch.com/locations/bangalore-india/&#34;&gt;http://ge.geglobalresearch.com/locations/bangalore-india/&lt;/a&gt;)&lt;/h6&gt;
-
-&lt;p&gt;John F. Welch Technology Center, Bangalore, INDIA is hosting an event on&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;&lt;strong&gt;Time: Thursday &amp;#8211; March 20, 2014 &lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;&lt;strong&gt;Venue: John F. Welch Technology Center, Bangalore, INDIA&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;on the following topic&lt;/p&gt;
-
-&lt;h2 id=&#34;span-style-color-993366-triz-trends-2014-span-1&#34;&gt;&lt;strong&gt;&lt;span style=&#34;color: #993366;&#34;&gt;TRIZ Trends 2014&lt;/span&gt;&lt;/strong&gt;&lt;/h2&gt;
-
-&lt;p&gt;There will be invited speakers from&lt;/p&gt;
-
-&lt;p&gt;GE, Gen3 Partners, Reliance, Mindtree, SKF, Cummins, Target, TrizIndia Forum and TRIZ Asia&lt;/p&gt;
-
-&lt;p&gt;Registration is FREE.&lt;/p&gt;
-
-&lt;p&gt;Please register for the event here &amp;#8211; &lt;a title=&#34;https://supportcentral.ge.com/esurvey/takesurvey.asp?p=17778&amp;d=3819761&#34; href=&#34;https://supportcentral.ge.com/esurvey/takesurvey.asp?p=17778&amp;d=3819761&#34; target=&#34;_blank&#34;&gt;&lt;a href=&#34;https://supportcentral.ge.com/esurvey/takesurvey.asp?p=17778&amp;amp;d=3819761&#34;&gt;https://supportcentral.ge.com/esurvey/takesurvey.asp?p=17778&amp;amp;d=3819761&lt;/a&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;LAST DATE TO REGISTER : March 5, 2014&lt;/p&gt;
-
-&lt;p&gt;Please download the event flyer from here &lt;a href=&#34;http://trizindia.org/wp-content/uploads/2014/02/TRIZ-TRENDS-2014-Announcement.pdf&#34; title=&#34;http://trizindia.org/wp-content/uploads/2014/02/TRIZ-TRENDS-2014-Announcement.pdf&#34;&gt;http://trizindia.org/wp-content/uploads/2014/02/TRIZ-TRENDS-2014-Announcement.pdf&lt;/a&gt;]&lt;a href=&#34;http://trizindia.org/wp-content/uploads/2014/02/TRIZ-TRENDS-2014-Announcement.pdf&#34;&gt;3&lt;/a&gt;&lt;/p&gt;
-</description>
+      <description>(Image courtesy: http://ge.geglobalresearch.com/locations/bangalore-india/)     TRIZ Trends 2014        (Image courtesy: http://ge.geglobalresearch.com/locations/bangalore-india/)     TRIZ Trends 2014    
+(Image courtesy: http://ge.geglobalresearch.com/locations/bangalore-india/) John F. Welch Technology Center, Bangalore, INDIA is hosting an event on
+Time: Thursday &amp;#8211; March 20, 2014 
+Venue: John F. Welch Technology Center, Bangalore, INDIA</description>
     </item>
     
     <item>
@@ -1350,28 +170,1246 @@ Title&gt;&amp;gt;&amp;lt;&lt;Type&gt;&amp;gt;. If you are already familiar with 
       <pubDate>Fri, 07 Feb 2014 09:26:33 +0000</pubDate>
       
       <guid>http://trizindia.org/2014/02/the-history-of-triz/</guid>
-      <description>&lt;p&gt;I am right now in Milan, Italy in close proximity to some of the people who have dedicated their careers to helping others solve problems.&lt;/p&gt;
+      <description>I am right now in Milan, Italy in close proximity to some of the people who have dedicated their careers to helping others solve problems.
+One of them is my friend and colleague, Dmitry Kucharavy.
+The simple question I asked him about 2 weeks ago was &amp;#8220;What is the history of TRIZ?&amp;#8221;.Dmitry replied, &amp;#8220;I am sending you a bunch of links, where I have attempted to answer the exact same question that everybody asks me on a routine basis.</description>
+    </item>
+    
+    <item>
+      <title>9-Windows or System Operator</title>
+      <link>http://trizindia.org/2014/01/9-windows-or-system-operator/</link>
+      <pubDate>Thu, 30 Jan 2014 09:29:59 +0000</pubDate>
+      
+      <guid>http://trizindia.org/2014/01/9-windows-or-system-operator/</guid>
+      <description>9-Windows or System Operator Bala Ramadurai, Murali Loganathan, Prakasan Kappoth and Shankar Venugopal discuss &amp;#8220;thinking out of the box&amp;#8221; and &amp;#8220;big picture thinking&amp;#8221; citing examples of BMW, software development, dispensing cash on the third podcast of the series.
+&amp;nbsp;
 
-&lt;p&gt;One of them is my friend and colleague, &lt;a title=&#34;Dmitry Kucharavy&#34; href=&#34;http://seecore.org/id4.htm&#34; target=&#34;_blank&#34;&gt;Dmitry Kucharavy&lt;/a&gt;.&lt;/p&gt;
+&amp;nbsp;</description>
+    </item>
+    
+    <item>
+      <title>How does a superstar plan his career moves?</title>
+      <link>http://trizindia.org/2014/01/how-does-a-superstar-plan-his-career-moves/</link>
+      <pubDate>Thu, 30 Jan 2014 09:27:11 +0000</pubDate>
+      
+      <guid>http://trizindia.org/2014/01/how-does-a-superstar-plan-his-career-moves/</guid>
+      <description>&amp;nbsp;
+&amp;nbsp;
+&amp;nbsp;
+&amp;nbsp;
 
-&lt;p&gt;The simple question I asked him about 2 weeks ago was &amp;#8220;What is the history of TRIZ?&amp;#8221;.Dmitry replied, &amp;#8220;I am sending you a bunch of links, where I have attempted to answer the exact same question that everybody asks me on a routine basis.&amp;#8221;&lt;/p&gt;
+Triz India Podcast 9 windows
+Bala Ramadurai, Murali Loganathan, Prakasan Kappoth and Shankar Venugopal discuss &amp;#8220;thinking out of the box&amp;#8221; and &amp;#8220;big picture thinking&amp;#8221; citing examples of BMW, software development, dispensing cash on the third podcast of the series.</description>
+    </item>
+    
+    <item>
+      <title>Inventor in Wonderland</title>
+      <link>http://trizindia.org/2014/01/inventor-in-wonderland/</link>
+      <pubDate>Thu, 30 Jan 2014 09:19:58 +0000</pubDate>
+      
+      <guid>http://trizindia.org/2014/01/inventor-in-wonderland/</guid>
+      <description>TRIZ podcast series
+Become a member at TRIZIndia.org for FREE to connect with the world&amp;#8217;s experts on inventive problem solving
+(Audio Only)
+Youtube link
+Bala Ramadurai, Innovation Facilitator, MindTree
+Shankar Venugopal, Innovation Leader, Honeywell, emerging markets
+Murali Loganathan, 4 years TRIZ practitioner, across industries in MindTree
+Podcast series in TRIZ tools
+This is the 1st podcast on Ideal Final Result
+Father of TRIZ &amp;#8211; Altshuller
+value addition linked to Ideal Final Result (IFR)</description>
+    </item>
+    
+    <item>
+      <title>What in the world is TRIZ? Part 2</title>
+      <link>http://trizindia.org/2014/01/what-in-the-world-is-triz-part-2/</link>
+      <pubDate>Thu, 30 Jan 2014 09:16:36 +0000</pubDate>
+      
+      <guid>http://trizindia.org/2014/01/what-in-the-world-is-triz-part-2/</guid>
+      <description>Dr. Ellen Domb, Prakasan Kappoth, Murali Loganathan and Bala Ramadurai discuss the finer aspects of TRIZ. A continuation from http://www.archive.org/details/WhatInTheWorldIsTrizPart1. The participants discuss about system evolution, system operators, creative problem solving, internal vs external consultant. . http://www.trizindia.org
+Listen to the podcast here
+Image Courtesy:http://vi.sualize.us/view/a172a30347ffa67544455ec0669a6f7e/</description>
+    </item>
+    
+    <item>
+      <title>What in the world is TRIZ? Part 1</title>
+      <link>http://trizindia.org/2014/01/what-in-the-world-is-triz-part-1/</link>
+      <pubDate>Thu, 30 Jan 2014 09:13:44 +0000</pubDate>
+      
+      <guid>http://trizindia.org/2014/01/what-in-the-world-is-triz-part-1/</guid>
+      <description>Image Courtesy: triz.co.uk
+What is TRIZ? What does it take to start learning TRIZ and master the method? Listen to 3 people &amp;#8211; Dr. Ellen Domb, Prakasan Kappoth and Bala Ramadurai, talk about the basics of the method. http://www.trizindia.org
+Listen to the podcast here</description>
+    </item>
+    
+    <item>
+      <title>What are the challenges of implementing TRIZ in India</title>
+      <link>http://trizindia.org/2013/09/what-are-the-challenges-of-implementing-triz-in-india/</link>
+      <pubDate>Fri, 13 Sep 2013 03:41:57 +0000</pubDate>
+      
+      <guid>http://trizindia.org/2013/09/what-are-the-challenges-of-implementing-triz-in-india/</guid>
+      <description>Dear All TRIZ masters and TRIZniks in India
+ TRIZ is the most important invention of 20th Century. But it has not yet become and innovation (invention + Money) in India.
+What are the challenges in India for implementing TRIZ.
+  Lack of patriotism on Indians
+ Brain Drain
+ Chaturvarnyam &amp;#8211; Means dividing the people as 4 categories a. rahmins (Who perform rituals for pleasing God) b. Warriors c.</description>
+    </item>
+    
+    <item>
+      <title>Challenges for implementing TRIZ in India</title>
+      <link>http://trizindia.org/2013/09/challenges-for-implementing-triz-in-india/</link>
+      <pubDate>Fri, 13 Sep 2013 03:16:05 +0000</pubDate>
+      
+      <guid>http://trizindia.org/2013/09/challenges-for-implementing-triz-in-india/</guid>
+      <description>Dear All TRIZ Masters and TRIZniks
+ What are the challenges for implementing TRIZ in India?
+ Lack of patriotism
+ Brain drain
+ Chaturvarnyam (Treating people on 4 categories a. Brahmins who perform rituals to please God, b. Warriors, c. Traders d. Workers
+ abuse of drugs, cigarette, ganja, liquor
+ Corruption &amp;#8211; an after effect of #4 above
+ Resistance to mindset change
+ Believing that products from other countries are good.</description>
+    </item>
+    
+    <item>
+      <title>What Drives Battery Evolution?</title>
+      <link>http://trizindia.org/2013/06/what-drives-battery-evolution/</link>
+      <pubDate>Thu, 20 Jun 2013 06:00:00 +0000</pubDate>
+      
+      <guid>http://trizindia.org/2013/06/what-drives-battery-evolution/</guid>
+      <description>Hi Innovators,
+I was reading about battery as one of the key barriers for mobile technology evolution. The capacity of battery has increased only 2 times in last 10 years whereas processing speed has gone 12 folds up. Here is a graph I came across showing Battery evolution with time.
+ I am just wondering, what is actually changing over time. Does it follow the TRIZ laws of technology evolution? At least two major trends I know</description>
+    </item>
+    
+    <item>
+      <title>Structured Innovation Method for our Productivity Puzzle</title>
+      <link>http://trizindia.org/2013/03/structured-innovation-method-for-our-productivity-puzzle/</link>
+      <pubDate>Thu, 14 Mar 2013 18:30:00 +0000</pubDate>
+      
+      <guid>http://trizindia.org/2013/03/structured-innovation-method-for-our-productivity-puzzle/</guid>
+      <description>We have been engaged in a java based development project where the development process is well defined and stream lined. We had already optimized the development process to a fairly optimal level and automated some key areas of development that gave us a good productivity boost.
+However the productivity levels achieved with all the process optimization and the automations we adopted were still not sufficient to meet the deadlines, we would be behind schedule by nearly a month if the same productivity was carried forward.</description>
+    </item>
+    
+    <item>
+      <title>EMC Trends 2013 TRIZ overlay</title>
+      <link>http://trizindia.org/2012/12/emc-trends-2013-triz-overlay/</link>
+      <pubDate>Thu, 13 Dec 2012 12:09:05 +0000</pubDate>
+      
+      <guid>http://trizindia.org/2012/12/emc-trends-2013-triz-overlay/</guid>
+      <description>As eleven EMC executives offer their predictions of which technologies and trends will transform cloud computing, Big Data and IT security the most in 2013, my aim is to find the underlying triz trend and possibly push one more evolution round. I assume a time frame of 1 year, basis is 8 TRIZ evolution trends applied to Mobile, applied on EMC executives predictions.
+ Prediction quote (emphasis and few links are mine)  My warped explanation of the underlying TRIZ trend  What can happen next on this trend    an intelligence-driven security model…will require multiple components including: a thorough understanding of risk, the use of agile controls based on pattern recognition and predictive analytics, and the use of big data analytics to give context to vast streams of data from numerous sources to produce timely, actionable information  Law of completeness exemplified with the ENGINE understood as risks and risk related information originating across the board with a TRANSMISSION visualized as streams of information flowing to WORKING UNIT where actions are initiated from the information to contain risks and its effects and having some CONTROL on the above elements including analytics Law of uneven development on above will mean the 4 elements will evolve in different speeds.</description>
+    </item>
+    
+    <item>
+      <title>Infinte Resources: A Drive for Evolution</title>
+      <link>http://trizindia.org/2012/11/infinte-resources-a-drive-for-evolution/</link>
+      <pubDate>Thu, 29 Nov 2012 14:30:00 +0000</pubDate>
+      
+      <guid>http://trizindia.org/2012/11/infinte-resources-a-drive-for-evolution/</guid>
+      <description>If Evolution is continous then resources must be infinite. Othewise Evolution should stop at some economic juncture.
+Let&amp;#8217;s take an example using a simple economic analysis. Let&amp;#8217;s say If we are left with only 100 units of energy in universe. Making it simple , let&amp;#8217;s say 100 units of petrol.  Here are few assumptions
+#Let&amp;#8217;s say 40 units are required to covert to electric car.
+#Let&amp;#8217;s say a car with electric motor delivers 20% higher fuel economy.</description>
+    </item>
+    
+    <item>
+      <title>Cloud Computing: Analogy to Automotive</title>
+      <link>http://trizindia.org/2012/11/cloud-computing-analogy-to-automotive/</link>
+      <pubDate>Mon, 26 Nov 2012 11:00:00 +0000</pubDate>
+      
+      <guid>http://trizindia.org/2012/11/cloud-computing-analogy-to-automotive/</guid>
+      <description>Read about Cloud Computing and learnt that it is a solution which seperates the function of computing (Heavy Lifting job) and Display. This is like combining / integrating CPU of all the computers to form a Cloud and providing user with only User interface connected to Cloud through internet. This reduces the Cost as user will only pay for services (ex: 3D modelling) being used with hourly based rates. Second , size of devises is reduced as it&amp;#8217;s function is to only display information.</description>
+    </item>
+    
+    <item>
+      <title>Gazing into the Crystal Ball using TRIZ technology trends part 2</title>
+      <link>http://trizindia.org/2012/11/gazing-into-the-crystal-ball-using-triz-technology-trends-part-2/</link>
+      <pubDate>Thu, 08 Nov 2012 04:50:42 +0000</pubDate>
+      
+      <guid>http://trizindia.org/2012/11/gazing-into-the-crystal-ball-using-triz-technology-trends-part-2/</guid>
+      <description>[youtube http://www.youtube.com/watch?v=ay8eSNrp9I4&amp;amp;w=560&amp;amp;h=315]
+From our last podcast discussing a few trends from TRIZ portfolio system evolution, we are continuing this time with a few more trends and an evolution from podcast to video. Only thing we probably missed was using the full size Casio keyboard that was right next to us for some extra sound effects.
+Hope you enjoy it.</description>
+    </item>
+    
+    <item>
+      <title>Gazing into the Crystal Ball using TRIZ technology trends</title>
+      <link>http://trizindia.org/2012/10/gazing-into-the-crystal-ball-using-triz-technology-trends-2/</link>
+      <pubDate>Sat, 13 Oct 2012 21:40:39 +0000</pubDate>
+      
+      <guid>http://trizindia.org/2012/10/gazing-into-the-crystal-ball-using-triz-technology-trends-2/</guid>
+      <description>_Image Courtesy: http://cdnimg.visualizeus.com/thumbs/40/6f/art,ball,black,and,white,crystal,light,planet-406f5e2182df35968727c56552e97dc6_h.jpg_
+3 innovation facilitators &amp;#8211; Murali Loganathan, Prakasan Kappoth and Bala Ramadurai discuss about the laws of technology evolution.
+http://trizindia.org/profiles/blogs/8-triz-evolution-trends-applied-to-mobile
+This is the link to the original blog post of the podcast. Also check out this link to the Corning Gorilla Glass story &amp;#8211; http://www.wired.com/wiredscience/2012/09/ff-corning-gorilla-glass/3/
+Listen to the podcast here</description>
+    </item>
+    
+    <item>
+      <title>8 TRIZ evolution trends applied to Mobile</title>
+      <link>http://trizindia.org/2012/10/8-triz-evolution-trends-applied-to-mobile/</link>
+      <pubDate>Wed, 03 Oct 2012 04:57:14 +0000</pubDate>
+      
+      <guid>http://trizindia.org/2012/10/8-triz-evolution-trends-applied-to-mobile/</guid>
+      <description>Cross posting from http://trizindia.wordpress.com/2012/10/01/8-triz-evolution-trends-applied-to-mobile/
+This was a long pending post, originally to be delivered as a pod cast, but we never got around to doing it. The core idea was to take a commonly used system like a smart phone, apply the 8 evolution trends of TRIZ and exemplify them. For a brief introduction on the trends go here, I would love to see other resources from the readers as well.</description>
+    </item>
+    
+    <item>
+      <title>Welcome – 500th Member</title>
+      <link>http://trizindia.org/2012/08/welcome-500th-member/</link>
+      <pubDate>Tue, 14 Aug 2012 03:51:06 +0000</pubDate>
+      
+      <guid>http://trizindia.org/2012/08/welcome-500th-member/</guid>
+      <description>Dear All TRIZINdian friends
+ I too welcome the 500th Member to this group.
+One suggestion:
+When you are recording the audio for publishing in the site, let the participant prepare the write up and read from it. Otherwise lot of extra noise (like yea.. ) arises and the user will not be able to grasp the content.
+ Best Regards
+Joseph  Mindset Solutions India
+ S M S I</description>
+    </item>
+    
+    <item>
+      <title>triz40</title>
+      <link>http://trizindia.org/2012/05/triz40/</link>
+      <pubDate>Fri, 18 May 2012 19:04:37 +0000</pubDate>
+      
+      <guid>http://trizindia.org/2012/05/triz40/</guid>
+      <description>Anyone knows what happened with www.triz40.com? Is down. </description>
+    </item>
+    
+    <item>
+      <title>Evolution of TRIZ Contradiction Matrix : Articles</title>
+      <link>http://trizindia.org/2012/03/evolution-of-triz-contradiction-matrix-articles/</link>
+      <pubDate>Tue, 27 Mar 2012 10:00:25 +0000</pubDate>
+      
+      <guid>http://trizindia.org/2012/03/evolution-of-triz-contradiction-matrix-articles/</guid>
+      <description>Hi All,
+Here is the LINKED_IN discussion with multiple links highlighting evolution of TRIZ contradiction matrix. The ARIZ 85 C, Darrel mann&amp;#8217;s article on upgraded matrix and Sciencedirect paper on STEPS (Systematic Tool for Efficient Problem Solving) are worth reading articles. Hope this will help you to get latest updates.
+ http://lnkd.in/BgdRKB</description>
+    </item>
+    
+    <item>
+      <title>A simple Problem…but not able to think through TRIZ Principles</title>
+      <link>http://trizindia.org/2012/03/a-simple-problem-but-not-able-to-think-through-triz-principles/</link>
+      <pubDate>Thu, 08 Mar 2012 15:30:00 +0000</pubDate>
+      
+      <guid>http://trizindia.org/2012/03/a-simple-problem-but-not-able-to-think-through-triz-principles/</guid>
+      <description>This is a simple problem where Load Capacity of a vertical bar needs to be increased without increasing Lateral areas and Material. There is one proposed solution as shown below. I would like to check two things with you
+ Is the solution proposed really resolves the contradiction? (Load Capacity Vs Crossectional Area)
+ If yes, Which TRIZ principle helps to think of solution like this?</description>
+    </item>
+    
+    <item>
+      <title>A new arsenal to fight old enemies</title>
+      <link>http://trizindia.org/2012/03/a-new-arsenal-to-fight-old-enemies/</link>
+      <pubDate>Wed, 07 Mar 2012 16:00:32 +0000</pubDate>
+      
+      <guid>http://trizindia.org/2012/03/a-new-arsenal-to-fight-old-enemies/</guid>
+      <description>A new arsenal to fight old enemies by Martin recently in The Hindu is one of the extreme examples of Resources (something that is available for free and has potential utility) that I have seen. I am reproducing the article below with emphasis on Resources, check it out. The frequency of resource occurring in our mind is possibly higher only if we pay attention deliberately.  {.detail-title}   A farmer in Nilampur puts to good use FM radio broadcasts against wild boar raids on her yam and tapioca farm    What do detergent cakes, abandoned compact discs, sardines, FM radio broadcasts and good old garlic have in common?</description>
+    </item>
+    
+    <item>
+      <title>Next Level Engineering: Thanks to TRIZ India</title>
+      <link>http://trizindia.org/2012/02/next-level-engineering-thanks-to-triz-india/</link>
+      <pubDate>Tue, 28 Feb 2012 13:00:00 +0000</pubDate>
+      
+      <guid>http://trizindia.org/2012/02/next-level-engineering-thanks-to-triz-india/</guid>
+      <description>What Engineers must need to know today ?     Reiterating the words from Management Guru Peter Ducker     &amp;#8221; Teach them what they don’t know today if you want to achieve phenomenal success tomorrow&amp;#8221;     With reference to image below and with respect to my observation, engineers today are doing brilliant job at providing engineering solutions and optimization studies. But there is hardly any drive for Innovation.</description>
+    </item>
+    
+    <item>
+      <title>Practical TRIZ Workshop Resources Workbook &#43; Presentation &#43; Reference</title>
+      <link>http://trizindia.org/2012/02/practical-triz-workshop-resources-workbook-presentation-reference/</link>
+      <pubDate>Mon, 27 Feb 2012 06:42:20 +0000</pubDate>
+      
+      <guid>http://trizindia.org/2012/02/practical-triz-workshop-resources-workbook-presentation-reference/</guid>
+      <description>We had given out a TRIZ India Workbook with enough space to doodle, brainstorm and use the specific guidelines on techniques used. While the appendix with the Business and Management Contradiction Matrix can be referred on Darrell Mann reference, available on amazon
+We had also used TRIZ India Workshop Presentation , typical structure that we had for techniques is as follows
+ the basic theory or other basis behind the technique a strong story where it was applied from either a personal experience or from other sources personal/individual application group application and facilitation notes  While we saw tremendous enthusiasm from industry (across IT, Oil and Gas, Energy, Pharma, Engineering in this workshop alone) we hope to get broader participation from academia as well.</description>
+    </item>
+    
+    <item>
+      <title>Human Intellect Evolution</title>
+      <link>http://trizindia.org/2012/02/human-intellect-evolution/</link>
+      <pubDate>Fri, 24 Feb 2012 07:00:00 +0000</pubDate>
+      
+      <guid>http://trizindia.org/2012/02/human-intellect-evolution/</guid>
+      <description>We are seeing ever increasing complexity in today’s life. What comes to help are the principles and theories which combines millions observation into single discipline It’s like this if I know law of gravity then I don’t have to study and monitor curvilinear path for every projectile motion on the earth. I can simply draw it using laws of motion.
+TRIZ principles are serving the same purpose where we don’t need to reinvent the wheel everytime we need innovations.</description>
+    </item>
+    
+    <item>
+      <title>Whether the concepts and philosophy of TRIZ is applicable to other than technical systems? Here is an article on TRIZ and society..- how to win enemies without Fighting?</title>
+      <link>http://trizindia.org/2012/02/whether-the-concepts-and-philosophy-of-triz-is-applicable-to-other-than-technical-systems-here-is-an-article-on-triz-and-society-how-to-win-enemies-without-fighting/</link>
+      <pubDate>Fri, 17 Feb 2012 06:24:28 +0000</pubDate>
+      
+      <guid>http://trizindia.org/2012/02/whether-the-concepts-and-philosophy-of-triz-is-applicable-to-other-than-technical-systems-here-is-an-article-on-triz-and-society-how-to-win-enemies-without-fighting/</guid>
+      <description>The contradiction We don’t want to set up a fight but we want to see our enemy is punished. We don’t want to kill our enemy by ourselves or by deploying others but we want to see that the enemy is dead. We don’t want to follow any method of violence but we want to see all our enemies dying before us.. Is it possible to break the above contradiction? .</description>
+    </item>
+    
+    <item>
+      <title>Can we apply TRIZ for personal and spiritual attainment, please read another interesting article “TRIZ and Spirituality: The methods of Maximizing Happiness”</title>
+      <link>http://trizindia.org/2012/02/can-we-apply-triz-for-personal-and-spiritual-attainment-please-read-another-interesting-article-triz-and-spirituality-the-methods-of-maximizing-happiness/</link>
+      <pubDate>Fri, 17 Feb 2012 06:22:38 +0000</pubDate>
+      
+      <guid>http://trizindia.org/2012/02/can-we-apply-triz-for-personal-and-spiritual-attainment-please-read-another-interesting-article-triz-and-spirituality-the-methods-of-maximizing-happiness/</guid>
+      <description>TRIZ is a method of high level of commonsense and can be applied in any field, whether social, economical, technical or spiritual. This article analyzes the concept of happiness, the ultimate goal of human being, and demonstrates the application of different TRIZ concepts like Ideality, contradictions, Principles, Resources and Trends in different theories of maximizing happiness. please read the aticle at http://www.triz-forum.tk/blog/view/48/triz-and-spirituality-the-methods-of-maximizing-happiness and post your comments..</description>
+    </item>
+    
+    <item>
+      <title>TRIZIndia at Kolkata</title>
+      <link>http://trizindia.org/2012/01/trizindia-at-kolkata/</link>
+      <pubDate>Tue, 24 Jan 2012 06:54:23 +0000</pubDate>
+      
+      <guid>http://trizindia.org/2012/01/trizindia-at-kolkata/</guid>
+      <description>I represented TRIZIndia in the recent conference on Invention, Innovation &amp;amp; Technology held at Kolkata 19-21 Jan. The conference was dedicated to Acharya Prafulla Chandra Ray (P.C. Ray) who was a great Chemist Innovator and Entrepreneur &amp;#8211; he started the Bengal chemical industry (http://en.wikipedia.org/wiki/Prafulla_Chandra_Ray)
+ I came across a bunch of very dedicated scientists who are passionate about TRIZ.. The conference efforts were lead by Dr Mukherji, Dr Ambar Ghose and Dr Shubrato Ghosh of IAPQR.</description>
+    </item>
+    
+    <item>
+      <title>Website runs without internet..Trim the most important function or resource</title>
+      <link>http://trizindia.org/2012/01/website-runs-without-internet-trim-the-most-important-function-or-resource/</link>
+      <pubDate>Mon, 23 Jan 2012 05:12:19 +0000</pubDate>
+      
+      <guid>http://trizindia.org/2012/01/website-runs-without-internet-trim-the-most-important-function-or-resource/</guid>
+      <description>Re-post from http://trizit.blogspot.com 
 
-&lt;p&gt;So the following is an excerpt of what Dmitry sent me.&lt;/p&gt;
 
-&lt;p&gt;TRIZ: A Few Words about the History (1) (3:52)&lt;/p&gt;
+Ok; this is for those who follow South Indian films and also know the &amp;#8220;super star&amp;#8221; in the Tamil movie industry, Rajinikanth. Do Google about him to know his super star power (in movies) and read some PJ&amp;#8217;s about him. But this is interesting, and not a joke, that his website www.allaboutrajni.com runs when there is no internet (a very simple solution technically)
+ Read more about it here.</description>
+    </item>
+    
+    <item>
+      <title>Inventor in Wonderland</title>
+      <link>http://trizindia.org/2011/12/inventor-in-wonderland-2/</link>
+      <pubDate>Sat, 10 Dec 2011 03:50:07 +0000</pubDate>
+      
+      <guid>http://trizindia.org/2011/12/inventor-in-wonderland-2/</guid>
+      <description>TRIZ podcast series
+Become a member at TRIZIndia.org for FREE to connect with the world&amp;#8217;s experts on inventive problem solving
+[youtube http://youtube.com/w/?v=l9d0398v4yY]
+Bala Ramadurai, Innovation Facilitator, MindTree
+Shankar Venugopal, Innovation Leader, Honeywell, emerging markets
+Murali Loganathan, 4 years TRIZ practitioner, across industries in MindTree
+Podcast series in TRIZ tools
+This is the 1st podcast on Ideal Final Result
+Father of TRIZ &amp;#8211; Altshuller
+value addition linked to Ideal Final Result (IFR)</description>
+    </item>
+    
+    <item>
+      <title>What in the world is TRIZ? Part 2</title>
+      <link>http://trizindia.org/2011/12/what-in-the-world-is-triz-part-2-2/</link>
+      <pubDate>Thu, 08 Dec 2011 05:29:34 +0000</pubDate>
+      
+      <guid>http://trizindia.org/2011/12/what-in-the-world-is-triz-part-2-2/</guid>
+      <description>Image Courtesy:http://vi.sualize.us/view/a172a30347ffa67544455ec0669a6f7e/
+Dr. Ellen Domb, Prakasan Kappoth, Murali Loganathan and Bala Ramadurai discuss the finer aspects of TRIZ. A continuation from http://www.archive.org/details/WhatInTheWorldIsTrizPart1. The participants discuss about system evolution, system operators, creative problem solving, internal vs external consultant. . http://www.trizindia.org
+Listen to the podcast here</description>
+    </item>
+    
+    <item>
+      <title>What in the world is TRIZ? Part 1</title>
+      <link>http://trizindia.org/2011/11/what-in-the-world-is-triz-part-1-2/</link>
+      <pubDate>Fri, 25 Nov 2011 06:58:02 +0000</pubDate>
+      
+      <guid>http://trizindia.org/2011/11/what-in-the-world-is-triz-part-1-2/</guid>
+      <description>Image Courtesy: triz.co.uk
+What is TRIZ? What does it take to start learning TRIZ and master the method? Listen to 3 people &amp;#8211; Dr. Ellen Domb, Prakasan Kappoth and Bala Ramadurai, talk about the basics of the method. http://www.trizindia.org
+Listen to the podcast here</description>
+    </item>
+    
+    <item>
+      <title>Constraints of an Entrepreneur</title>
+      <link>http://trizindia.org/2011/10/constraints-of-an-entrepreneur/</link>
+      <pubDate>Fri, 07 Oct 2011 07:28:44 +0000</pubDate>
+      
+      <guid>http://trizindia.org/2011/10/constraints-of-an-entrepreneur/</guid>
+      <description>A special podcast from TRIZ India on constraints. Mirza Faizan, an entrepreneur based out of Bangalore, India, shares his experience on the kind of constraints he faced and is currently facing. He describes his aerospace invention in detail and how his prototype can save lives not in the air, but right here on terra firma. In the process, Faizan also gives out advice to budding entrepreneurs. http://www.avembsys.com is the link to Faizan&amp;#8217;s company.</description>
+    </item>
+    
+    <item>
+      <title>A simple rule of Innovating Technology</title>
+      <link>http://trizindia.org/2011/09/a-simple-rule-of-innovating-technology/</link>
+      <pubDate>Wed, 28 Sep 2011 15:19:27 +0000</pubDate>
+      
+      <guid>http://trizindia.org/2011/09/a-simple-rule-of-innovating-technology/</guid>
+      <description>Inline with TRIZ Principle, we can devise a simple rule to understand and appreciate any product or technology we come across. I mentioned about the rule and it&amp;#8217;s application for Automotive technologies at the link below.
+Hope you will like it
+ http://smartfundas.blogspot.com/</description>
+    </item>
+    
+    <item>
+      <title>TRIZ Seperation Principle: Maximizing Trasport Service Revenue and Passenger Convenience</title>
+      <link>http://trizindia.org/2011/09/triz-seperation-principle-maximizing-trasport-service-revenue-and-passenger-convenience/</link>
+      <pubDate>Sun, 25 Sep 2011 05:30:00 +0000</pubDate>
+      
+      <guid>http://trizindia.org/2011/09/triz-seperation-principle-maximizing-trasport-service-revenue-and-passenger-convenience/</guid>
+      <description>**
+**
+Being in Pune I am just taking the case of local public bus transport however I am sure this applies to any general transport meant for public. The public road transport service (PMPML) in Pune although wide spread across the city is not the certainly the most profitable with it&amp;#8217;s fixed frequency schedule and a assumption that affordability of this transport is same for all commuters from all sections and classes.</description>
+    </item>
+    
+    <item>
+      <title>Trim Innovation</title>
+      <link>http://trizindia.org/2011/09/trim-innovation/</link>
+      <pubDate>Tue, 20 Sep 2011 00:49:50 +0000</pubDate>
+      
+      <guid>http://trizindia.org/2011/09/trim-innovation/</guid>
+      <description>Can you get ideas by eliminating important elements from your system? What is an engineless car? What is a teacher-less classroom? Aggressive elimination of components from a system can change the markets a business caters to.
+Sugata Mitra&amp;#8217;s TED talk
+TRIZ India Podcast #5</description>
+    </item>
+    
+    <item>
+      <title>What would a Bumble Bee do ?</title>
+      <link>http://trizindia.org/2011/09/what-would-a-bumble-bee-do/</link>
+      <pubDate>Thu, 01 Sep 2011 16:25:05 +0000</pubDate>
+      
+      <guid>http://trizindia.org/2011/09/what-would-a-bumble-bee-do/</guid>
+      <description>Look at your Problem through different lenses
+The first step to come up with innovative ideas is to look at a problem innovatively i.e look at the problem through different lenses. We tend to look at a problem from only one angle &amp;#8211; but how to trigger our mind to look at it from different angles ? Try asking the question what would X do &amp;#8211; X could be Steve Jobs or Buddha or Don Quixote or Gandhi or your own Grandfather or Mother-in-law &amp;#8211; the idea is to bring a new perspective to the problem.</description>
+    </item>
+    
+    <item>
+      <title>Best ideas come from a penniless inventor</title>
+      <link>http://trizindia.org/2011/08/best-ideas-come-from-a-penniless-inventor/</link>
+      <pubDate>Tue, 16 Aug 2011 11:04:02 +0000</pubDate>
+      
+      <guid>http://trizindia.org/2011/08/best-ideas-come-from-a-penniless-inventor/</guid>
+      <description>Resources thinking is the trick of being very smart and only using means that don&amp;#8217;t cost anything. The conventional way to solve problems is to throw money at it, but resources thinking is about finding free or very cheap ways to solve problems. The protagonists in &amp;#8220;Shawshank Redemption&amp;#8221; and &amp;#8220;The Count of Monte Cristo&amp;#8221; actually use resources to escape out of prison. Murali Loganathan and Bala Ramadurai describe resources in this 4th podcast of TRIZ India.</description>
+    </item>
+    
+    <item>
+      <title>TRIZ India podcast #3 – 9-Windows</title>
+      <link>http://trizindia.org/2011/08/triz-india-podcast-3-9-windows-2/</link>
+      <pubDate>Sat, 06 Aug 2011 10:29:02 +0000</pubDate>
+      
+      <guid>http://trizindia.org/2011/08/triz-india-podcast-3-9-windows-2/</guid>
+      <description>TRIZ India podcast #3 &amp;#8211; 9-Windows  Posted by Bala Ramadurai on August 6, 2011 at 6:45am  Bala Ramadurai, Murali Loganathan, Prakasan Kappoth and Shankar Venugopal discuss &amp;#8220;thinking out of the box&amp;#8221; and &amp;#8220;big picture thinking&amp;#8221; citing examples of BMW, software development, dispensing cash on the third podcast of the series.
+&amp;nbsp;
 
-&lt;p&gt;TRIZ: A Few Words about the History (2) (4:45)&lt;/p&gt;
+&amp;nbsp;</description>
+    </item>
+    
+    <item>
+      <title>TRIZ India podcast #3 – 9-Windows</title>
+      <link>http://trizindia.org/2011/08/triz-india-podcast-3-9-windows/</link>
+      <pubDate>Sat, 06 Aug 2011 01:15:55 +0000</pubDate>
+      
+      <guid>http://trizindia.org/2011/08/triz-india-podcast-3-9-windows/</guid>
+      <description>Bala Ramadurai, Murali Loganathan, Prakasan Kappoth and Shankar Venugopal discuss &amp;#8220;thinking out of the box&amp;#8221; and &amp;#8220;big picture thinking&amp;#8221; citing examples of BMW, software development, dispensing cash on the third podcast of the series.</description>
+    </item>
+    
+    <item>
+      <title>How does a superstar plan his career moves?</title>
+      <link>http://trizindia.org/2011/08/how-does-a-superstar-plan-his-career-moves-2/</link>
+      <pubDate>Mon, 01 Aug 2011 11:24:01 +0000</pubDate>
+      
+      <guid>http://trizindia.org/2011/08/how-does-a-superstar-plan-his-career-moves-2/</guid>
+      <description>&amp;nbsp;
+&amp;nbsp;
+&amp;nbsp;
+&amp;nbsp;
 
-&lt;p&gt;TRIZ: A Few Words about the History (3) (5:30)&lt;/p&gt;
+Triz India Podcast 9 windows
+Bala Ramadurai, Murali Loganathan, Prakasan Kappoth and Shankar Venugopal discuss &amp;#8220;thinking out of the box&amp;#8221; and &amp;#8220;big picture thinking&amp;#8221; citing examples of BMW, software development, dispensing cash on the third podcast of the series.</description>
+    </item>
+    
+    <item>
+      <title>How can vegetable pulao give you ideas on improving a telephone?</title>
+      <link>http://trizindia.org/2011/08/how-can-vegetable-pulao-give-you-ideas-on-improving-a-telephone/</link>
+      <pubDate>Mon, 01 Aug 2011 11:21:34 +0000</pubDate>
+      
+      <guid>http://trizindia.org/2011/08/how-can-vegetable-pulao-give-you-ideas-on-improving-a-telephone/</guid>
+      <description>TRIZ India Podcast Metaphor
+Intrigued? Listen to the podcast to find neat tips and tricks to generate ideas based on metaphors. 4 innovation facilitators, Murali Loganathan, Shankar Venugopal, Prakasan Kappoth and Bala Ramadurai, use a pencil as a metaphor to generate ideas to solve a worldwide problem.</description>
+    </item>
+    
+    <item>
+      <title>Triz India Podcast IFR</title>
+      <link>http://trizindia.org/2011/08/triz-india-podcast-ifr/</link>
+      <pubDate>Mon, 01 Aug 2011 11:16:24 +0000</pubDate>
+      
+      <guid>http://trizindia.org/2011/08/triz-india-podcast-ifr/</guid>
+      <description>TRIZ India Podcast IFR
+Murali Loganathan, Shankar Venugopal and Bala Ramadurai, innovation facilitators from MindTree Ltd and Honeywell, engaged in a discussion on Ideal Final Result, a tool from the TRIZ toolkit. This is part of trizindia.org, a network of TRIZ enthusiasts and experts.</description>
+    </item>
+    
+    <item>
+      <title>TRIZ India podcast</title>
+      <link>http://trizindia.org/2011/07/triz-india-podcast/</link>
+      <pubDate>Mon, 04 Jul 2011 06:31:50 +0000</pubDate>
+      
+      <guid>http://trizindia.org/2011/07/triz-india-podcast/</guid>
+      <description>The inside story of TRIZ India podcast was published by Ellen Domb in her commentary.  &amp;#8220;Podcast was one of those ideas which came to me when I was stuck in Bangalore traffic and I thought this is the best resource to listen to podcasts. So, I listened to Getting Things Done podcasts streaming from my cellphone to the car stereo. One fine day, it hit me that TRIZ should have a podcast of our own.</description>
+    </item>
+    
+    <item>
+      <title>Simulate the Future</title>
+      <link>http://trizindia.org/2011/05/simulate-the-future/</link>
+      <pubDate>Tue, 17 May 2011 06:30:00 +0000</pubDate>
+      
+      <guid>http://trizindia.org/2011/05/simulate-the-future/</guid>
+      <description>What makes you most uncomfortable taking the decision?&amp;#8230;&amp;#8230;&amp;#8230;&amp;#8230;&amp;#8230;&amp;#8230;.
+&amp;#8230;&amp;#8230;&amp;#8230;&amp;#8230;..And the simplest answer could be &amp;#8220;No clear idea of future outcome and events&amp;#8221;. Although probability helps us to provide possibilities in future it doesn&amp;#8217;t tell in any way the exact future outcome. If the coin is tossed, there is equal probabilty for head and tale however can someone tell the exact outcome. And that&amp;#8217;s where the whole uncertainity is. I believe the most successful people have ability to guess future closer to it&amp;#8217;s exact outcome.</description>
+    </item>
+    
+    <item>
+      <title>Decision Making : You need the tool!</title>
+      <link>http://trizindia.org/2011/05/decision-making-you-need-the-tool/</link>
+      <pubDate>Mon, 16 May 2011 07:30:00 +0000</pubDate>
+      
+      <guid>http://trizindia.org/2011/05/decision-making-you-need-the-tool/</guid>
+      <description>PRINCIPLE: The best decision ensures Highest Ideality Future Outcome for situation under consideration. Note: The ideality for the short term and long term future may be different and needs judging on what is desired.
 
-&lt;p&gt;The slides used in the previous presentation are given below in this link.&lt;/p&gt;
+ TOOL : TRIZ and Innovation methodology can be very powerful for decision making in every aspects we deal in personal and professional life. I am just highlighting the simplest decision tree especially when options are available to choose and start with.</description>
+    </item>
+    
+    <item>
+      <title>TRIZ Developers Summit-2011</title>
+      <link>http://trizindia.org/2011/02/triz-developers-summit-2011/</link>
+      <pubDate>Mon, 21 Feb 2011 16:27:10 +0000</pubDate>
+      
+      <guid>http://trizindia.org/2011/02/triz-developers-summit-2011/</guid>
+      <description>http://www.triz-summit.ru/en/section.php?docId=4908
+Information Letter 1   Information letter #1, November 30, 2010.     TRIZ Summit 2011      Dear colleagues!   1. The Organizing Committee of TRIZ Developers Summit selected the topic for Summit-2011 &amp;#8211; it is &amp;#8220;Action Principle of Systems&amp;#8221;. This topic is very important for TRIZ research. It embraces issues of system modeling, functional analysis and synthesis, trends of engineering systems evolution and methods for forecasting via transfer of functions and trends of such systems, and terminology issues in this field.</description>
+    </item>
+    
+    <item>
+      <title>Call for Papers: TrizIn 2011 – 2nd Annual TRIZ India Summit</title>
+      <link>http://trizindia.org/2011/01/call-for-papers-trizin-2011-2nd-annual-triz-india-summit/</link>
+      <pubDate>Mon, 31 Jan 2011 19:38:36 +0000</pubDate>
+      
+      <guid>http://trizindia.org/2011/01/call-for-papers-trizin-2011-2nd-annual-triz-india-summit/</guid>
+      <description>This is a Call for Papers to be presented at the 2nd Annual TRIZ India Summit, taking place on July 28 &amp;amp; 29, 2011 at Bangalore. The summit is being organized by Crafitti Consulting in partnership with The Altshuller Institute for TRIZ Studies (AITRIZ).
+http://2011.trizindiasummit.com
+ Summit Topics  TRIZ Papers  Our emphasis is on REAL case studies of TRIZ being applied in problem solving and innovation contexts. We are strongly interested in providing content for corporate and academic use.</description>
+    </item>
+    
+    <item>
+      <title>Why you shouldn’t eat (use) an Apple?</title>
+      <link>http://trizindia.org/2011/01/why-you-shouldnt-eat-use-an-apple/</link>
+      <pubDate>Fri, 07 Jan 2011 12:37:51 +0000</pubDate>
+      
+      <guid>http://trizindia.org/2011/01/why-you-shouldnt-eat-use-an-apple/</guid>
+      <description>If you are an Apple fan from India, this is for you, and I wouldn’t mind you shout at me. I used to be a great Apple fan. I used the Mac system in 2002 time period and ever since in love with their products, company for their innovations, and later Steve Jobs as a spatial thinker (also because I’m a spatial thinker) after reading his biography. Then the news came, Apple coming out with a phone.</description>
+    </item>
+    
+    <item>
+      <title>Shesh, Adi &amp; Anatha Three Stages of Customer Intimacy</title>
+      <link>http://trizindia.org/2010/12/shesh-adi-anatha-three-stages-of-customer-intimacy-2/</link>
+      <pubDate>Tue, 28 Dec 2010 17:00:00 +0000</pubDate>
+      
+      <guid>http://trizindia.org/2010/12/shesh-adi-anatha-three-stages-of-customer-intimacy-2/</guid>
+      <description>Visit My Blog
+ http://innovationnukkad.blogspot.com
+ </description>
+    </item>
+    
+    <item>
+      <title>Shesh, Adi &amp; Anatha Three Stages of Customer Intimacy</title>
+      <link>http://trizindia.org/2010/12/shesh-adi-anatha-three-stages-of-customer-intimacy/</link>
+      <pubDate>Tue, 28 Dec 2010 17:00:00 +0000</pubDate>
+      
+      <guid>http://trizindia.org/2010/12/shesh-adi-anatha-three-stages-of-customer-intimacy/</guid>
+      <description>Visit My Blog
+ http://innovationnukkad.blogspot.com
+ </description>
+    </item>
+    
+    <item>
+      <title>Free Book on TRIZ</title>
+      <link>http://trizindia.org/2010/11/free-book-on-triz/</link>
+      <pubDate>Mon, 08 Nov 2010 17:52:26 +0000</pubDate>
+      
+      <guid>http://trizindia.org/2010/11/free-book-on-triz/</guid>
+      <description>Also a free PDF of my latest book &amp;#8220;Da Vinci and the 40 Answers&amp;#8221; can be found on my web site if anyone wants to download it
+www.slyasafox.com</description>
+    </item>
+    
+    <item>
+      <title>Da Vinci and the 40 Answers Videos</title>
+      <link>http://trizindia.org/2010/11/da-vinci-and-the-40-answers-videos/</link>
+      <pubDate>Mon, 08 Nov 2010 17:50:31 +0000</pubDate>
+      
+      <guid>http://trizindia.org/2010/11/da-vinci-and-the-40-answers-videos/</guid>
+      <description>Prakasan,
+Thanks for posting some of my videos&amp;#8230;.here are those 4 and some more
+http://www.youtube.com/watch?v=wxDDFnT5qTQ http://www.youtube.com/watch?v=ToMvi02AIlI&amp;feature=related http://www.youtube.com/watch?v=RNaDxz1ARTM&amp;feature=related http://www.youtube.com/watch?v=xDkoW9UrH5k&amp;feature=related http://www.youtube.com/watch?v=2oWfy1-z-So&amp;feature=related http://www.youtube.com/watch?v=Fs1_xVUDmzQ&amp;feature=related http://www.youtube.com/watch?v=s4b0akKQJ-U&amp;feature=related http://www.youtube.com/watch?v=Aik9PnvrjPY&amp;feature=related http://www.youtube.com/watch?v=m6JxuaQUbEM&amp;feature=related http://www.youtube.com/watch?v=7gNBM6OWqNQ&amp;feature=related http://www.youtube.com/watch?v=WLbXOijqRjA&amp;feature=related http://www.youtube.com/watch?v=fF-L350xzFc&amp;feature=related http://www.youtube.com/watch?v=fF-L350xzFc&amp;feature=related </description>
+    </item>
+    
+    <item>
+      <title>TRIZ India Summit 2010 proceedings are now online!</title>
+      <link>http://trizindia.org/2010/11/triz-india-summit-2010-proceedings-are-now-online/</link>
+      <pubDate>Tue, 02 Nov 2010 17:47:32 +0000</pubDate>
+      
+      <guid>http://trizindia.org/2010/11/triz-india-summit-2010-proceedings-are-now-online/</guid>
+      <description>Crafitti is pleased to announce that TRIZ India Summit 2010 proceedings are now public and online! You can access the proceedings at https://sites.google.com/a/crafitti.com/triz-india-summit-2010/. Please feel free to share the link with your network.      In lieu of our strategic partnership with Altshuller Institute for TRIZ Studies, TRIZ India Summit 2010 papers are also part of TRIZCON 2010 proceedings! You can access TRIZCON 2010 proceedings at http://www.</description>
+    </item>
+    
+    <item>
+      <title>Scaling the Innovation Summit – Surviving the Avalanches and Avoidng the Yetis – Growing Ideas into Innovation</title>
+      <link>http://trizindia.org/2010/11/scaling-the-innovation-summit-surviving-the-avalanches-and-avoidng-the-yetis-growing-ideas-into-innovation/</link>
+      <pubDate>Mon, 01 Nov 2010 13:22:54 +0000</pubDate>
+      
+      <guid>http://trizindia.org/2010/11/scaling-the-innovation-summit-surviving-the-avalanches-and-avoidng-the-yetis-growing-ideas-into-innovation/</guid>
+      <description>I had the opportunity to address the CII Karnataka Innovation Forum last week. I spoke about the Challenges in growing ideas into innovation. I outlined the Innovation FlowTM Framework and gave a quick intro to TRIZ-based Innovative Problem Solving. There was good interest from the Innovation forum to learn more about TRIZ.. I plan to do a one-day innovation workout for them next.</description>
+    </item>
+    
+    <item>
+      <title>Search Party is over for Google? A TRIZ Analsysis</title>
+      <link>http://trizindia.org/2010/09/search-party-is-over-for-google-a-triz-analsysis/</link>
+      <pubDate>Mon, 27 Sep 2010 19:02:05 +0000</pubDate>
+      
+      <guid>http://trizindia.org/2010/09/search-party-is-over-for-google-a-triz-analsysis/</guid>
+      <description>Cross posting from TRIZ Journal Commentary
+   I posted a commentary on search engine and IFR of a search engine here a while back; as search engine has found a place in my TRIZ examples, I thought of giving a shot to this news article (Google: The party is over) appeared in Fortune recently through another TRIZ interpretation. While I wouldn&amp;#8217;t state that Google is struggling to find the next innovation, statement like slowing down their core business of search is certainly intriguing me especially when some data points are given by the authors from their research.</description>
+    </item>
+    
+    <item>
+      <title>UNIVERSAL PROBLEM HAVE TO BE SOLVED INVENTIVLY</title>
+      <link>http://trizindia.org/2010/09/universal-problem-have-to-be-solved-inventivly/</link>
+      <pubDate>Sat, 25 Sep 2010 06:00:00 +0000</pubDate>
+      
+      <guid>http://trizindia.org/2010/09/universal-problem-have-to-be-solved-inventivly/</guid>
+      <description>Dear members
+This is my first contribution ,I have a problem and I hope all members share me for generating solutions using triz tools.
+The problem is &amp;#8221; Olders get double fracture due to Sudden fall&amp;#8221;
+Older need to move freely and at the time of fall ,he/she should be protected from any Fracture or pain
+wating for your ideas &amp;#8230;&amp;#8230;&amp;#8230;
+NOTE : I posted this problem in TRIZ for problem solving group and I post the problem here as per mr.</description>
+    </item>
+    
+    <item>
+      <title>Two TRIZ India Summit 2010 Papers featured on AITRIZ this month!</title>
+      <link>http://trizindia.org/2010/09/two-triz-india-summit-2010-papers-featured-on-aitriz-this-month/</link>
+      <pubDate>Sat, 18 Sep 2010 11:30:00 +0000</pubDate>
+      
+      <guid>http://trizindia.org/2010/09/two-triz-india-summit-2010-papers-featured-on-aitriz-this-month/</guid>
+      <description>Two TRIZ India Summit 2010 papers are featured on this month&amp;#8217;s AITRIZ edition of Inside TRIZ, as a follow-up of Crafitti&amp;#8217;s strategic partnership with AI for TRIZ India Summit.
+       Enhancing Air Safety for Pilots and ATC using TRIZ, A.K.Dhamija, K. Ramachandran, Divya Gautam, DRDO http://www.aitriz.org/articles/InsideTRIZ/323031303039695452495A.pdf   Determining Qualitative Parameters Using TRIZ for Estimating IP Value of Intangibles, Pinaki Ghosh, Subhadip Sarkar, Prasanna C.</description>
+    </item>
+    
+    <item>
+      <title>Product Design: For those who believe beyond Obvious!</title>
+      <link>http://trizindia.org/2010/09/product-design-for-those-who-believe-beyond-obvious/</link>
+      <pubDate>Fri, 10 Sep 2010 11:30:00 +0000</pubDate>
+      
+      <guid>http://trizindia.org/2010/09/product-design-for-those-who-believe-beyond-obvious/</guid>
+      <description>Product : A new perspective
+   Lets me start with the question before going on to principles (not techniques) of product design
+ What is meant by the successful product?
+ I talked to few people around and recieved the following consistent answers..
+1.A successful product is what organizes produces to earn profits
+2. A successful product is what customers wants and are ready to buy
+3.A successful product is what is designed with right tools and processes, with all operational aspects, voices of customers and potential failure modes</description>
+    </item>
+    
+    <item>
+      <title>Resource Furniture – Solving Physical Contradictions?</title>
+      <link>http://trizindia.org/2010/09/resource-furniture-solving-physical-contradictions/</link>
+      <pubDate>Fri, 10 Sep 2010 03:38:25 +0000</pubDate>
+      
+      <guid>http://trizindia.org/2010/09/resource-furniture-solving-physical-contradictions/</guid>
+      <description>The concept isn&amp;#8217;t new. The IKEA of world has done it a while back, and the classic TRIZ examples dated in 1960 has examples of same from Japan. But, this video is an interesting one, shows different options, and apart from all, the beauty associated with it, and for us, good examples of TRIZ techniques.     Physical Contradictions are considered as closest point of a completely new invention according to TRIZ.</description>
+    </item>
+    
+    <item>
+      <title>IFR at Google</title>
+      <link>http://trizindia.org/2010/09/ifr-at-google/</link>
+      <pubDate>Thu, 09 Sep 2010 08:17:31 +0000</pubDate>
+      
+      <guid>http://trizindia.org/2010/09/ifr-at-google/</guid>
+      <description>Thought I will share this snippet about IFR from Google.   Isak Bukhman while he was in Bangalore for the TRIZIN conference, declared that IFR has nothing Ideal or Final about it and I would add, it is possibly not a result of something as well.    Google operates this website called http://www.dataliberation.org/
+ &amp;#8220;with the singular goal to make it easier for users to move their data in and out of Google products&amp;#8220;</description>
+    </item>
+    
+    <item>
+      <title>On time and relationships</title>
+      <link>http://trizindia.org/2010/08/on-time-and-relationships/</link>
+      <pubDate>Mon, 30 Aug 2010 09:41:57 +0000</pubDate>
+      
+      <guid>http://trizindia.org/2010/08/on-time-and-relationships/</guid>
+      <description>No, I did not intend to start an alternate career in family counselling with this post. This post is on representation of time and relationships in SI. I have always had this difficulty, that both do not seem to fit in within any single tool.     Take for instance 9-Windows, while it is great to have your system in the middle and actually be able to see how it evolves over time (the X Axis) and look at all that happens around and inside, it is way too unclear when you want to represent any relationship between your present system with an element in the super-system future.</description>
+    </item>
+    
+    <item>
+      <title>Decoding DNA of Great Minds</title>
+      <link>http://trizindia.org/2010/08/decoding-dna-of-great-minds/</link>
+      <pubDate>Mon, 16 Aug 2010 15:30:36 +0000</pubDate>
+      
+      <guid>http://trizindia.org/2010/08/decoding-dna-of-great-minds/</guid>
+      <description>Mathematics to most of us is a subject to be hated and loved at the same time. On one hand, the enmity with mathematics is because we had to learn, memories a pattern / method taught to solve a problem in anticipation of the problems we might face in our real life when we are out in the world from our safe cocoons. Although I never applied math to my real life problems as they seem to be more complex to solve with the scant knowledge of mathematics I possess.</description>
+    </item>
+    
+    <item>
+      <title>trenDNA – Understanding Populations Better Than They Understand Themselves</title>
+      <link>http://trizindia.org/2010/08/trendna-understanding-populations-better-than-they-understand-themselves/</link>
+      <pubDate>Tue, 10 Aug 2010 04:18:07 +0000</pubDate>
+      
+      <guid>http://trizindia.org/2010/08/trendna-understanding-populations-better-than-they-understand-themselves/</guid>
+      <description>trenDNA_051067.doc
+It’s some time now that I haven&amp;#8217;t come up with something new for your grey matter. I mentioned to you about reading a book titled “trenDNA” ( Understanding Populations Better Than They Understand Themselves) &amp;#8211; a book by Darrell Mann and Yekta Ozozer. I finished reading it and now deeply diving down to explore the approach and hunt for the innovation challenge treasure .Here I am with a brief summary of trenDNA.</description>
+    </item>
+    
+    <item>
+      <title>Live Updates TRIZIN 2010 Bangalore</title>
+      <link>http://trizindia.org/2010/07/live-updates-trizin-2010-bangalore/</link>
+      <pubDate>Thu, 29 Jul 2010 04:00:00 +0000</pubDate>
+      
+      <guid>http://trizindia.org/2010/07/live-updates-trizin-2010-bangalore/</guid>
+      <description>Starting the day with explaining contradictions of Ganesha to Ellen and Isak
+Watch comments of this post for more live updates</description>
+    </item>
+    
+    <item>
+      <title>TRIZ – Merging Example</title>
+      <link>http://trizindia.org/2010/07/triz-merging-example/</link>
+      <pubDate>Mon, 26 Jul 2010 22:30:00 +0000</pubDate>
+      
+      <guid>http://trizindia.org/2010/07/triz-merging-example/</guid>
+      <description>Check out TabCandy (Watch the video).
+ http://www.azarask.in/blog/post/tabcandy/  Aza Raskin (Author of TabCandy &amp;#8211; His dad started the Macintosh project for Apple)
+http://en.wikipedia.org/wiki/Aza_Raskin  This is one of classic example of TRIZ &amp;#8211; Merging principle in actions  Surprising why it took such a long time to come up with such a basic idea  I guess that in general innovation/innovators come up with crude, complex, not-ready mashed up versions of ideas Then it is eventually refined leading to incremental innovations</description>
+    </item>
+    
+    <item>
+      <title>Altshuller, Science Fiction and TRIZ</title>
+      <link>http://trizindia.org/2010/06/altshuller-science-fiction-and-triz/</link>
+      <pubDate>Thu, 24 Jun 2010 05:20:21 +0000</pubDate>
+      
+      <guid>http://trizindia.org/2010/06/altshuller-science-fiction-and-triz/</guid>
+      <description>Altshuller not only classified inventions (based on study of patents), he also classified science fiction concepts, although in a slightly different manner! Not a surpise at all, after all inventions are science fiction till they become reality!
 
-&lt;p&gt;&lt;a href=&#34;http://www.tetris-project.org/index.php?option=com_docman&amp;task=cat_view&amp;gid=61&amp;Itemid=55&amp;lang=en&#34; target=&#34;_blank&#34;&gt;&lt;a href=&#34;http://www.tetris-project.org/index.php?option=com_docman&amp;amp;task=cat_view&amp;amp;gid=61&amp;amp;Itemid=55&amp;amp;lang=en&#34;&gt;http://www.tetris-project.org/index.php?option=com_docman&amp;amp;task=cat_view&amp;amp;gid=61&amp;amp;Itemid=55&amp;amp;lang=en&lt;/a&gt;&lt;/a&gt;&lt;/p&gt;
+ In order to study the mechanism of SF, it was necessary first of all to collect ideas scattered in thousands of works, to classify them, and then compile A Register of SF Ideas.</description>
+    </item>
+    
+    <item>
+      <title>Birthing Organisational Innovation Capabilities – Life Stages of a Butterfly</title>
+      <link>http://trizindia.org/2010/06/birthing-organisational-innovation-capabilities-life-stages-of-a-butterfly/</link>
+      <pubDate>Tue, 08 Jun 2010 11:20:16 +0000</pubDate>
+      
+      <guid>http://trizindia.org/2010/06/birthing-organisational-innovation-capabilities-life-stages-of-a-butterfly/</guid>
+      <description>http://innovationnukkad.blogspot.com/2010/05/birthing-organizational-innovation.html</description>
+    </item>
+    
+    <item>
+      <title>Meeting Systematic Innovation Guru Darrell Mann &amp; Thoughts of Rejuvenation</title>
+      <link>http://trizindia.org/2010/06/meeting-systematic-innovation-guru-darrell-mann-thoughts-of-rejuvenation-2/</link>
+      <pubDate>Tue, 08 Jun 2010 11:00:00 +0000</pubDate>
+      
+      <guid>http://trizindia.org/2010/06/meeting-systematic-innovation-guru-darrell-mann-thoughts-of-rejuvenation-2/</guid>
+      <description>http://innovationnukkad.blogspot.com/2010/05/meeting-systematic-innovation-guru.html</description>
+    </item>
+    
+    <item>
+      <title>Meeting Systematic Innovation Guru Darrell Mann &amp; Thoughts of Rejuvenation</title>
+      <link>http://trizindia.org/2010/06/meeting-systematic-innovation-guru-darrell-mann-thoughts-of-rejuvenation/</link>
+      <pubDate>Tue, 08 Jun 2010 11:00:00 +0000</pubDate>
+      
+      <guid>http://trizindia.org/2010/06/meeting-systematic-innovation-guru-darrell-mann-thoughts-of-rejuvenation/</guid>
+      <description>http://innovationnukkad.blogspot.com/2010/05/meeting-systematic-innovation-guru.html</description>
+    </item>
+    
+    <item>
+      <title>Innovation Internship using TRIZ</title>
+      <link>http://trizindia.org/2010/04/innovation-internship-using-triz/</link>
+      <pubDate>Mon, 12 Apr 2010 14:25:40 +0000</pubDate>
+      
+      <guid>http://trizindia.org/2010/04/innovation-internship-using-triz/</guid>
+      <description>Dear All,      I am now pursuing ‘Advanced Master in Innovative Design’ (AMID), at INSA-Strasbourg, France. Whole program thrust is totally on Invention Creation and Innovation Management in Company using TRIZ &amp; OTSM. The following is broad description of program. The course is delivered by 12 outstanding TRIZ &amp; OTSM experts. It has 413 hours formal Instruction. Prior to this I had excellent introduction on TRIZ in India by several TRIZ experts.</description>
+    </item>
+    
+    <item>
+      <title>My Article in the TRIZ Journal : ” TRIZ &amp; Fuel Saving Winglets”</title>
+      <link>http://trizindia.org/2010/04/my-article-in-the-triz-journal-triz-fuel-saving-winglets-2/</link>
+      <pubDate>Tue, 06 Apr 2010 17:56:05 +0000</pubDate>
+      
+      <guid>http://trizindia.org/2010/04/my-article-in-the-triz-journal-triz-fuel-saving-winglets-2/</guid>
+      <description>My article &amp;#8221; TRIZ &amp;amp; Fuel Saving Winglets&amp;#8221; is published in this month&amp;#8217;s issue of The TRIZ journal.
+I talked about &amp;#8220;Building Innovation Capability ; Process of Reverse Ideation&amp;#8221; in my last blog post which incidently was my 100th blog post, wherein I said, see a solution addreesing a problem &amp;amp; then go back and find out what, why, when, where, how of the problem to learn more about it. I found this as the best way to improve my own innovation quotient.</description>
+    </item>
+    
+    <item>
+      <title>My Article in the TRIZ Journal : ” TRIZ &amp; Fuel Saving Winglets”</title>
+      <link>http://trizindia.org/2010/04/my-article-in-the-triz-journal-triz-fuel-saving-winglets/</link>
+      <pubDate>Tue, 06 Apr 2010 17:56:05 +0000</pubDate>
+      
+      <guid>http://trizindia.org/2010/04/my-article-in-the-triz-journal-triz-fuel-saving-winglets/</guid>
+      <description>My article &amp;#8221; TRIZ &amp;amp; Fuel Saving Winglets&amp;#8221; is published in this month&amp;#8217;s issue of The TRIZ journal.
+I talked about &amp;#8220;Building Innovation Capability ; Process of Reverse Ideation&amp;#8221; in my last blog post which incidently was my 100th blog post, wherein I said, see a solution addreesing a problem &amp;amp; then go back and find out what, why, when, where, how of the problem to learn more about it. I found this as the best way to improve my own innovation quotient.</description>
+    </item>
+    
+    <item>
+      <title>Split Brain theory</title>
+      <link>http://trizindia.org/2010/03/split-brain-theory/</link>
+      <pubDate>Wed, 31 Mar 2010 04:40:35 +0000</pubDate>
+      
+      <guid>http://trizindia.org/2010/03/split-brain-theory/</guid>
+      <description>For the naysayers, here is the link that illustrates the split brain theory. This theory won Roger Sperry a Nobel Prize. such is the power of the split brain theory.
+What is the split brain theory ?
+There are 2 distinct functions in the brain &amp;#8211; logical and creative. Roger Sperry&amp;#8217;s experiments prove that logical (or commonly left hemisphere of the brain. For south paws, it is interchanged) thinking is associated with verbal, analytical, linguistic abilities.</description>
+    </item>
+    
+    <item>
+      <title>“Building Innovation Capability – Process of Reverse Ideation:”</title>
+      <link>http://trizindia.org/2010/03/building-innovation-capability-process-of-reverse-ideation/</link>
+      <pubDate>Thu, 25 Mar 2010 04:19:45 +0000</pubDate>
+      
+      <guid>http://trizindia.org/2010/03/building-innovation-capability-process-of-reverse-ideation/</guid>
+      <description>It gives me a pleasure to share 100th blog post of your blog “Innovation Nukkad” The post is about “Building Innovation Capability – Process of Reverse Ideation:”
+Following week I am going to share a case study I put up using the approached ilustrated here, so this post is for making a ground for you to appreciate the case study.
+Visit : http://innovationnukkad.blogspot.com for the post.
+Stay Connected.
+Love &amp;amp; Warm Regards,</description>
+    </item>
+    
+    <item>
+      <title>Light Weight Vs Heavy Weight</title>
+      <link>http://trizindia.org/2010/02/light-weight-vs-heavy-weight/</link>
+      <pubDate>Fri, 19 Feb 2010 17:54:46 +0000</pubDate>
+      
+      <guid>http://trizindia.org/2010/02/light-weight-vs-heavy-weight/</guid>
+      <description>decided to be fit this year and reduce my personal carbon footprint by introducing a bicycle in my daily life. I spent more money (considering this will be a worthy, onetime investment) than I would spend in a high class fitness center on this. This one is an imported bicycle, weighing about 5 -8 Kg (I heard there are cycles weigh just about 5 Kg!), and attracts lot of attention when I ride 🙂 As we all know, the reduced weight is an important aspect of racer bikes to provide enough comfort, speed, modularity etc to the rider, but the reduced weight is also a big problem in India for the high end cycle consumer base, and may be in many other countries too.</description>
+    </item>
+    
+    <item>
+      <title>TRIZ in Engineering colleges in India</title>
+      <link>http://trizindia.org/2010/02/triz-in-engineering-colleges-in-india/</link>
+      <pubDate>Mon, 15 Feb 2010 03:47:39 +0000</pubDate>
+      
+      <guid>http://trizindia.org/2010/02/triz-in-engineering-colleges-in-india/</guid>
+      <description>Hi
+This forum should try to introduce TRIZ in engineering college curriculam. TRIZ is being taght in Russia even in schools. We should be able to introduce it in Engineering graduation courses.
+Joseph</description>
+    </item>
+    
+    <item>
+      <title>Our Future Air Travel and Principle 16</title>
+      <link>http://trizindia.org/2010/01/our-future-air-travel-and-principle-16/</link>
+      <pubDate>Tue, 19 Jan 2010 16:33:41 +0000</pubDate>
+      
+      <guid>http://trizindia.org/2010/01/our-future-air-travel-and-principle-16/</guid>
+      <description>Airline business makes its revenue and in turn profit per seat per mile flown. Naturally it is in their best interest to put more seats in the aircraft and the airline manufacturers have to oblige to see that its customers remain profitable. From 31 inch it may be reduced in future to 25 inch to accommodate more passengers. I recollect Principle 16 Partial or Excessive Action which reads “ If exactly the right amount of action is hard to achieve , use “ slightly less” or “slightly more” of the action, to reduce or eliminate the problem”.</description>
+    </item>
+    
+    <item>
+      <title>Design for Tranquility</title>
+      <link>http://trizindia.org/2010/01/design-for-tranquility/</link>
+      <pubDate>Tue, 12 Jan 2010 16:39:18 +0000</pubDate>
+      
+      <guid>http://trizindia.org/2010/01/design-for-tranquility/</guid>
+      <description>Mumbai suburban trains are like Bhel Pots. They accommodate different ingredients of human personas making travelling as delicious as Mumbai Bhel. Some of the ingredients of this moving Bhel Pot are gamblers, readers, dozers, chanters, chatters, amateur singers &amp;amp; the grumblers (you can add your own to make it tastier).
+There are many types of grumblers who spice up this Bhel; one of them is the one who is victim of the falling luggage (“Luggage Slide” similar to a “Landside”).</description>
+    </item>
+    
+    <item>
+      <title>My Experiments with New Year Gadgets</title>
+      <link>http://trizindia.org/2010/01/my-experiments-with-new-year-gadgets/</link>
+      <pubDate>Fri, 01 Jan 2010 04:41:40 +0000</pubDate>
+      
+      <guid>http://trizindia.org/2010/01/my-experiments-with-new-year-gadgets/</guid>
+      <description>Hi,
+Wishing you &amp;amp; your family a very Happy, Prosperous, Peaceful, Successful and Innovative 2010.
+I have a new blog post : http://innovationnukkad.blogspot.com
+Lots of Love &amp;amp; Cheers for the Year
+Prashant</description>
+    </item>
+    
+    <item>
+      <title>International IPR Conference @ Bangalore</title>
+      <link>http://trizindia.org/2009/12/international-ipr-conference-bangalore/</link>
+      <pubDate>Tue, 22 Dec 2009 03:31:54 +0000</pubDate>
+      
+      <guid>http://trizindia.org/2009/12/international-ipr-conference-bangalore/</guid>
+      <description>ITAG is organizing a conference on IP Leveraging in Software, Electronics and Green Technology in co-operation with Sughrue Mion PLLC, a leading law firm in USA and Bangalore Chamber of Industry and Commerce as our co organizer.. The conference will be held on 29th -30th January 2010 at Hotel LaLiT Ashok, Bangalore. The main objective of this conference is to create IP awareness in the field of Software, Electronics Industry and in Green Technology.</description>
+    </item>
+    
+    <item>
+      <title>Both Hand Drive, Malishkagiri &amp; TRIZ</title>
+      <link>http://trizindia.org/2009/12/both-hand-drive-malishkagiri-triz-2/</link>
+      <pubDate>Tue, 15 Dec 2009 18:45:17 +0000</pubDate>
+      
+      <guid>http://trizindia.org/2009/12/both-hand-drive-malishkagiri-triz-2/</guid>
+      <description>Some TRIZ Humour
+http://innovationnukkad.blogspot.com</description>
+    </item>
+    
+    <item>
+      <title>Both Hand Drive, Malishkagiri &amp; TRIZ</title>
+      <link>http://trizindia.org/2009/12/both-hand-drive-malishkagiri-triz/</link>
+      <pubDate>Tue, 15 Dec 2009 18:45:17 +0000</pubDate>
+      
+      <guid>http://trizindia.org/2009/12/both-hand-drive-malishkagiri-triz/</guid>
+      <description>Some TRIZ Humour
+http://innovationnukkad.blogspot.com</description>
+    </item>
+    
+    <item>
+      <title>TRIZ Clinic at MindTree</title>
+      <link>http://trizindia.org/2009/12/triz-clinic-at-mindtree/</link>
+      <pubDate>Sat, 12 Dec 2009 12:27:46 +0000</pubDate>
+      
+      <guid>http://trizindia.org/2009/12/triz-clinic-at-mindtree/</guid>
+      <description>Wow!! quite some time since I caught up with TRIZ India. Lot of things going on in MindTree on the TRIZ front. Murali (also a TRIZ India member) and I came up with the concept of TRIZ Clinic.
+The Metaphor
+Basically, we added the metaphor of a clinic to the problem definition and solution. Picture this &amp;#8211; a patient would go to a doc for a checkup when they have a fever or a cough or one such ailment.</description>
+    </item>
+    
+    <item>
+      <title>Forkless Bicycle</title>
+      <link>http://trizindia.org/2009/11/forkless-bicycle/</link>
+      <pubDate>Sat, 21 Nov 2009 08:10:50 +0000</pubDate>
+      
+      <guid>http://trizindia.org/2009/11/forkless-bicycle/</guid>
+      <description>This is an excellent invention by a designer. It is a bicycle without the front fork.
+By removing the assumption that a front fork is necessary he forced himself to think of other ways to control the bicycle.[
 
-&lt;p&gt;BTW, you can also check out &lt;a title=&#34;Tetris Project&#34; href=&#34;http://www.tetris-project.org&#34; target=&#34;_blank&#34;&gt;&lt;a href=&#34;http://www.tetris-project.org&#34;&gt;http://www.tetris-project.org&lt;/a&gt;&lt;/a&gt;. (A fun way to learn TRIZ. This project was headed by another colleague of mine, &lt;a href=&#34;it.linkedin.com/pub/gaetano-cascini/0/666/69&#34; target=&#34;_blank&#34;&gt;Prof. Gaetano Cascini&lt;/a&gt;)&lt;/p&gt;
-
-&lt;p&gt;For the next post, I&amp;#8217;ll talk about the project that I am working on currently in Milan..&lt;/p&gt;
-</description>
+&amp;#8221; target=&amp;#8221;_blank&amp;#8221;&amp;gt;]1</description>
+    </item>
+    
+    <item>
+      <title>Standard Solutions</title>
+      <link>http://trizindia.org/2009/11/standard-solutions/</link>
+      <pubDate>Fri, 13 Nov 2009 20:25:31 +0000</pubDate>
+      
+      <guid>http://trizindia.org/2009/11/standard-solutions/</guid>
+      <description>Hi, We are trying to make an innovative design for a wheelchair and we have identified some physical contradictions. We are trying to find some references about the standard solutions of TRIZ . Anyone has an idea where to find them?
+Thanks in advanced
+Adrian</description>
+    </item>
+    
+    <item>
+      <title>Free Book on Creativity and Innovation</title>
+      <link>http://trizindia.org/2009/11/free-book-on-creativity-and-innovation/</link>
+      <pubDate>Fri, 13 Nov 2009 13:40:05 +0000</pubDate>
+      
+      <guid>http://trizindia.org/2009/11/free-book-on-creativity-and-innovation/</guid>
+      <description>Free Book on Creativity and Innovation
+My name is Mark L. Fox and I am author and leading authority on teaching practical creative thinking techniques for business. At age 31, I was the youngest person with the title of Chief Engineer on the Space Shuttle Program.
+My latest book “Da Vinci and the 40 Answers”, A Playbook for Creativity and Fresh Ideas has been getting great reviews.
+I just wanted to let you know that I have decided to provide the entire book for free in electronic (PDF) format.</description>
+    </item>
+    
+    <item>
+      <title>TRIZ-Sequential or Systematic?</title>
+      <link>http://trizindia.org/2009/11/triz-sequential-or-systematic/</link>
+      <pubDate>Thu, 12 Nov 2009 12:00:37 +0000</pubDate>
+      
+      <guid>http://trizindia.org/2009/11/triz-sequential-or-systematic/</guid>
+      <description>We had Shankar visiting us at Bangalore last month. One of the activities that we did while he was here was without getting into any technique-terminology of TRIZ is it possible for some one to use TRIZ?
+We took one sample problem from the IT industry context about a web site experience. While we were doing this I was actively applying TRIZ techniques without deliberately naming it. As a note of thanks to Shankar I created a visual representation of what we did that day.</description>
+    </item>
+    
+    <item>
+      <title>Indian Mythology and TRIZ</title>
+      <link>http://trizindia.org/2009/11/indian-mythology-and-triz/</link>
+      <pubDate>Wed, 11 Nov 2009 09:19:29 +0000</pubDate>
+      
+      <guid>http://trizindia.org/2009/11/indian-mythology-and-triz/</guid>
+      <description>Stories feeds our pattern searching mind surely and so we all love stories as it feeds us with to find patterns.
+One thing is sure about India (I am no longer dead sure about other things after knowing little bit of TRIZ as I remain most of the time in defining problem &amp;#8230; so rarely reach judgment part !!!), It has lots of stories and great ones. Ramayana, Mahabharata&amp;#8230; endless ones.</description>
+    </item>
+    
+    <item>
+      <title>Can this be Innovation?</title>
+      <link>http://trizindia.org/2009/11/can-this-be-innovation/</link>
+      <pubDate>Wed, 11 Nov 2009 09:09:55 +0000</pubDate>
+      
+      <guid>http://trizindia.org/2009/11/can-this-be-innovation/</guid>
+      <description>I had recently been to a star hotel in Chennai
+(Name not revealed as it a public blog)
+This was where I was staying when attending a workshop
+The hotel room was good but what triggered me the most was the shower
+It took me close to 10-15 mins to know how to operate it
+And operating it left water spraying from all different unexpected corners
+How does one identify function of each of the ten knobs?</description>
+    </item>
+    
+    <item>
+      <title>Design for Wow</title>
+      <link>http://trizindia.org/2009/10/design-for-wow/</link>
+      <pubDate>Fri, 30 Oct 2009 11:30:00 +0000</pubDate>
+      
+      <guid>http://trizindia.org/2009/10/design-for-wow/</guid>
+      <description>Have you ever seen a new innovation, heard some music or looked at some art and uncontrollably said’ WoW’?
+If so, then please click here: www.DesignForWow.
+You may also like to see our survey of over 30 creative and problem solving techniques which may have helped develop the WoW
+(Death by a Million Tools).
+What ever you do, please rate our WoW examples AND add your own. We want to hear what you think.</description>
+    </item>
+    
+    <item>
+      <title>Food for Hungry Appetite; Ideas for Hungry Mind</title>
+      <link>http://trizindia.org/2009/10/food-for-hungry-appetite-ideas-for-hungry-mind/</link>
+      <pubDate>Thu, 29 Oct 2009 17:03:27 +0000</pubDate>
+      
+      <guid>http://trizindia.org/2009/10/food-for-hungry-appetite-ideas-for-hungry-mind/</guid>
+      <description>It is customary these days to eat out on a pre-diwali day with colleagues and this Diwali was no exception. This year we visited Delhi Durbar, a famous restaurant in Colaba, downtown Mumbai. The first impression of the restaurant was that of a cramped space (what can you expect in downtown Mumbai) but after inflowing inside I felt it was also roomy (Roomy, cramped are all relative terms so your opinion may differ).</description>
+    </item>
+    
+    <item>
+      <title>CRAFITTI is Looking for Engineers and Scientists – Come and join us to create the Innovation based future</title>
+      <link>http://trizindia.org/2009/10/crafitti-is-looking-for-engineers-and-scientists-come-and-join-us-to-create-the-innovation-based-future/</link>
+      <pubDate>Thu, 29 Oct 2009 04:11:48 +0000</pubDate>
+      
+      <guid>http://trizindia.org/2009/10/crafitti-is-looking-for-engineers-and-scientists-come-and-join-us-to-create-the-innovation-based-future/</guid>
+      <description>Advertisement – Invention &amp;amp; Patent Analyst (Trainee)
+Crafitti Consulting Pvt. Limited (http://www.crafitti.com) is looking for Invention &amp;amp; Patent Analyst Trainees with 0-2 years experience with following minimum qualification – BE/BTech (Chemical, Mechanical, Electrical, Computer Science, Bio-medical) or M.Sc (Chemistry, Electronics, biochemistry, etc).
+Selected candidates will go through a comprehensive training course for one year as detailed below:
+(a) 0-3 months: Training and Certification as Invention Analyst (No Stipend)
+(b) 4-6 months: Application in live assignments (with stipend)</description>
+    </item>
+    
+    <item>
+      <title>TRIZ – A Contradiction</title>
+      <link>http://trizindia.org/2009/10/triz-a-contradiction/</link>
+      <pubDate>Wed, 28 Oct 2009 04:33:50 +0000</pubDate>
+      
+      <guid>http://trizindia.org/2009/10/triz-a-contradiction/</guid>
+      <description>I was seeing through some of the slides that Shankar had so kindly shared and also the Videos that Prakasan had shared about Altshuller giving sessions on TRIZ
+It set me thinking on one strange line of thought, that even TRIZ was A contradiction
+The contradiction being that
+We want Breakthrough innovations and making
+it systematic and reachable and doable to everyone just makes the final
+idea that is generated not &amp;#8220;WOW&amp;#8221; enough or thrilling enough</description>
+    </item>
+    
+    <item>
+      <title>Why don’t we innovate?</title>
+      <link>http://trizindia.org/2009/10/why-dont-we-innovate/</link>
+      <pubDate>Fri, 16 Oct 2009 09:21:55 +0000</pubDate>
+      
+      <guid>http://trizindia.org/2009/10/why-dont-we-innovate/</guid>
+      <description>The &amp;#8216;we&amp;#8217; in the question refers to the Indian IT industry.
+I know there are people out there who would find this question offensive; but frankly that&amp;#8217;s not the intention.
+We had someone coming over to present a Capability Maturity model for innovation at our office. It had a staged representation, similar to CMM, which organizations could adopt to become more innovative. True, lot of effort was put in to that.</description>
+    </item>
+    
+    <item>
+      <title>Remembering Altshuller – Father of TRIZ</title>
+      <link>http://trizindia.org/2009/10/remembering-altshuller-father-of-triz/</link>
+      <pubDate>Wed, 14 Oct 2009 20:58:26 +0000</pubDate>
+      
+      <guid>http://trizindia.org/2009/10/remembering-altshuller-father-of-triz/</guid>
+      <description>I was introduced to TRIZ 4 years back, when I attended Darrell Mann’s course at IIT Mumbai. It was a great feeling at the conclusion of a two day course and I had a great satisfaction to have been introduced to something different which seems to have disrupted my learning curve. I was fortunate that I have been asked to further develop on it by my seniors at Mahindra and I started voraciously mining the literature on the subject.</description>
+    </item>
+    
+    <item>
+      <title>Diwali Innovation</title>
+      <link>http://trizindia.org/2009/10/diwali-innovation/</link>
+      <pubDate>Sun, 11 Oct 2009 15:55:23 +0000</pubDate>
+      
+      <guid>http://trizindia.org/2009/10/diwali-innovation/</guid>
+      <description>Many times we come across unique artefacts, incidences, appreciate innovativeness of it at that very moment, but loose it like sea sand afterwards, not capturing its essence. Such incidences many times serve as “Innovation Boosters”, but they lay hidden deep in our pattern oriented brain and require external stimulus to bring it to the surface again. TRIZ provides a good external stimulus by way of analogy to excavate this hidden treasure.</description>
+    </item>
+    
+    <item>
+      <title>Problem redefinition paper</title>
+      <link>http://trizindia.org/2009/10/problem-redefinition-paper/</link>
+      <pubDate>Sun, 11 Oct 2009 04:11:14 +0000</pubDate>
+      
+      <guid>http://trizindia.org/2009/10/problem-redefinition-paper/</guid>
+      <description>Hi everyone. We are a group of lecturers learning about TRIZ, we have stuck in a concept names &amp;#8220;Problem Redefinition&amp;#8221; from CREAX software. The reason to write in thie blog is to know if anyone knows about a paper or reference which might help us to clarify this concept?
+Thanks in advanced
+Adrian</description>
+    </item>
+    
+    <item>
+      <title>1 second billing: Telecom Trends</title>
+      <link>http://trizindia.org/2009/10/1-second-billing-telecom-trends/</link>
+      <pubDate>Tue, 06 Oct 2009 06:11:22 +0000</pubDate>
+      
+      <guid>http://trizindia.org/2009/10/1-second-billing-telecom-trends/</guid>
+      <description>Yesterday there was this announcement from TRAI (Telecom Regulatory Authority of India) that it may go on to make per second billing mandatory across all operators.
+Currently this feature is a market differentiator, that only TATA DOCOMO offers such a billing of call on a per second basis.
+Why do we need to watch this trend, because if all operators adopt this there will be a revenue reduction of 10% in the sector.</description>
+    </item>
+    
+    <item>
+      <title>TRIZ Solving Pet Problems</title>
+      <link>http://trizindia.org/2009/09/triz-solving-pet-problems/</link>
+      <pubDate>Wed, 30 Sep 2009 17:19:37 +0000</pubDate>
+      
+      <guid>http://trizindia.org/2009/09/triz-solving-pet-problems/</guid>
+      <description>Those who own a pet, especially a dog will appreciate with what I am saying. It’s a demanding job to take your pet out for his routine every morning. He may be feeling relieved watering few electric poles but his “street” smart buddies do not take pleasure in his act &amp;amp; consider it an offense committed in their own terrain. They envy cozy life your pet enjoys and therefore start barking endlessly at him and indirectly at you; after all, you are the reason for his comfort.</description>
+    </item>
+    
+    <item>
+      <title>TRIZ and SIx Sigma live broadcast Sept. 30</title>
+      <link>http://trizindia.org/2009/09/triz-and-six-sigma-live-broadcast-sept-30/</link>
+      <pubDate>Tue, 29 Sep 2009 18:48:28 +0000</pubDate>
+      
+      <guid>http://trizindia.org/2009/09/triz-and-six-sigma-live-broadcast-sept-30/</guid>
+      <description>Event details. The timing is perfect for participation from TRIZIndia&amp;#8211;this is a live internet &amp;#8220;radio&amp;#8221; broadcast on TRIZ and Six Sigma (or any improvement method.) You can participate now, or listen/download later&amp;#8211;which is better learning AND more fun? Thanks in advance!</description>
+    </item>
+    
+    <item>
+      <title>New (Free) Books</title>
+      <link>http://trizindia.org/2009/09/new-free-books/</link>
+      <pubDate>Tue, 29 Sep 2009 18:43:44 +0000</pubDate>
+      
+      <guid>http://trizindia.org/2009/09/new-free-books/</guid>
+      <description>I just got this announcement from Larry Ball about the latest from his consortium of authors:
+_Just wanted to let you know that another book is available on http://www.opensourcetriz.comThe name of the book is “Job 4—Simplifying”. It regards tools for simplifying or overhauling a system. The download is also free. A for-pay trade paperback will be available in a couple of weeks._
+My advice is that if you don&amp;#8217;t have &amp;#8220;Job 5&amp;#8211;Problem Solving&amp;#8221; you should get both.</description>
+    </item>
+    
+    <item>
+      <title>Analogical Chemistry – Learning Can be Made Fun</title>
+      <link>http://trizindia.org/2009/09/analogical-chemistry-learning-can-be-made-fun/</link>
+      <pubDate>Sat, 19 Sep 2009 12:23:57 +0000</pubDate>
+      
+      <guid>http://trizindia.org/2009/09/analogical-chemistry-learning-can-be-made-fun/</guid>
+      <description>Chemistry can be boring, if one’s chemistry with it is poor. The option then is to
+accept without understanding what is written, memorize &amp;amp; score marks to have
+better career prospects. . After all atomic theory was not invented by us.
+We merely accepted it.
+I was teaching my daughter a lesson in Chemistry and the topic was “Chemical
+BONDS”. Since I left school, the only BOND I thought I knew was James Bond; I</description>
+    </item>
+    
+    <item>
+      <title>TRIZ In Films – Ideas for Fooling “FILMI GHOST”</title>
+      <link>http://trizindia.org/2009/09/triz-in-films-ideas-for-fooling-filmi-ghost/</link>
+      <pubDate>Sat, 12 Sep 2009 15:55:17 +0000</pubDate>
+      
+      <guid>http://trizindia.org/2009/09/triz-in-films-ideas-for-fooling-filmi-ghost/</guid>
+      <description>Traveling 4 ½ hrs sitting on the last seat of a 25 seater bus, cramped &amp;amp; clamped is a nightmare. Some of you may empathize with me. My Mumbai- Nasik Return journey perfectly fits this case. In order to dampen this torture, smart transporters, like the one we have here, provide video facility &amp;amp; play latest hits. In TRIZ terms this is called innovation by transition to a super system (Video, films, latest hits etc).</description>
+    </item>
+    
+    <item>
+      <title>5*(5Ws and 1H)</title>
+      <link>http://trizindia.org/2009/09/55ws-and-1h/</link>
+      <pubDate>Mon, 07 Sep 2009 06:55:43 +0000</pubDate>
+      
+      <guid>http://trizindia.org/2009/09/55ws-and-1h/</guid>
+      <description>Before one gets into contradiction mapping, one needs to find out (5Ws and 1H)
+ Who? Who was involved?
+ What? What happened (what&amp;#8217;s the story)?
+ When? When did it take place?
+ Where? Where did it take place?
+ Why? Why did it happen?
+ How? How did it happen?
+  Treating this like a mathematical equation
+we have
+Big picture=5W+1H
+Toyota came up with the principle &amp;#8211; 5 Whys for problem definition and analysis.</description>
+    </item>
+    
+    <item>
+      <title>Battery Electrode climbs first rung of the Dynamization evolution ladder</title>
+      <link>http://trizindia.org/2009/09/battery-electrode-climbs-first-rung-of-the-dynamization-evolution-ladder/</link>
+      <pubDate>Sun, 06 Sep 2009 07:02:37 +0000</pubDate>
+      
+      <guid>http://trizindia.org/2009/09/battery-electrode-climbs-first-rung-of-the-dynamization-evolution-ladder/</guid>
+      <description>As a materials scientist, I constantly look for breakthrough in new materials that enable technology to move up the evolutionary curve. I present here two recent materials innovation that enable cleaner batteries. The electrode of the battery is conventionally a rigid solid &amp;#8211; but this is no longer true.
+(a) MIT invent ecofriendly 100%-liquid battery
+http://www.greenoptimistic.com/2009/03/08/mit-liquid-battery/?wscr=1280&amp;amp;#215;800
+What you see in the image is a liquid battery, everything in it is liquid.</description>
+    </item>
+    
+    <item>
+      <title>Evolution of a Book</title>
+      <link>http://trizindia.org/2009/09/evolution-of-a-book/</link>
+      <pubDate>Thu, 03 Sep 2009 17:42:32 +0000</pubDate>
+      
+      <guid>http://trizindia.org/2009/09/evolution-of-a-book/</guid>
+      <description>So, this must be something you have already seen in the news. ‘Digi-Novel’ Will Include Book, Video, Web
+If there is one thing which has been around for centuries without much of an evolution is a book. While the process of manufacturing, papers, inks, machines etc would have gone through multiple S-curves, book is a book has been around as it is.
+After reading this news, I was wondering if we are going to see a new S-curve in the evolution of a book.</description>
+    </item>
+    
+    <item>
+      <title>Happy Birthday, Jacko!!!</title>
+      <link>http://trizindia.org/2009/08/happy-birthday-jacko/</link>
+      <pubDate>Sun, 30 Aug 2009 06:30:00 +0000</pubDate>
+      
+      <guid>http://trizindia.org/2009/08/happy-birthday-jacko/</guid>
+      <description>I pay tribute to my teen idol on his birthday and what I find that Jacko and I have something in common. He is an inventor dude as well!
+Yes, Michael Jackson has a US patent issued to his name!!! Have you have seen his video &amp;#8220;Smooth Criminal&amp;#8221; or atleast this &amp;#8220;leaning&amp;#8221; position? This is his invention. What&amp;#8217;s interesting is the prior art in the patent. One of the prior art cited is from a space application where an astronaut in zero gravity conditions can benefit out of this.</description>
+    </item>
+    
+    <item>
+      <title>12 Windows for a Project Manager and 6 Faithful Serving Men</title>
+      <link>http://trizindia.org/2009/08/12-windows-for-a-project-manager-and-6-faithful-serving-men/</link>
+      <pubDate>Wed, 26 Aug 2009 13:00:00 +0000</pubDate>
+      
+      <guid>http://trizindia.org/2009/08/12-windows-for-a-project-manager-and-6-faithful-serving-men/</guid>
+      <description>I was attending a workshop on Project Management (yes you heard it right). I wanted to brush up my PM knowledge after working as a “consultant” for few years, and also look at the new dimension of effective PM using systematic thinking methods, especially simple TRIZ tools. I set my expectation before attending this program that the Project Management Body of Knowledge would have embraced something different to say the PM BOK (Body of Knowledge) is evolving, and the session is going to teach me something new, such as using techniques for effective Project Planning.</description>
+    </item>
+    
+    <item>
+      <title>On Cloud 9 – the ideal cloud</title>
+      <link>http://trizindia.org/2009/08/on-cloud-9-the-ideal-cloud/</link>
+      <pubDate>Tue, 25 Aug 2009 03:00:30 +0000</pubDate>
+      
+      <guid>http://trizindia.org/2009/08/on-cloud-9-the-ideal-cloud/</guid>
+      <description>The trigger for this mini blog post is
+http://www.capgemini.com/ctoblog/2009/06/the_ideality_of_the_cloud.php
+Nice article on cloud computing. IFR for people stuck with an operating system (Linux or Windows) is no OS, but still we need the email, the apps and other functions.
+So what is IFR for the cloud ? one that waters your plants, but doesnt exist.. 🙂 one that will rain, but not block light.
+in the virtual world, one that lets me communicate with my friends/clients/customers without anyone else listening in.</description>
+    </item>
+    
+    <item>
+      <title>TRIZ – key learning resources</title>
+      <link>http://trizindia.org/2009/08/triz-key-learning-resources/</link>
+      <pubDate>Thu, 20 Aug 2009 07:17:36 +0000</pubDate>
+      
+      <guid>http://trizindia.org/2009/08/triz-key-learning-resources/</guid>
+      <description>Are you new to TRIZ &amp;#8211; are you wondering where to begin &amp;#8211; here are a few resources that you could look at:
+TRIZ Books
+Altshuller, Genrich (1973). Innovation Algorithm. Worcester, MA: Technical Innovation Center. ISBN 0-9640740-2-8.
+Altshuller, Genrich (1984). Creativity as an Exact Science. New York, NY: Gordon &amp;amp; Breach. ISBN 0-677-21230-5.
+Altshuller, Genrich (1994). And Suddenly the Inventor Appeared. translated by Lev Shulyak. Worcester, MA: Technical Innovation Center. ISBN 0-9640740-1-X.</description>
+    </item>
+    
+    <item>
+      <title>Solution for the last mile problem – Successful innovation ideas</title>
+      <link>http://trizindia.org/2009/08/solution-for-the-last-mile-problem-successful-innovation-ideas/</link>
+      <pubDate>Fri, 14 Aug 2009 06:00:00 +0000</pubDate>
+      
+      <guid>http://trizindia.org/2009/08/solution-for-the-last-mile-problem-successful-innovation-ideas/</guid>
+      <description>The success and failure of innovation is overly discussed. Just do a google (or binging) around, and you will be directed to zillions of articles with advices and experiences listed out with &amp;#8220;n&amp;#8221; factors of success and failure of innovations. However, have you ever noticed the success of innovation some time is really dependent on solving the “last mile problem”?
+Consider the innovations happening in the alternative fueled cars, especially Electric Vehicles.</description>
+    </item>
+    
+    <item>
+      <title>Economic impact of increased US savings – Contradiction and opportunities?</title>
+      <link>http://trizindia.org/2009/08/economic-impact-of-increased-us-savings-contradiction-and-opportunities/</link>
+      <pubDate>Tue, 11 Aug 2009 11:30:43 +0000</pubDate>
+      
+      <guid>http://trizindia.org/2009/08/economic-impact-of-increased-us-savings-contradiction-and-opportunities/</guid>
+      <description>An article published by McKinsey (March ’09) quarterly shows this interesting (to me at least) study on the increasing US consumer savings in the last couple of quarters. Well, in a time when we see the bad news all around, the tendency for the rest of us earning are naturally towards saving it for the rainy day ahead. Apparently this article also put some lights on the debt Vs income ratio and justifies the reason behind this savings trend.</description>
+    </item>
+    
+    <item>
+      <title>Commitment versus Compliance: A TRIZ Contradiction</title>
+      <link>http://trizindia.org/2009/08/commitment-versus-compliance-a-triz-contradiction/</link>
+      <pubDate>Tue, 11 Aug 2009 08:55:20 +0000</pubDate>
+      
+      <guid>http://trizindia.org/2009/08/commitment-versus-compliance-a-triz-contradiction/</guid>
+      <description>Part 1
+Case 1
+Imagine this situation where you put together a bunch of mandates at various levels of management, till it reaches the last employee on knowledge capture or learning. May be you can just make a random metric based on contributions (you could complicate it by adding usage, pass through, linking, commenting, etc) to your organization’s knowledge base and give sufficient room to game for employees to have fun which anyway will happen!</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://trizindia.org/wp-content/uploads/bp-attachments/0/test/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://trizindia.org/wp-content/uploads/bp-attachments/0/test/</guid>
+      <description>This is a test of the Protected Attachment feature of BuddyPress Docs. Please do not remove.</description>
     </item>
     
   </channel>
