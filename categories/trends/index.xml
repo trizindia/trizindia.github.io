@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Trends on TRIZ Innovation India</title>
-    <link>http://trizindia.org/categories/trends/</link>
+    <link>https://trizindia.org/categories/trends/</link>
     <description>Recent content in Trends on TRIZ Innovation India</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 20 Jun 2013 06:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://trizindia.org/categories/trends/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://trizindia.org/categories/trends/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>What Drives Battery Evolution?</title>
-      <link>http://trizindia.org/2013/06/what-drives-battery-evolution/</link>
+      <link>https://trizindia.org/2013/06/what-drives-battery-evolution/</link>
       <pubDate>Thu, 20 Jun 2013 06:00:00 +0000</pubDate>
       
-      <guid>http://trizindia.org/2013/06/what-drives-battery-evolution/</guid>
+      <guid>https://trizindia.org/2013/06/what-drives-battery-evolution/</guid>
       <description>Hi Innovators,
 I was reading about battery as one of the key barriers for mobile technology evolution. The capacity of battery has increased only 2 times in last 10 years whereas processing speed has gone 12 folds up. Here is a graph I came across showing Battery evolution with time.
  I am just wondering, what is actually changing over time. Does it follow the TRIZ laws of technology evolution? At least two major trends I know</description>
@@ -24,20 +24,20 @@ I was reading about battery as one of the key barriers for mobile technology evo
     
     <item>
       <title>EMC Trends 2013 TRIZ overlay</title>
-      <link>http://trizindia.org/2012/12/emc-trends-2013-triz-overlay/</link>
+      <link>https://trizindia.org/2012/12/emc-trends-2013-triz-overlay/</link>
       <pubDate>Thu, 13 Dec 2012 12:09:05 +0000</pubDate>
       
-      <guid>http://trizindia.org/2012/12/emc-trends-2013-triz-overlay/</guid>
+      <guid>https://trizindia.org/2012/12/emc-trends-2013-triz-overlay/</guid>
       <description>As eleven EMC executives offer their predictions of which technologies and trends will transform cloud computing, Big Data and IT security the most in 2013, my aim is to find the underlying triz trend and possibly push one more evolution round. I assume a time frame of 1 year, basis is 8 TRIZ evolution trends applied to Mobile, applied on EMC executives predictions.
  Prediction quote (emphasis and few links are mine)  My warped explanation of the underlying TRIZ trend  What can happen next on this trend    an intelligence-driven security model…will require multiple components including: a thorough understanding of risk, the use of agile controls based on pattern recognition and predictive analytics, and the use of big data analytics to give context to vast streams of data from numerous sources to produce timely, actionable information  Law of completeness exemplified with the ENGINE understood as risks and risk related information originating across the board with a TRANSMISSION visualized as streams of information flowing to WORKING UNIT where actions are initiated from the information to contain risks and its effects and having some CONTROL on the above elements including analytics Law of uneven development on above will mean the 4 elements will evolve in different speeds.</description>
     </item>
     
     <item>
       <title>Infinte Resources: A Drive for Evolution</title>
-      <link>http://trizindia.org/2012/11/infinte-resources-a-drive-for-evolution/</link>
+      <link>https://trizindia.org/2012/11/infinte-resources-a-drive-for-evolution/</link>
       <pubDate>Thu, 29 Nov 2012 14:30:00 +0000</pubDate>
       
-      <guid>http://trizindia.org/2012/11/infinte-resources-a-drive-for-evolution/</guid>
+      <guid>https://trizindia.org/2012/11/infinte-resources-a-drive-for-evolution/</guid>
       <description>If Evolution is continous then resources must be infinite. Othewise Evolution should stop at some economic juncture.
 Let&amp;#8217;s take an example using a simple economic analysis. Let&amp;#8217;s say If we are left with only 100 units of energy in universe. Making it simple , let&amp;#8217;s say 100 units of petrol.  Here are few assumptions
 #Let&amp;#8217;s say 40 units are required to covert to electric car.
@@ -46,10 +46,10 @@ Let&amp;#8217;s take an example using a simple economic analysis. Let&amp;#8217
     
     <item>
       <title>8 TRIZ evolution trends applied to Mobile</title>
-      <link>http://trizindia.org/2012/10/8-triz-evolution-trends-applied-to-mobile/</link>
+      <link>https://trizindia.org/2012/10/8-triz-evolution-trends-applied-to-mobile/</link>
       <pubDate>Wed, 03 Oct 2012 04:57:14 +0000</pubDate>
       
-      <guid>http://trizindia.org/2012/10/8-triz-evolution-trends-applied-to-mobile/</guid>
+      <guid>https://trizindia.org/2012/10/8-triz-evolution-trends-applied-to-mobile/</guid>
       <description>Cross posting from http://trizindia.wordpress.com/2012/10/01/8-triz-evolution-trends-applied-to-mobile/
 This was a long pending post, originally to be delivered as a pod cast, but we never got around to doing it. The core idea was to take a commonly used system like a smart phone, apply the 8 evolution trends of TRIZ and exemplify them. For a brief introduction on the trends go here, I would love to see other resources from the readers as well.</description>
     </item>
